@@ -24,10 +24,17 @@ export function getFileName(path: string): string {
 export function getRelativePathFrom(fullPath: string, directoryName: string): string {
     const normalized = fullPath.replace(/\\/g, '/')
     const lowerPath = normalized.toLowerCase()
-    const lowerDir = `/${directoryName.toLowerCase()}/`
-    const index = lowerPath.indexOf(lowerDir)
+    // Normalize directoryName by removing leading/trailing slashes
+    const dir = directoryName.replace(/\\/g, '/').replace(/^\/+|\/+$/g, '').toLowerCase()
+    const pattern = `/${dir}/`
+    let index = lowerPath.indexOf(pattern)
+    // If not found, maybe the path starts with the directory without a leading slash
+    if (index === -1 && lowerPath.startsWith(`${dir}/`)) {
+        index = 0
+    }
     if (index === -1) {
         throw new Error(`Directory '${directoryName}' not found in path '${fullPath}'`)
     }
-    return normalized.substring(index)
+    // Return relative path without a leading slash
+    return index === 0 ? normalized.substring(0) : normalized.substring(index + 1)
 }
