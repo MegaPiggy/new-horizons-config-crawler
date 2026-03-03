@@ -2,22 +2,34 @@ import { access, mkdir, readdir, readFile, writeFile } from "node:fs/promises"
 import type { AnalysisContext } from "./context.ts"
 import JSON5 from "json5"
 
-export async function loadModsFromCache(ctx: AnalysisContext) {
-    console.log('Loading mods from local cache...')
+export async function loadModsFromCache(ctx: AnalysisContext, externalRootDir?: string) {
+    const modSource = externalRootDir ? 'external' : 'local'
+    console.log(`Loading mods from ${modSource} cache...`)
     
-    const modCacheRootDir = `${process.cwd()}/mod-cache`
-    await mkdir(modCacheRootDir, { recursive: true })
+    const modCacheRootDir = externalRootDir ?? `${process.cwd()}/mod-cache`
+    // Only create the local cache root; external roots should not be created/modified
+    if (!externalRootDir) await mkdir(modCacheRootDir, { recursive: true })
 
     // Loop through mod-cache directory and load all cached mod metadata files into in-memory caches
     const modUniqueNames = await readdir(modCacheRootDir)
     for (const modUniqueName of modUniqueNames) {
         // Read the latest manifest file to get the version
         const latestManifestPath = `${modCacheRootDir}/${modUniqueName}/manifest.json`
-        const manifest = await getLocalJsonContent(latestManifestPath)
+        let manifest: any
+        try {
+            manifest = await getLocalJsonContent(latestManifestPath)
+        } catch (err: any) {
+            // If manifest is missing or unreadable, log and continue to next mod
+            console.error(`Failed to load manifest for '${modUniqueName}' at '${latestManifestPath}': ${err?.message ?? err}`)
+            continue
+        }
         ctx.manifestConfigs[modUniqueName] = manifest
         const version = manifest.version || '0.0.0'
-        const modDir = `${modCacheRootDir}/${modUniqueName}/${version}`
-        await mkdir(modDir, { recursive: true })
+        // If reading from an external root, mods are expected to be stored without a version subfolder
+        const modDir = externalRootDir
+            ? `${modCacheRootDir}/${modUniqueName}`
+            : `${modCacheRootDir}/${modUniqueName}/${version}`
+        if (!externalRootDir) await mkdir(modDir, { recursive: true })
 
         // Load metadata files if they exist
         await loadMetadataFile(modDir, 'title-screen.json', ctx.titleScreenConfigs, modUniqueName)
