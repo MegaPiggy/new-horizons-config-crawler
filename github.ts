@@ -1,5 +1,6 @@
-import { access, mkdir, writeFile } from "node:fs/promises"
+import { mkdir, writeFile } from "node:fs/promises"
 import JSON5 from "json5"
+import { exists, getFileName, getRelativePathFrom } from "./utility.ts"
 import { Octokit } from "octokit"
 import type { AnalysisContext } from "./context.ts"
 
@@ -174,14 +175,6 @@ async function getGitHubJsonContent(owner: string, repo: string, path: string) {
 
 
 /**
- * Get the file name from a path (handles both forward and backward slashes)
- */
-function getFileName(path: string): string {
-    const normalized = path.replace(/\\/g, '/')
-    return normalized.substring(normalized.lastIndexOf('/') + 1)
-}
-
-/**
  * Find files in a GitHub tree by exact file name (case-insensitive)
  */
 function findGitHubFilesByName(tree: { type: string; path?: string }[], fileName: string): any[] {
@@ -235,20 +228,6 @@ function findFilesInGitHubDirectory(tree: { type: string; path?: string }[], dir
 }
 
 /**
- * Extract the relative path starting from a specific directory name
- */
-function getRelativePathFrom(fullPath: string, directoryName: string): string {
-    const normalized = fullPath.replace(/\\/g, '/')
-    const lowerPath = normalized.toLowerCase()
-    const lowerDir = directoryName.toLowerCase()
-    const index = lowerPath.indexOf(lowerDir)
-    if (index === -1) {
-        throw new Error(`Directory '${directoryName}' not found in path '${fullPath}'`)
-    }
-    return normalized.substring(index)
-}
-
-/**
  * Save metadata file to cache and optionally to in-memory store
  */
 async function saveMetadataFile(
@@ -290,15 +269,5 @@ async function processGitHubConfigFiles(
         // Store in in-memory cache
         configStore[modUniqueName] = configStore[modUniqueName] || {}
         configStore[modUniqueName][relativePath] = configContent
-    }
-}
-
-/** Check if a local file or directory exists */
-async function exists(path: string): Promise<boolean> {
-    try {
-        await access(path)
-        return true
-    } catch {
-        return false
     }
 }

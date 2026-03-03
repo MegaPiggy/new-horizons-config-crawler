@@ -1,6 +1,7 @@
 import { access, mkdir, readdir, readFile, writeFile } from "node:fs/promises"
 import type { AnalysisContext } from "./context.ts"
 import JSON5 from "json5"
+import { getRelativePathFrom } from "./utility.ts"
 
 export async function loadModsFromCache(ctx: AnalysisContext, externalRootDir?: string) {
     const modSource = externalRootDir ? 'external' : 'local'
@@ -111,18 +112,4 @@ async function loadMetadataFile(
 async function getLocalJsonContent(filePath: string) {
     const data = await readFile(filePath, 'utf-8')
     return JSON5.parse(data)
-}
-
-/**
- * Extract the relative path starting from a specific directory name
- */
-function getRelativePathFrom(fullPath: string, directoryName: string): string {
-    const normalized = fullPath.replace(/\\/g, '/')
-    const lowerPath = normalized.toLowerCase()
-    const lowerDir = `/${directoryName.toLowerCase()}/`
-    const index = lowerPath.indexOf(lowerDir)
-    if (index === -1) {
-        throw new Error(`Directory '${directoryName}' not found in path '${fullPath}'`)
-    }
-    return normalized.substring(index)
 }
