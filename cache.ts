@@ -12,17 +12,18 @@ export async function loadModsFromCache(ctx: AnalysisContext, externalRootDir?: 
 
     // Loop through mod-cache directory and load all cached mod metadata files into in-memory caches
     const modUniqueNames = await readdir(modCacheRootDir)
-    for (const modUniqueName of modUniqueNames) {
+    for (const modFolderUniqueName of modUniqueNames) {
         // Read the latest manifest file to get the version
-        const latestManifestPath = `${modCacheRootDir}/${modUniqueName}/manifest.json`
+        const latestManifestPath = `${modCacheRootDir}/${modFolderUniqueName}/manifest.json`
         let manifest: any
         try {
             manifest = await getLocalJsonContent(latestManifestPath)
         } catch (err: any) {
             // If manifest is missing or unreadable, log and continue to next mod
-            console.error(`Failed to load manifest for '${modUniqueName}' at '${latestManifestPath}': ${err?.message ?? err}`)
+            console.error(`Failed to load manifest for '${modFolderUniqueName}' at '${latestManifestPath}': ${err?.message ?? err}`)
             continue
         }
+        const modUniqueName = manifest.uniqueName || modFolderUniqueName
         ctx.manifestConfigs[modUniqueName] = manifest
         const version = manifest.version || '0.0.0'
         // If reading from an external root, mods are expected to be stored without a version subfolder
