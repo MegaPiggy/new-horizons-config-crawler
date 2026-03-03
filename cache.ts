@@ -77,6 +77,14 @@ async function loadConfigFilesRecursively(
         } else if (file.isFile() && file.name.toLowerCase().endsWith('.json')) {
             // Load JSON files and compute relative path from the config type directory
             const content = await getLocalJsonContent(fullPath)
+            // If this is a system config and it doesn't specify a name, use the file name (no extension)
+            if (relativeFrom.toLowerCase() === 'systems') {
+                const hasName = typeof content?.name === 'string' && content.name.length > 0
+                if (!hasName) {
+                    const fileBase = file.name.replace(/\.[^/.]+$/, '')
+                    content.name = fileBase
+                }
+            }
             const relativePath = getRelativePathFrom(fullPath.replace(/\\/g, '/'), relativeFrom)
             configStore[modUniqueName][relativePath] = content
         }
