@@ -13613,6 +13613,7 @@
       "fieldPath": "Props.entryLocation.position.z",
       "fieldType": "primitive",
       "values": [
+        "-0.5",
         "-0.5480309",
         "-21.9012",
         "-23.6859",
@@ -14285,6 +14286,7 @@
         "PREBRAMBLE_WARP_BtoA_WH",
         "PREBRAMBLE_WARP_CtoA_BH",
         "PREBRAMBLE_WARP_CtoA_WH",
+        "PREBRAMBLE_WARP_DtoA_BH",
         "PREBRAMBLE_WARP_DtoA_WH",
         "PREBRAMBLE_WH",
         "PREBRAMBLE_WH2",
@@ -14392,6 +14394,7 @@
         "PREBRAMBLE_WARP_CtoA_BH",
         "PREBRAMBLE_WARP_CtoA_WH",
         "PREBRAMBLE_WARP_DtoA_BH",
+        "PREBRAMBLE_WARP_DtoA_WH",
         "PREBRAMBLE_WH",
         "PREBRAMBLE_WH2",
         "RingedLabWarp1_BH",
@@ -14459,6 +14462,7 @@
         "PREBRAMBLE_WARP_CtoA_BH",
         "PREBRAMBLE_WARP_CtoA_WH",
         "PREBRAMBLE_WARP_DtoA_BH",
+        "PREBRAMBLE_WARP_DtoA_WH",
         "PREBRAMBLE_WH",
         "PREBRAMBLE_WH2",
         "RingedLabWarp1_BH",
@@ -14988,6 +14992,1671 @@
         "assets/Slideshows/DarkerBrambleReel/slide (8).png",
         "assets/Slideshows/DarkerBrambleReel/slide (9).png",
         "assets/Slideshows/DarkerBrambleReel/title.png",
+        "assets/Slideshows/Gangnam/HQ/slide (1).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (10).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (100).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1000).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1001).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1002).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1003).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1004).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1005).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1006).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1007).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1008).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1009).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (101).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1010).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1011).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1012).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1013).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1014).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1015).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1016).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1017).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1018).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1019).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (102).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1020).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1021).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1022).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1023).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1024).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1025).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1026).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1027).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1028).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1029).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (103).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1030).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1031).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1032).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1033).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1034).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1035).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1036).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1037).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1038).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1039).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (104).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1040).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1041).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1042).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1043).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1044).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1045).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1046).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1047).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1048).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1049).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (105).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1050).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1051).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1052).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1053).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1054).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1055).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1056).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1057).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1058).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1059).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (106).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1060).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1061).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1062).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1063).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1064).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1065).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1066).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1067).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1068).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1069).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (107).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1070).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1071).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1072).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1073).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1074).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1075).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1076).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1077).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1078).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1079).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (108).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1080).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1081).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1082).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1083).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1084).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1085).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1086).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1087).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1088).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1089).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (109).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1090).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1091).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1092).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1093).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1094).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1095).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1096).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1097).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1098).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1099).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (11).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (110).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1100).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1101).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1102).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1103).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1104).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1105).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1106).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1107).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1108).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1109).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (111).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1110).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1111).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1112).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1113).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1114).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1115).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1116).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1117).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1118).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1119).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (112).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1120).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1121).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1122).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1123).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1124).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1125).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1126).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1127).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1128).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1129).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (113).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1130).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1131).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1132).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1133).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1134).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1135).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1136).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1137).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1138).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1139).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (114).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1140).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1141).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1142).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1143).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1144).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1145).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1146).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1147).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1148).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1149).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (115).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1150).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1151).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1152).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1153).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1154).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1155).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1156).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1157).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1158).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1159).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (116).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1160).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1161).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1162).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1163).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1164).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1165).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1166).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1167).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1168).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1169).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (117).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1170).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1171).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1172).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1173).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1174).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1175).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1176).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1177).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1178).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1179).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (118).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1180).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1181).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1182).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1183).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1184).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1185).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1186).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1187).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1188).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1189).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (119).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1190).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1191).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1192).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1193).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1194).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1195).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1196).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1197).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1198).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1199).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (12).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (120).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1200).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1201).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1202).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1203).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1204).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1205).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1206).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1207).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1208).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1209).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (121).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1210).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1211).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1212).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1213).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1214).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1215).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1216).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1217).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1218).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1219).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (122).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1220).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1221).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1222).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1223).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1224).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1225).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1226).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1227).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1228).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1229).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (123).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1230).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1231).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1232).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1233).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1234).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1235).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1236).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1237).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1238).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1239).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (124).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1240).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1241).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1242).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1243).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1244).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1245).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1246).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1247).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1248).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1249).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (125).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1250).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1251).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1252).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1253).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1254).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1255).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1256).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1257).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1258).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1259).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (126).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1260).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1261).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1262).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1263).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1264).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1265).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1266).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1267).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1268).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1269).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (127).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1270).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1271).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1272).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1273).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1274).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1275).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1276).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1277).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1278).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1279).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (128).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1280).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1281).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1282).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1283).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1284).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1285).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1286).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1287).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1288).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1289).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (129).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1290).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1291).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1292).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1293).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1294).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1295).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1296).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1297).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1298).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1299).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (13).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (130).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1300).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1301).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1302).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1303).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1304).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1305).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1306).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1307).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1308).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1309).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (131).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1310).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1311).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1312).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1313).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1314).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1315).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1316).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1317).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1318).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1319).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (132).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1320).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1321).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1322).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1323).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1324).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1325).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1326).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1327).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1328).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1329).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (133).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1330).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1331).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1332).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1333).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1334).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1335).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1336).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1337).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1338).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1339).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (134).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1340).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1341).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1342).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1343).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1344).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1345).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1346).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1347).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1348).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1349).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (135).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1350).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1351).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1352).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1353).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1354).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1355).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1356).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1357).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1358).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1359).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (136).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1360).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1361).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1362).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1363).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1364).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1365).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1366).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1367).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1368).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1369).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (137).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1370).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1371).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1372).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1373).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1374).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1375).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1376).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1377).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1378).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1379).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (138).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1380).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1381).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1382).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1383).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1384).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1385).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1386).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1387).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1388).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1389).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (139).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1390).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1391).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1392).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1393).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1394).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1395).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1396).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1397).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1398).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1399).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (14).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (140).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1400).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1401).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1402).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1403).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1404).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1405).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1406).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1407).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1408).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1409).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (141).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1410).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1411).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1412).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1413).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1414).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1415).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1416).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1417).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1418).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1419).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (142).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1420).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1421).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1422).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1423).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1424).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1425).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1426).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1427).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1428).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1429).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (143).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1430).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1431).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1432).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1433).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1434).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1435).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1436).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1437).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1438).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1439).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (144).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1440).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1441).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1442).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1443).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1444).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1445).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1446).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1447).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1448).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1449).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (145).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1450).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1451).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1452).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1453).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1454).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1455).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1456).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1457).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1458).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1459).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (146).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1460).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1461).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1462).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1463).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1464).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1465).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1466).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1467).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1468).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1469).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (147).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1470).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1471).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1472).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1473).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1474).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1475).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1476).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1477).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1478).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1479).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (148).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1480).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1481).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1482).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1483).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1484).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1485).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1486).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1487).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1488).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1489).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (149).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1490).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1491).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1492).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1493).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1494).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1495).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1496).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1497).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1498).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1499).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (15).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (150).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1500).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1501).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1502).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1503).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1504).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1505).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1506).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1507).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1508).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1509).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (151).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1510).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1511).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1512).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1513).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1514).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1515).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1516).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1517).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1518).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1519).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (152).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1520).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1521).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1522).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1523).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1524).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1525).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1526).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1527).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1528).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1529).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (153).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1530).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1531).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1532).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1533).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1534).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1535).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1536).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1537).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1538).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1539).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (154).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1540).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1541).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1542).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1543).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1544).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1545).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1546).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1547).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1548).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1549).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (155).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1550).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1551).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1552).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1553).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1554).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1555).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1556).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1557).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1558).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1559).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (156).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1560).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1561).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1562).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1563).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1564).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1565).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1566).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1567).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1568).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1569).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (157).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1570).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1571).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1572).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1573).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1574).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1575).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1576).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1577).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1578).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1579).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (158).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1580).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1581).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1582).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1583).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1584).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1585).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1586).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1587).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1588).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1589).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (159).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1590).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1591).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1592).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1593).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1594).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1595).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1596).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1597).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1598).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1599).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (16).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (160).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1600).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1601).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1602).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1603).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1604).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1605).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1606).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1607).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1608).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1609).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (161).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1610).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1611).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1612).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1613).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1614).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1615).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1616).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1617).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1618).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1619).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (162).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1620).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1621).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1622).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1623).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1624).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1625).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1626).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1627).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1628).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1629).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (163).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1630).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1631).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1632).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1633).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1634).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1635).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1636).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1637).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1638).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1639).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (164).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1640).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1641).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1642).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1643).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1644).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1645).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1646).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1647).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1648).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1649).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (165).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1650).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1651).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1652).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1653).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1654).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1655).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1656).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1657).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1658).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1659).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (166).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1660).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1661).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1662).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1663).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1664).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (1665).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (167).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (168).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (169).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (17).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (170).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (171).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (172).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (173).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (174).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (175).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (176).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (177).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (178).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (179).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (18).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (180).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (181).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (182).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (183).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (184).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (185).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (186).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (187).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (188).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (189).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (19).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (190).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (191).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (192).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (193).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (194).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (195).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (196).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (197).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (198).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (199).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (2).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (20).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (200).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (201).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (202).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (203).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (204).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (205).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (206).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (207).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (208).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (209).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (21).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (210).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (211).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (212).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (213).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (214).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (215).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (216).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (217).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (218).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (219).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (22).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (220).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (221).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (222).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (223).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (224).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (225).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (226).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (227).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (228).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (229).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (23).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (230).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (231).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (232).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (233).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (234).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (235).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (236).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (237).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (238).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (239).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (24).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (240).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (241).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (242).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (243).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (244).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (245).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (246).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (247).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (248).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (249).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (25).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (250).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (251).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (252).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (253).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (254).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (255).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (256).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (257).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (258).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (259).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (26).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (260).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (261).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (262).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (263).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (264).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (265).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (266).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (267).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (268).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (269).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (27).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (270).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (271).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (272).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (273).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (274).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (275).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (276).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (277).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (278).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (279).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (28).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (280).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (281).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (282).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (283).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (284).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (285).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (286).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (287).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (288).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (289).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (29).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (290).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (291).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (292).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (293).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (294).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (295).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (296).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (297).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (298).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (299).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (3).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (30).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (300).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (301).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (302).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (303).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (304).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (305).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (306).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (307).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (308).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (309).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (31).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (310).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (311).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (312).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (313).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (314).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (315).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (316).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (317).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (318).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (319).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (32).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (320).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (321).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (322).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (323).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (324).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (325).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (326).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (327).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (328).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (329).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (33).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (330).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (331).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (332).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (333).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (334).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (335).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (336).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (337).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (338).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (339).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (34).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (340).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (341).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (342).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (343).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (344).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (345).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (346).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (347).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (348).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (349).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (35).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (350).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (351).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (352).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (353).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (354).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (355).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (356).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (357).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (358).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (359).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (36).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (360).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (361).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (362).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (363).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (364).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (365).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (366).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (367).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (368).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (369).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (37).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (370).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (371).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (372).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (373).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (374).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (375).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (376).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (377).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (378).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (379).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (38).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (380).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (381).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (382).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (383).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (384).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (385).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (386).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (387).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (388).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (389).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (39).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (390).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (391).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (392).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (393).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (394).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (395).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (396).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (397).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (398).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (399).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (4).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (40).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (400).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (401).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (402).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (403).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (404).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (405).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (406).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (407).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (408).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (409).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (41).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (410).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (411).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (412).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (413).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (414).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (415).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (416).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (417).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (418).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (419).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (42).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (420).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (421).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (422).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (423).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (424).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (425).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (426).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (427).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (428).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (429).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (43).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (430).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (431).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (432).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (433).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (434).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (435).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (436).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (437).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (438).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (439).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (44).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (440).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (441).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (442).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (443).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (444).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (445).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (446).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (447).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (448).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (449).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (45).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (450).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (451).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (452).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (453).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (454).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (455).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (456).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (457).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (458).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (459).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (46).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (460).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (461).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (462).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (463).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (464).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (465).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (466).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (467).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (468).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (469).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (47).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (470).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (471).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (472).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (473).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (474).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (475).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (476).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (477).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (478).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (479).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (48).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (480).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (481).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (482).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (483).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (484).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (485).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (486).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (487).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (488).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (489).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (49).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (490).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (491).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (492).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (493).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (494).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (495).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (496).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (497).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (498).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (499).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (5).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (50).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (500).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (501).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (502).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (503).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (504).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (505).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (506).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (507).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (508).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (509).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (51).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (510).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (511).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (512).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (513).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (514).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (515).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (516).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (517).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (518).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (519).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (52).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (520).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (521).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (522).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (523).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (524).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (525).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (526).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (527).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (528).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (529).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (53).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (530).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (531).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (532).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (533).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (534).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (535).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (536).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (537).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (538).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (539).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (54).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (540).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (541).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (542).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (543).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (544).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (545).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (546).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (547).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (548).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (549).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (55).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (550).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (551).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (552).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (553).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (554).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (555).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (556).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (557).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (558).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (559).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (56).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (560).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (561).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (562).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (563).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (564).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (565).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (566).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (567).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (568).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (569).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (57).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (570).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (571).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (572).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (573).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (574).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (575).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (576).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (577).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (578).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (579).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (58).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (580).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (581).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (582).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (583).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (584).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (585).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (586).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (587).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (588).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (589).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (59).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (590).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (591).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (592).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (593).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (594).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (595).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (596).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (597).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (598).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (599).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (6).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (60).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (600).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (601).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (602).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (603).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (604).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (605).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (606).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (607).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (608).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (609).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (61).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (610).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (611).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (612).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (613).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (614).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (615).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (616).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (617).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (618).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (619).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (62).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (620).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (621).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (622).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (623).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (624).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (625).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (626).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (627).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (628).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (629).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (63).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (630).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (631).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (632).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (633).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (634).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (635).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (636).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (637).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (638).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (639).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (64).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (640).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (641).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (642).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (643).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (644).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (645).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (646).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (647).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (648).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (649).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (65).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (650).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (651).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (652).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (653).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (654).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (655).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (656).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (657).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (658).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (659).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (66).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (660).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (661).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (662).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (663).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (664).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (665).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (666).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (667).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (668).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (669).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (67).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (670).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (671).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (672).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (673).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (674).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (675).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (676).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (677).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (678).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (679).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (68).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (680).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (681).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (682).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (683).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (684).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (685).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (686).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (687).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (688).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (689).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (69).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (690).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (691).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (692).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (693).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (694).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (695).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (696).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (697).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (698).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (699).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (7).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (70).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (700).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (701).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (702).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (703).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (704).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (705).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (706).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (707).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (708).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (709).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (71).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (710).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (711).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (712).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (713).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (714).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (715).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (716).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (717).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (718).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (719).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (72).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (720).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (721).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (722).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (723).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (724).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (725).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (726).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (727).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (728).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (729).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (73).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (730).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (731).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (732).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (733).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (734).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (735).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (736).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (737).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (738).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (739).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (74).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (740).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (741).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (742).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (743).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (744).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (745).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (746).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (747).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (748).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (749).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (75).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (750).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (751).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (752).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (753).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (754).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (755).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (756).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (757).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (758).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (759).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (76).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (760).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (761).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (762).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (763).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (764).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (765).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (766).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (767).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (768).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (769).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (77).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (770).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (771).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (772).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (773).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (774).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (775).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (776).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (777).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (778).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (779).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (78).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (780).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (781).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (782).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (783).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (784).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (785).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (786).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (787).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (788).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (789).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (79).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (790).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (791).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (792).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (793).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (794).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (795).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (796).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (797).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (798).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (799).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (8).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (80).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (800).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (801).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (802).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (803).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (804).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (805).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (806).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (807).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (808).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (809).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (81).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (810).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (811).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (812).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (813).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (814).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (815).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (816).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (817).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (818).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (819).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (82).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (820).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (821).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (822).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (823).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (824).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (825).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (826).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (827).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (828).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (829).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (83).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (830).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (831).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (832).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (833).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (834).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (835).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (836).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (837).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (838).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (839).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (84).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (840).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (841).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (842).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (843).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (844).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (845).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (846).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (847).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (848).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (849).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (85).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (850).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (851).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (852).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (853).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (854).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (855).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (856).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (857).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (858).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (859).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (86).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (860).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (861).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (862).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (863).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (864).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (865).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (866).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (867).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (868).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (869).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (87).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (870).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (871).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (872).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (873).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (874).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (875).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (876).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (877).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (878).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (879).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (88).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (880).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (881).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (882).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (883).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (884).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (885).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (886).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (887).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (888).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (889).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (89).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (890).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (891).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (892).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (893).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (894).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (895).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (896).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (897).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (898).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (899).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (9).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (90).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (900).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (901).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (902).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (903).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (904).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (905).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (906).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (907).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (908).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (909).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (91).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (910).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (911).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (912).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (913).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (914).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (915).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (916).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (917).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (918).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (919).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (92).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (920).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (921).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (922).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (923).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (924).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (925).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (926).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (927).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (928).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (929).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (93).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (930).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (931).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (932).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (933).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (934).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (935).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (936).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (937).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (938).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (939).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (94).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (940).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (941).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (942).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (943).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (944).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (945).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (946).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (947).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (948).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (949).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (95).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (950).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (951).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (952).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (953).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (954).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (955).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (956).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (957).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (958).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (959).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (96).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (960).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (961).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (962).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (963).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (964).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (965).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (966).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (967).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (968).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (969).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (97).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (970).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (971).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (972).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (973).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (974).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (975).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (976).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (977).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (978).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (979).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (98).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (980).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (981).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (982).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (983).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (984).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (985).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (986).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (987).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (988).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (989).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (99).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (990).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (991).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (992).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (993).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (994).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (995).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (996).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (997).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (998).jpg",
+        "assets/Slideshows/Gangnam/HQ/slide (999).jpg",
         "assets/Slideshows/Gangnam/slide (1).jpg",
         "assets/Slideshows/Gangnam/slide (10).jpg",
         "assets/Slideshows/Gangnam/slide (100).jpg",
@@ -17811,38 +19480,59 @@
       "fieldPath": "ShipLog.mapMode.manualNavigationPosition.x",
       "fieldType": "primitive",
       "values": [
-        "5"
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
       ]
     },
     {
       "fieldPath": "ShipLog.mapMode.manualNavigationPosition.y",
       "fieldType": "primitive",
       "values": [
-        "0"
+        "0",
+        "1"
       ]
     },
     {
       "fieldPath": "ShipLog.mapMode.manualPosition.x",
       "fieldType": "primitive",
       "values": [
-        "1300"
+        "0",
+        "1200",
+        "1300",
+        "1500",
+        "1800",
+        "400",
+        "800",
+        "903"
       ]
     },
     {
       "fieldPath": "ShipLog.mapMode.manualPosition.y",
       "fieldType": "primitive",
       "values": [
-        "-160"
+        "-160",
+        "0",
+        "150",
+        "30"
       ]
     },
     {
       "fieldPath": "ShipLog.mapMode.outlineSprite",
       "fieldType": "primitive",
       "values": [
+        "assets/Texture/Shiplog/ANGLERSEYE_UI_O.png",
         "assets/Texture/Shiplog/CRIMSONGIANT_UI_O.png",
         "assets/Texture/Shiplog/CRIMSONMOON_UI_O.png",
         "assets/Texture/Shiplog/DESERT_UI_O.png",
+        "assets/Texture/Shiplog/HOME_UI_O.png",
+        "assets/Texture/Shiplog/NEARESTNEIGHBOR_UI_O.png",
         "assets/Texture/Shiplog/QUANTUMPLANET_UI_O.png",
+        "assets/Texture/Shiplog/RINGEDGIANT_UI_O.png",
         "assets/Texture/Shiplog/RINGEDLAB_UI_O.png",
         "assets/Texture/Shiplog/STRANDEDVESSEL_UI_O.png"
       ]
@@ -17863,6 +19553,7 @@
         "assets/Texture/Shiplog/CRIMSONMOON_UI.png",
         "assets/Texture/Shiplog/DESERT_UI.png",
         "assets/Texture/Shiplog/HOME_UI.png",
+        "assets/Texture/Shiplog/NEARESTNEIGHBOR_UI.png",
         "assets/Texture/Shiplog/QUANTUMPLANET_UI.png",
         "assets/Texture/Shiplog/RINGEDGIANT_UI.png",
         "assets/Texture/Shiplog/RINGEDLAB_UI.png",
@@ -17874,7 +19565,14 @@
       "fieldType": "primitive",
       "values": [
         "0.25",
-        "2"
+        "0.625",
+        "0.75",
+        "1",
+        "1.125",
+        "1.625",
+        "2",
+        "5",
+        "5.75"
       ]
     },
     {
@@ -17962,6 +19660,66 @@
       ]
     },
     {
+      "fieldPath": "Spawn.playerSpawnPoints.alignRadial",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.playerSpawnPoints.isDefault",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.playerSpawnPoints.makeDefaultIfFactRevealed",
+      "fieldType": "primitive",
+      "values": [
+        "HOME_REVEAL"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.playerSpawnPoints.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-963.1364",
+        "198.9236"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.playerSpawnPoints.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-233.6091",
+        "27.044"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.playerSpawnPoints.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-142.1909",
+        "-259.9943"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.playerSpawnPoints.rename",
+      "fieldType": "primitive",
+      "values": [
+        "SpawnPlayer_Bramble",
+        "SpawnPlayer_Home"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.playerSpawnPoints.startWithSuit",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
       "fieldPath": "Spawn.shipSpawn.alignRadial",
       "fieldType": "primitive",
       "values": [
@@ -18008,6 +19766,59 @@
     },
     {
       "fieldPath": "Spawn.shipSpawn.rename",
+      "fieldType": "primitive",
+      "values": [
+        "SpawnShip_Bramble",
+        "SpawnShip_Home"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.shipSpawnPoints.alignRadial",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.shipSpawnPoints.isDefault",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.shipSpawnPoints.makeDefaultIfFactRevealed",
+      "fieldType": "primitive",
+      "values": [
+        "HOME_REVEAL"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.shipSpawnPoints.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-963.1741",
+        "140.4604"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.shipSpawnPoints.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-229.4492",
+        "56.3027"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.shipSpawnPoints.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-149.5118",
+        "-260.2756"
+      ]
+    },
+    {
+      "fieldPath": "Spawn.shipSpawnPoints.rename",
       "fieldType": "primitive",
       "values": [
         "SpawnShip_Bramble",
@@ -18617,6 +20428,7 @@
       "fieldType": "primitive",
       "values": [
         "Sector/BrambleMuseum/Interactables/Tube_Mineral/MineralSocket/Item_CloakMineral",
+        "Sector/BrambleMuseum_HOME/Interactables/CloakMineralSocket/Item_CloakMineral",
         "Sector/BrambleMuseum_HOME/Interactables/Item_CloakMineral"
       ]
     },
@@ -19176,7 +20988,8 @@
       "fieldPath": "Volumes.speedLimiterVolumes.stoppingDistance",
       "fieldType": "primitive",
       "values": [
-        "100"
+        "100",
+        "150"
       ]
     },
     {
@@ -70322,8 +72135,14 @@
       "fieldPath": "Lava.curve.time",
       "fieldType": "primitive",
       "values": [
+        "100",
+        "20.6",
+        "21.9",
+        "22.666",
         "24",
-        "3.625"
+        "3.625",
+        "4",
+        "8"
       ]
     },
     {
@@ -70331,13 +72150,21 @@
       "fieldType": "primitive",
       "values": [
         "0.891848563324701",
-        "1.0062893081761006"
+        "1",
+        "1.0062893081761006",
+        "70.95",
+        "72.5",
+        "73",
+        "75.23",
+        "79.5",
+        "79.8"
       ]
     },
     {
       "fieldPath": "Lava.size",
       "fieldType": "primitive",
       "values": [
+        "1",
         "79.5"
       ]
     },
@@ -87511,6 +89338,7 @@
       "values": [
         "12",
         "20",
+        "38",
         "70",
         "8"
       ]
@@ -87520,6 +89348,7 @@
       "fieldType": "primitive",
       "values": [
         "200",
+        "201",
         "31",
         "401"
       ]
@@ -87555,6 +89384,7 @@
         "Finis Plateau Core",
         "Red Moon",
         "Shelling",
+        "Starship Community",
         "Vessel"
       ]
     },
@@ -87600,6 +89430,7 @@
       "fieldPath": "Orbit.staticPosition.z",
       "fieldType": "primitive",
       "values": [
+        "0",
         "1000"
       ]
     },
@@ -87607,6 +89438,7 @@
       "fieldPath": "Props.details.assetBundle",
       "fieldType": "primitive",
       "values": [
+        "planets/assetbundles/eye",
         "planets/assetbundles/finis"
       ]
     },
@@ -87639,6 +89471,7 @@
         "Assets/Finis/Prefabs/finis_plateau.prefab",
         "Assets/Finis/Prefabs/finis_red_moon.prefab",
         "Assets/Finis/Prefabs/notkeeploaded.prefab",
+        "Assets/orclecle/SixthPlanet_Root.prefab",
         "BrittleHollow_Body/Sector_BH/Sector_EscapePodCrashSite/Sector_CrashFragment/EscapePod_Socket",
         "BrittleHollow_Body/Sector_BH/Sector_EscapePodCrashSite/Sector_CrashFragment/EscapePod_Socket/Geometry_EscapePod/Structure_NOM_EscapePod_HT/escape_pod_ext/broken_swirlback",
         "BrittleHollow_Body/Sector_BH/Sector_EscapePodCrashSite/Sector_CrashFragment/Interactables_CrashFragment/VisibleFrom_EscapePodCrashSite/GravityCrystals/Prefab_NOM_GravityCrystal (1)",
@@ -87846,7 +89679,8 @@
         "Interactibles_EscapePod/Prefab_NOM_Vessel_Computer/Props_NOM_Vessel_Computer 1/Props_NOM_Vessel_Computer_Effects",
         "Interactibles_EscapePod/Prefab_NOM_Vessel_Computer/Props_NOM_Vessel_Computer 1/Props_NOM_Vessel_Computer_Effects (1)",
         "Interactibles_EscapePod/Prefab_NOM_Vessel_Computer/Props_NOM_Vessel_Computer 1/Props_NOM_Vessel_Computer_Effects (2)",
-        "Interactibles_EscapePod/Prefab_NOM_Vessel_Computer/Props_NOM_Vessel_Computer 1/Props_NOM_Vessel_Computer_Effects (3)"
+        "Interactibles_EscapePod/Prefab_NOM_Vessel_Computer/Props_NOM_Vessel_Computer 1/Props_NOM_Vessel_Computer_Effects (3)",
+        "Proxy_SixthPlanet/Quadsphere"
       ]
     },
     {
@@ -88160,6 +89994,7 @@
         "1.0345",
         "11.47",
         "116.89",
+        "17.7293",
         "48.06",
         "82.86",
         "95.37"
@@ -88181,6 +90016,7 @@
         "14.24",
         "148.2017",
         "18.74",
+        "2.2992",
         "2.5464",
         "20.6368",
         "633.35"
@@ -88204,7 +90040,8 @@
         "380.64",
         "391.58",
         "422.8058",
-        "75.98"
+        "75.98",
+        "8.7635"
       ]
     },
     {
@@ -88214,6 +90051,7 @@
         "finis_battlefield_recorder",
         "finis_cave_ship_wall",
         "finis_end_online_wall",
+        "finis_ernesto_scroll",
         "finis_moon_chime_wall",
         "finis_moon_collector_wall",
         "finis_moon_escall_wall",
@@ -88304,6 +90142,7 @@
         "planets/texts/finis_battlefield.xml",
         "planets/texts/finis_cave_ship.xml",
         "planets/texts/finis_end_online.xml",
+        "planets/texts/finis_ernesto_scroll.xml",
         "planets/texts/finis_moon_chime.xml",
         "planets/texts/finis_moon_collector.xml",
         "planets/texts/finis_moon_escall.xml",
@@ -88518,6 +90357,7 @@
       "fieldPath": "Volumes.audioVolumes.radius",
       "fieldType": "primitive",
       "values": [
+        "1000000",
         "28",
         "600",
         "60000"
@@ -88563,6 +90403,22 @@
       ]
     },
     {
+      "fieldPath": "Volumes.creditsVolume.gameOver.creditsType",
+      "fieldType": "primitive",
+      "values": [
+        "fast",
+        "final"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.creditsVolume.gameOver.text",
+      "fieldType": "primitive",
+      "values": [
+        "The universe has died forever.",
+        "You arrived safely before the Eye of the Universe was destroyed."
+      ]
+    },
+    {
       "fieldPath": "Volumes.creditsVolume.gameOverText",
       "fieldType": "primitive",
       "values": [
@@ -88571,9 +90427,31 @@
       ]
     },
     {
+      "fieldPath": "Volumes.creditsVolume.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.creditsVolume.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-1430.417"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.creditsVolume.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
       "fieldPath": "Volumes.creditsVolume.radius",
       "fieldType": "primitive",
       "values": [
+        "1",
         "100000",
         "5000000"
       ]
@@ -88584,6 +90462,41 @@
       "values": [
         "bigbang_credit_volume",
         "destroy_credit_volume"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.creditsVolume.shape.size.x",
+      "fieldType": "primitive",
+      "values": [
+        "4000"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.creditsVolume.shape.size.y",
+      "fieldType": "primitive",
+      "values": [
+        "100"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.creditsVolume.shape.size.z",
+      "fieldType": "primitive",
+      "values": [
+        "4000"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.creditsVolume.shape.type",
+      "fieldType": "primitive",
+      "values": [
+        "box"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.mapRestrictionVolumes.radius",
+      "fieldType": "primitive",
+      "values": [
+        "60000"
       ]
     },
     {
@@ -89728,7 +91641,8 @@
         "Hope",
         "Orclecle_Mod_Platform",
         "Salvation",
-        "Shadow of Sparks"
+        "Shadow of Sparks",
+        "Starship Community"
       ]
     },
     {
@@ -89890,6 +91804,7 @@
         "Assets/MyAssets/Prefabs/PingEffect.prefab",
         "Assets/MyAssets/Prefabs/PingShip.prefab",
         "Assets/MyAssets/Prefabs/Tower.prefab",
+        "Assets/MyAssets/Prefabs/halfamantrophy.prefab",
         "Assets/MyAssets/Prefabs/hhearthian.prefab",
         "Assets/MyAssets/Prefabs/hscout.prefab",
         "BrittleHollow_Body/Sector_BH/Sector_EscapePodCrashSite/Sector_CrashFragment/Interactables_CrashFragment/VisibleFrom_EscapePodCrashSite/GravityCrystals/Prefab_NOM_GravityCrystal (1)",
@@ -89917,6 +91832,7 @@
         "123.0023",
         "124.3348",
         "125.3577",
+        "13.0402",
         "130.826",
         "136.4697",
         "141.4831",
@@ -89942,6 +91858,7 @@
         "13.0589",
         "13.1321",
         "16.405",
+        "17.0993",
         "184.8812",
         "19.6165",
         "2.5355",
@@ -89955,6 +91872,7 @@
       "fieldPath": "Props.details.position.z",
       "fieldType": "primitive",
       "values": [
+        "-0.0489",
         "-11.5",
         "-18.6581",
         "-18.8712",
@@ -89998,6 +91916,7 @@
         "26.7235",
         "270",
         "4.7589",
+        "41.7636",
         "74.0636",
         "74.9893",
         "78.1054",
@@ -90013,6 +91932,7 @@
         "180",
         "23.666",
         "270",
+        "271.8228",
         "59.7532",
         "90",
         "98.2975"
@@ -90027,6 +91947,7 @@
         "108.5714",
         "180",
         "27.6488",
+        "271.1141",
         "28.6674",
         "29.1131",
         "336.0677",
@@ -90038,7 +91959,8 @@
       "fieldType": "primitive",
       "values": [
         "0.025",
-        "0.3"
+        "0.3",
+        "0.5"
       ]
     },
     {
@@ -90253,6 +92175,13 @@
       ]
     },
     {
+      "fieldPath": "Props.translatorText.isRelativeToParent",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
       "fieldPath": "Props.translatorText.location",
       "fieldType": "primitive",
       "values": [
@@ -90266,7 +92195,8 @@
       "values": [
         "Sector/Box1",
         "Sector/Box2",
-        "Sector/Box3"
+        "Sector/Box3",
+        "Sector/halfamantrophy"
       ]
     },
     {
@@ -90274,13 +92204,16 @@
       "fieldType": "primitive",
       "values": [
         "-0.2428",
+        "-0.4433",
         "-0.9832",
         "-1.0684",
         "-2.3387",
         "-2.6839",
         "-5.7243",
+        "0",
         "0.0373",
         "0.2037",
+        "0.6878",
         "114.1227",
         "15.602",
         "2.3724",
@@ -90320,6 +92253,7 @@
       "fieldType": "primitive",
       "values": [
         "-0.1582",
+        "-0.5519",
         "-1.2865",
         "-1.9933",
         "-11.5884",
@@ -90329,6 +92263,8 @@
         "-59.1586",
         "-64.8426",
         "-65.5736",
+        "0",
+        "0.5229",
         "1.6643",
         "2.0025",
         "3.0445",
@@ -90342,6 +92278,10 @@
       "fieldPath": "Props.translatorText.rename",
       "fieldType": "primitive",
       "values": [
+        "halfaman_trophy_bestfoundation",
+        "halfaman_trophy_bestmodderdebut",
+        "halfaman_trophy_bestpuzzles",
+        "halfaman_trophy_bestscares",
         "text_diorama_box1_end_pc",
         "text_diorama_box1_end_timeloop",
         "text_diorama_box1_intro",
@@ -90370,7 +92310,11 @@
         "270",
         "335.5933",
         "344.3693",
-        "58.3734"
+        "58.3734",
+        "72.4155",
+        "77.1164",
+        "81.881",
+        "83.2008"
       ]
     },
     {
@@ -90382,7 +92326,9 @@
         "180",
         "251.2765",
         "270",
+        "282.9753",
         "45",
+        "71.9225",
         "90"
       ]
     },
@@ -90394,13 +92340,19 @@
         "0.6487",
         "180",
         "306.7859",
-        "318.4005"
+        "318.4005",
+        "341.0152",
+        "76.4888"
       ]
     },
     {
       "fieldPath": "Props.translatorText.seed",
       "fieldType": "primitive",
       "values": [
+        "14",
+        "15",
+        "16",
+        "17",
         "2",
         "3"
       ]
@@ -90436,7 +92388,11 @@
         "planets/texts/diorama_boxt_tower_now.xml",
         "planets/texts/diorama_boxt_vessel.xml",
         "planets/texts/diorama_boxt_vessel_remote.xml",
-        "planets/texts/diorama_boxt_warp.xml"
+        "planets/texts/diorama_boxt_warp.xml",
+        "planets/texts/halfaman_trophy_bestfoundation.xml",
+        "planets/texts/halfaman_trophy_bestmodderdebut.xml",
+        "planets/texts/halfaman_trophy_bestpuzzles.xml",
+        "planets/texts/halfaman_trophy_bestscares.xml"
       ]
     },
     {
@@ -102121,6 +104077,13 @@
       ]
     },
     {
+      "fieldPath": "Atmosphere.clouds.capPath",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/arouratimber.png"
+      ]
+    },
+    {
       "fieldPath": "Atmosphere.clouds.cloudsPrefab",
       "fieldType": "primitive",
       "values": [
@@ -102295,6 +104258,7 @@
       "fieldPath": "Orbit.hasMapMarker",
       "fieldType": "primitive",
       "values": [
+        "false",
         "true"
       ]
     },
@@ -102339,6 +104303,89 @@
       "fieldType": "primitive",
       "values": [
         "1.75"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.keepLoaded",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.path",
+      "fieldType": "primitive",
+      "values": [
+        "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/LightBeam"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-158.9906",
+        "-197.1447",
+        "158.9906",
+        "197.1447"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "180"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.stretch.x",
+      "fieldType": "primitive",
+      "values": [
+        "200",
+        "453.899"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.stretch.y",
+      "fieldType": "primitive",
+      "values": [
+        "9.3636"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.stretch.z",
+      "fieldType": "primitive",
+      "values": [
+        "200",
+        "453.899"
       ]
     },
     {
@@ -108844,6 +110891,7 @@
       "fieldPath": "Props.signals.frequency",
       "fieldType": "primitive",
       "values": [
+        "COSMICCURATORS_SIGNAL_KARVIFREQUENCY",
         "Karvi Wavelength"
       ]
     },
@@ -108870,6 +110918,12 @@
         "3 - FIRE",
         "4 - SUN",
         "5 - STAR",
+        "COSMICCURATORS_SIGNAL_KARVI0",
+        "COSMICCURATORS_SIGNAL_KARVI1",
+        "COSMICCURATORS_SIGNAL_KARVI2",
+        "COSMICCURATORS_SIGNAL_KARVI3",
+        "COSMICCURATORS_SIGNAL_KARVI4",
+        "COSMICCURATORS_SIGNAL_KARVI5",
         "Scout Distress Signal"
       ]
     },
@@ -123219,6 +125273,7 @@
         "Lava 1",
         "Rondo",
         "Terra Lure",
+        "Viridian Flow",
         "Waltz"
       ]
     },
@@ -123227,6 +125282,7 @@
       "fieldType": "primitive",
       "values": [
         "Elegy",
+        "Jade Maw",
         "Lava 2",
         "Luna Lure",
         "Requiem"
@@ -123589,6 +125645,7 @@
       "fieldType": "primitive",
       "values": [
         "3250",
+        "5000",
         "50000",
         "6500"
       ]
@@ -123599,6 +125656,7 @@
       "values": [
         "0",
         "3250",
+        "5000",
         "6500"
       ]
     },
@@ -123626,6 +125684,7 @@
         "Giants Deep",
         "Hindering Skies",
         "Hymn",
+        "Jade Maw",
         "Lava 1",
         "Lava 2",
         "Lava Twins",
@@ -123646,6 +125705,7 @@
         "Terra Lure",
         "Timber Hearth",
         "Vessel",
+        "Viridian Flow",
         "Waltz",
         "Wetrock"
       ]
@@ -123853,6 +125913,7 @@
       "fieldPath": "Orbit.tint.b",
       "fieldType": "primitive",
       "values": [
+        "128",
         "154",
         "157",
         "177",
@@ -123870,6 +125931,7 @@
         "140",
         "16",
         "169",
+        "255",
         "26",
         "78",
         "86"
@@ -123882,6 +125944,7 @@
         "122",
         "159",
         "26",
+        "32",
         "49",
         "78",
         "81",
@@ -123899,6 +125962,7 @@
         "130",
         "180",
         "240",
+        "242",
         "270",
         "33",
         "69",
@@ -126771,6 +128835,21 @@
       ]
     },
     {
+      "fieldPath": "Props.singularities.distortRadius",
+      "fieldType": "primitive",
+      "values": [
+        "190",
+        "560"
+      ]
+    },
+    {
+      "fieldPath": "Props.singularities.horizonRadius",
+      "fieldType": "primitive",
+      "values": [
+        "80"
+      ]
+    },
+    {
       "fieldPath": "Props.singularities.pairedSingularity",
       "fieldType": "primitive",
       "values": [
@@ -127880,7 +129959,29 @@
       "fieldPath": "Sand.size",
       "fieldType": "primitive",
       "values": [
+        "20",
         "200"
+      ]
+    },
+    {
+      "fieldPath": "Sand.tint.b",
+      "fieldType": "primitive",
+      "values": [
+        "157"
+      ]
+    },
+    {
+      "fieldPath": "Sand.tint.g",
+      "fieldType": "primitive",
+      "values": [
+        "122"
+      ]
+    },
+    {
+      "fieldPath": "Sand.tint.r",
+      "fieldType": "primitive",
+      "values": [
+        "89"
       ]
     },
     {
@@ -127967,7 +130068,9 @@
         "420",
         "560",
         "582",
-        "780"
+        "700",
+        "780",
+        "840"
       ]
     },
     {
@@ -127980,14 +130083,18 @@
         "180",
         "240",
         "300",
-        "50"
+        "50",
+        "60"
       ]
     },
     {
       "fieldPath": "ShipLog.mapMode.outlineSprite",
       "fieldType": "primitive",
       "values": [
-        "planets/assets/shiplogs/sprites/hindering_skies_outline.png"
+        "planets/assets/shiplogs/sprites/hindering_skies_outline.png",
+        "planets/assets/shiplogs/sprites/hymn_outline.png",
+        "planets/assets/shiplogs/sprites/lava_twin_outline.png",
+        "planets/assets/shiplogs/sprites/puzzle_station_outline.png"
       ]
     },
     {
@@ -128003,13 +130110,17 @@
       "values": [
         "planets/assets/shiplogs/sprites/blackhole_map_mode.png",
         "planets/assets/shiplogs/sprites/daunting_confidant_map_mode.png",
+        "planets/assets/shiplogs/sprites/elegy_map_mode.png",
         "planets/assets/shiplogs/sprites/frigid_pygmy_map_mode.png",
         "planets/assets/shiplogs/sprites/hindering_skies_map_mode.png",
         "planets/assets/shiplogs/sprites/lava_twin_map_mode.png",
         "planets/assets/shiplogs/sprites/light_gateway_map_mode.png",
         "planets/assets/shiplogs/sprites/luna_lure_map_mode.png",
         "planets/assets/shiplogs/sprites/night_light_map_mode.png",
+        "planets/assets/shiplogs/sprites/puzzle_station_map_mode.png",
+        "planets/assets/shiplogs/sprites/requiem_map_mode.png",
         "planets/assets/shiplogs/sprites/ringed_jewel_map_mode.png",
+        "planets/assets/shiplogs/sprites/rondo_map_mode.png",
         "planets/assets/shiplogs/sprites/sequestered_luminary_map_mode.png",
         "planets/assets/shiplogs/sprites/snowball_map_mode.png",
         "planets/assets/shiplogs/sprites/terra_lure_map_mode.png",
@@ -128247,6 +130358,37 @@
       "fieldType": "primitive",
       "values": [
         "4"
+      ]
+    },
+    {
+      "fieldPath": "Star.lightTint.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Star.lightTint.b",
+      "fieldType": "primitive",
+      "values": [
+        "250",
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Star.lightTint.g",
+      "fieldType": "primitive",
+      "values": [
+        "220",
+        "38"
+      ]
+    },
+    {
+      "fieldPath": "Star.lightTint.r",
+      "fieldType": "primitive",
+      "values": [
+        "128",
+        "200"
       ]
     },
     {
@@ -128960,6 +131102,13 @@
       "fieldType": "primitive",
       "values": [
         "276.1493"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.interactionVolumes.shape.useShape",
+      "fieldType": "primitive",
+      "values": [
+        "false"
       ]
     },
     {
@@ -134788,6 +136937,2293 @@
       "fieldType": "primitive",
       "values": [
         "20"
+      ]
+    }
+  ],
+  "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "AmbientLights.innerRadius",
+      "fieldType": "primitive",
+      "values": [
+        "530"
+      ]
+    },
+    {
+      "fieldPath": "AmbientLights.intensity",
+      "fieldType": "primitive",
+      "values": [
+        "3"
+      ]
+    },
+    {
+      "fieldPath": "AmbientLights.outerRadius",
+      "fieldType": "primitive",
+      "values": [
+        "753"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.amount",
+      "fieldType": "primitive",
+      "values": [
+        "70"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.inclination",
+      "fieldType": "primitive",
+      "values": [
+        "30"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.innerRadius",
+      "fieldType": "primitive",
+      "values": [
+        "2000"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.maxSize",
+      "fieldType": "primitive",
+      "values": [
+        "30"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.minSize",
+      "fieldType": "primitive",
+      "values": [
+        "18"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.outerRadius",
+      "fieldType": "primitive",
+      "values": [
+        "2500"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.procGen.color.b",
+      "fieldType": "primitive",
+      "values": [
+        "80"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.procGen.color.g",
+      "fieldType": "primitive",
+      "values": [
+        "164"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.procGen.color.r",
+      "fieldType": "primitive",
+      "values": [
+        "210"
+      ]
+    },
+    {
+      "fieldPath": "AsteroidBelt.procGen.material",
+      "fieldType": "primitive",
+      "values": [
+        "rock"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.atmosphereTint.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.atmosphereTint.b",
+      "fieldType": "primitive",
+      "values": [
+        "200",
+        "245"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.atmosphereTint.g",
+      "fieldType": "primitive",
+      "values": [
+        "100",
+        "66"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.atmosphereTint.r",
+      "fieldType": "primitive",
+      "values": [
+        "149",
+        "45"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.clouds.innerCloudRadius",
+      "fieldType": "primitive",
+      "values": [
+        "639"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.clouds.outerCloudRadius",
+      "fieldType": "primitive",
+      "values": [
+        "749"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.clouds.texturePath",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/BB_cc.png"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.clouds.tint.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.clouds.tint.b",
+      "fieldType": "primitive",
+      "values": [
+        "245"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.clouds.tint.g",
+      "fieldType": "primitive",
+      "values": [
+        "66"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.clouds.tint.r",
+      "fieldType": "primitive",
+      "values": [
+        "149"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.fogSize",
+      "fieldType": "primitive",
+      "values": [
+        "111",
+        "750"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.fogTint.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.fogTint.b",
+      "fieldType": "primitive",
+      "values": [
+        "200",
+        "245"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.fogTint.g",
+      "fieldType": "primitive",
+      "values": [
+        "100",
+        "66"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.fogTint.r",
+      "fieldType": "primitive",
+      "values": [
+        "149",
+        "45"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.hasTrees",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.size",
+      "fieldType": "primitive",
+      "values": [
+        "111",
+        "750"
+      ]
+    },
+    {
+      "fieldPath": "Atmosphere.useAtmosphereShader",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Base.ambientLight",
+      "fieldType": "primitive",
+      "values": [
+        "0.5"
+      ]
+    },
+    {
+      "fieldPath": "Base.centerOfSolarSystem",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Base.hasFluidDetector",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    },
+    {
+      "fieldPath": "Base.hasMapMarker",
+      "fieldType": "primitive",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Base.surfaceGravity",
+      "fieldType": "primitive",
+      "values": [
+        "10",
+        "13",
+        "24",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "fieldPath": "Base.surfaceSize",
+      "fieldType": "primitive",
+      "values": [
+        "120",
+        "160",
+        "20",
+        "450",
+        "80"
+      ]
+    },
+    {
+      "fieldPath": "Cloak.farCloakRadius",
+      "fieldType": "primitive",
+      "values": [
+        "105",
+        "155"
+      ]
+    },
+    {
+      "fieldPath": "Cloak.innerCloakRadius",
+      "fieldType": "primitive",
+      "values": [
+        "145",
+        "95"
+      ]
+    },
+    {
+      "fieldPath": "Cloak.nearCloakRadius",
+      "fieldType": "primitive",
+      "values": [
+        "140",
+        "90"
+      ]
+    },
+    {
+      "fieldPath": "Cloak.radius",
+      "fieldType": "primitive",
+      "values": [
+        "100",
+        "150"
+      ]
+    },
+    {
+      "fieldPath": "extras.isPlatform",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "FocalPoint.primary",
+      "fieldType": "primitive",
+      "values": [
+        "Wilds' Refuge"
+      ]
+    },
+    {
+      "fieldPath": "FocalPoint.secondary",
+      "fieldType": "primitive",
+      "values": [
+        "Lofted Lightbulb"
+      ]
+    },
+    {
+      "fieldPath": "Funnel.curve.time",
+      "fieldType": "primitive",
+      "values": [
+        "17",
+        "17.5",
+        "9",
+        "9.5"
+      ]
+    },
+    {
+      "fieldPath": "Funnel.curve.value",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "fieldPath": "Funnel.target",
+      "fieldType": "primitive",
+      "values": [
+        "Bruised Brother"
+      ]
+    },
+    {
+      "fieldPath": "Funnel.tint.b",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Funnel.tint.g",
+      "fieldType": "primitive",
+      "values": [
+        "106"
+      ]
+    },
+    {
+      "fieldPath": "Funnel.tint.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Funnel.type",
+      "fieldType": "primitive",
+      "values": [
+        "star"
+      ]
+    },
+    {
+      "fieldPath": "HeightMap.heightMap",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/A_h.png",
+        "planets/assets/BB_h.png",
+        "planets/assets/FR_h.png"
+      ]
+    },
+    {
+      "fieldPath": "HeightMap.maxHeight",
+      "fieldType": "primitive",
+      "values": [
+        "21",
+        "320",
+        "67"
+      ]
+    },
+    {
+      "fieldPath": "HeightMap.minHeight",
+      "fieldType": "primitive",
+      "values": [
+        "15",
+        "280",
+        "65"
+      ]
+    },
+    {
+      "fieldPath": "HeightMap.redTile.size",
+      "fieldType": "primitive",
+      "values": [
+        "7"
+      ]
+    },
+    {
+      "fieldPath": "HeightMap.redTile.textureTile",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/grask.png"
+      ]
+    },
+    {
+      "fieldPath": "HeightMap.textureMap",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/A_c.png",
+        "planets/assets/BB_c.png",
+        "planets/assets/FR_c.png"
+      ]
+    },
+    {
+      "fieldPath": "HeightMap.tileBlendMap",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/FR_b.png"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Bruised Brother",
+        "BruisedBrotherAsteroid10",
+        "Companion Conglomerate",
+        "Geswaldo_Jam5_Platform",
+        "Lofted Lightbulb",
+        "Maze",
+        "Sunset Sister",
+        "Sunset Sister Power Unit",
+        "Wilds' Refuge"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.alignmentAxis.x",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.alignmentAxis.y",
+      "fieldType": "primitive",
+      "values": [
+        "90"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.alignmentAxis.z",
+      "fieldType": "primitive",
+      "values": [
+        "-50"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.argumentOfPeriapsis",
+      "fieldType": "primitive",
+      "values": [
+        "102"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.axialTilt",
+      "fieldType": "primitive",
+      "values": [
+        "-30",
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.canShowOnTitle",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.dottedOrbitLine",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.inclination",
+      "fieldType": "primitive",
+      "values": [
+        "11",
+        "84"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.isMoon",
+      "fieldType": "primitive",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.isStatic",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.isTidallyLocked",
+      "fieldType": "primitive",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.primaryBody",
+      "fieldType": "primitive",
+      "values": [
+        "Bruised Brother",
+        "Companion Conglomerate"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.semiMajorAxis",
+      "fieldType": "primitive",
+      "values": [
+        "12",
+        "1244",
+        "170",
+        "1922"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.showOrbitLine",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.siderealPeriod",
+      "fieldType": "primitive",
+      "values": [
+        "0.1",
+        "1.75"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.staticPosition.x",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "8000"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.staticPosition.y",
+      "fieldType": "primitive",
+      "values": [
+        "-2400",
+        "2000",
+        "2300"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.staticPosition.z",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "7000",
+        "9"
+      ]
+    },
+    {
+      "fieldPath": "Orbit.trueAnomaly",
+      "fieldType": "primitive",
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.assetBundle",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assetbundle/Better_bundle/brother",
+        "planets/assetbundle/Epic_bundle/epicbundle",
+        "planets/assetbundle/Planet_bundle/refusebundle",
+        "planets/assetbundle/PowerfailBundle/sunsetsister"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.isRelativeToParent",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.item.itemType",
+      "fieldType": "primitive",
+      "values": [
+        "Decoration"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.item.name",
+      "fieldType": "primitive",
+      "values": [
+        "Pot Of Chaos"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.keepLoaded",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.parentPath",
+      "fieldType": "primitive",
+      "values": [
+        "Sector/The Grand Tree Of Ultimate Doom",
+        "Sector/The Little Sapling Of Miniature Heroicness"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.path",
+      "fieldType": "primitive",
+      "values": [
+        "Assets/Shitty moddles/Brother.prefab",
+        "Assets/Shitty moddles/Maze.prefab",
+        "Assets/Shitty moddles/SSPU.prefab",
+        "Assets/What am i doing here/Lightbulb_OWLK.prefab",
+        "Assets/What am i doing here/SunsetSister.prefab",
+        "Assets/What am i doing here/WildsRefuse.prefab",
+        "BrittleHollow_Body/Sector_BH/Sector Cannon Path/Fragment CannonPath_5/Core_CannonPath_5",
+        "BrittleHollow_Body/Sector_BH/Sector_EscapePodCrashSite/Sector_CrashFragment/Interactables_CrashFragment/VisibleFrom_EscapePodCrashSite/GravityCrystals/Prefab_NOM_GravityCrystal (1)",
+        "BrittleHollow_Body/Sector_BH/Sector_QuantumFragment/Interactables_QuantumFragment/Surface_QRock_Shard/QuantumTrees/QuantumTree_Straight/Prefab_Tree_BH_Bristle_Straight/Mesh_BH_Bristle_Straight",
+        "CaveTwin_Body/Sector_CaveTwin/Sector_NorthHemisphere/Sector_NorthSurface/Sector_TimeLoopExperiment/Geometry_TimeLoopExperiment/ControlledByProxy_Arch/Structure_NOM_TimeLoopExperiment/TLE_Exterior/TLE_Exterior_Geo",
+        "ConstructionYardIsland_Body/Sector_ConstructionYard/Geometry_ConstructionYard/OtherComponentsGroup/ControlledByProxy_ConstructionYard/Structures_ConstructionIsland/BatchedGroup/BatchedMeshRenderers_15",
+        "ConstructionYardIsland_Body/Sector_ConstructionYard/Geometry_ConstructionYard/OtherComponentsGroup/ControlledByProxy_ConstructionYard/Structures_ConstructionIsland/BatchedGroup/BatchedMeshRenderers_16",
+        "DB_VesselDimension_Body/Sector_VesselDimension/Props_VesselDimension/Prefab_NOM_NomaiTree_VarDRY_3/GEO_Treepot_3",
+        "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_2/Ghosts_DreamZone_2/GhostNodeMap_HornetHouse/Prefab_IP_GhostBird_Hornet/Ghostbird_IP_ANIM",
+        "DreamWorld_Body/Sector_DreamWorld/Sector_Underground/IslandsRoot/IslandPivot_B/Island_B/Props_Island_B/Tree_DW_L (3)",
+        "Jellyfish_Body/Beast_GD_Jellyfish_v4",
+        "Moon_Body/Sector_THM/Interactables_THM/Effects_HEA_Campfire",
+        "QuantumMoon_Body/Sector_QuantumMoon/State_EYE/Interactables_EYEState/ConversationPivot/Character_NOM_Solanum/Nomai_ANIM_SkyWatching_Idle",
+        "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_Sapling/QSapling (3)/Tree_TH_Sapling/",
+        "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_QGeysers/QuantumGeyser_Big/Terrain_TH_SurfaceGeyser_Big (1)",
+        "RingWorld_Body/Sector_RingInterior/Sector_Zone2/Sector_MapHouse_Zone2/Geo_MapHouse_Zone2/MapHouse",
+        "Sector_BH/Sector_Crossroads/Interactables_Crossroads/VisibleFrom_BH/Prefab_HEA_Campfire",
+        "TimberHearth_Body/Sector_TH/Sector_Village/Sector_StartingCamp/Props_StartingCamp/OtherComponentsGroup/Props_HEA_CampsiteCookingStand",
+        "WhiteholeStation_Body/Sector_WhiteholeStation/Props_WhiteHoleStation/Prefab_NOM_NomaiTree_Var_2/GEO_NomaiTree_1_Trunk"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-1.78664",
+        "-104.4651",
+        "-11.75387",
+        "-119.4344",
+        "-12.16213",
+        "-122.0432",
+        "-127.5757",
+        "-137.4382",
+        "-16.96288",
+        "-17.00232",
+        "-179.8101",
+        "-19.22805",
+        "-19.7065",
+        "-20.93678",
+        "-202.2585",
+        "-25.7018",
+        "-27.95148",
+        "-28.17739",
+        "-28.21856",
+        "-28.56334",
+        "-3.968328",
+        "-6.19408",
+        "-7.576705",
+        "-9.291737",
+        "-96.3702",
+        "0",
+        "0.01488757",
+        "0.05273628",
+        "0.7270678",
+        "1.453188",
+        "14.90288",
+        "18.19854",
+        "18.79345",
+        "21.21438",
+        "21.496",
+        "21.98624",
+        "24.13686",
+        "24.45131",
+        "31.51388",
+        "37.47196",
+        "38.8765",
+        "39.77072",
+        "5.815858",
+        "503.0323",
+        "52.33432",
+        "55.03082",
+        "64.12279",
+        "77.4173",
+        "80.54708",
+        "86.27177",
+        "9.7633",
+        "97.5097"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-0.1999897",
+        "-0.209034",
+        "-18.82518",
+        "-2.429245",
+        "-20.3608",
+        "-224.0013",
+        "-227.8629",
+        "-231.631",
+        "-233.0254",
+        "-234.9267",
+        "-236.4874",
+        "-26.96621",
+        "-3.535484",
+        "-33.84158",
+        "-37.00609",
+        "-4.920841",
+        "-43.71928",
+        "-45.22138",
+        "-47.49919",
+        "-52.3396",
+        "-7.9617",
+        "0",
+        "0.05419731",
+        "1.095791",
+        "12.9999",
+        "2.058054",
+        "2.321092",
+        "24.87508",
+        "29.75072",
+        "3.176962",
+        "3.783183",
+        "31.04641",
+        "32.09199",
+        "35.38559",
+        "38.38471",
+        "39.73257",
+        "4.632248",
+        "42.05878",
+        "43.3551",
+        "44.12669",
+        "58.12287",
+        "58.95614",
+        "59.25369",
+        "6.168068",
+        "62.21569",
+        "62.23615",
+        "65.39594",
+        "681.6181",
+        "7.689705",
+        "8.735304",
+        "9.866028"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-0.2190161",
+        "-1.583775",
+        "-100.0327",
+        "-129.561",
+        "-15.53499",
+        "-153.6581",
+        "-166.4273",
+        "-171.4688",
+        "-175.3365",
+        "-2.568298",
+        "-20.72149",
+        "-23.38041",
+        "-25.00418",
+        "-26.19419",
+        "-29.48388",
+        "-31.40749",
+        "-32.73504",
+        "-38.44305",
+        "-38.78954",
+        "-39.0502",
+        "-4.027244",
+        "-44.80852",
+        "-46.40173",
+        "-5.572495",
+        "-54.38944",
+        "-64.05482",
+        "-7.943301",
+        "-8.10498",
+        "-8.6878",
+        "-9.69351",
+        "-97.7662",
+        "0",
+        "1.297604",
+        "107.3343",
+        "12.55277",
+        "12.72086",
+        "142.5086",
+        "17.76258",
+        "19.0975",
+        "19.42831",
+        "2.970856",
+        "20.91168",
+        "21.86069",
+        "26.23389",
+        "3.178832",
+        "4.170747",
+        "4.853647",
+        "46.45446",
+        "46.53248",
+        "5.3126",
+        "6.157471",
+        "80.05391"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.removeChildren",
+      "fieldType": "array",
+      "values": [
+        "Interactibles_Core_CannonPath_5",
+        "Interactibles_Core_CannonPath_5 (1)",
+        "Props_HEA_Carabiner",
+        "Props_HEA_CookingStand",
+        "Props_HEA_SardineCanClosed",
+        "Props_HEA_SardineCanOpened",
+        "Props_HEA_SardineSkeleton1",
+        "Props_HEA_SardineSkeleton2",
+        "Props_HEA_SmallCookingPot",
+        "Props_HEA_SmallCookingPotTop",
+        "Props_HEA_Spork",
+        "Props_HEA_Teapot",
+        "Props_HEA_TeapotTop",
+        "Props_HEA_Wrench"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.rename",
+      "fieldType": "primitive",
+      "values": [
+        "Alder",
+        "Basil",
+        "Cedar",
+        "Cherry",
+        "Elm",
+        "PanelA",
+        "PanelB",
+        "PanelC",
+        "The Grand Tree Of Ultimate Doom",
+        "The Little Sapling Of Miniature Heroicness"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "0.000001664614",
+        "0.000001664615",
+        "0.9795",
+        "1.177397",
+        "1.750229",
+        "1.926399",
+        "16.25435",
+        "17.60072",
+        "180",
+        "19.04009",
+        "20.96357",
+        "23",
+        "23.85326",
+        "276.0348",
+        "29.24753",
+        "3.983487",
+        "300.8538",
+        "309.1469",
+        "318.7241",
+        "320.4748",
+        "321.9779",
+        "323.3263",
+        "329.4484",
+        "331.3402",
+        "332.0857",
+        "333.8738",
+        "334.8671",
+        "337.833",
+        "343.1425",
+        "344.0832",
+        "345.9958",
+        "348.7417",
+        "353.7529",
+        "357.0548",
+        "359.6807",
+        "359.6923",
+        "36.91942",
+        "4.758208",
+        "41.59045",
+        "41.6259",
+        "42.25726",
+        "46.4641",
+        "47.18943",
+        "49.95689",
+        "51.19276",
+        "55.48839",
+        "57.16419",
+        "61.35378",
+        "64.25726",
+        "66.49409",
+        "68.67385",
+        "72.59614",
+        "75.56512"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "1.721882",
+        "105.9751",
+        "14.29514",
+        "143.1693",
+        "147.7908",
+        "148.0969",
+        "148.6532",
+        "149.6256",
+        "151.9849",
+        "166.1843",
+        "174.9462",
+        "175.191",
+        "178.6255",
+        "180.6772",
+        "182.0245",
+        "186.8129",
+        "189.5601",
+        "210.5197",
+        "211.3681",
+        "215.3458",
+        "220.9384",
+        "228.428",
+        "229.6139",
+        "230.3349",
+        "231.8811",
+        "232.6075",
+        "233.8477",
+        "236.6273",
+        "256.913",
+        "258.7222",
+        "274.8938",
+        "277.8981",
+        "286.0577",
+        "294.3175",
+        "295.8971",
+        "30.81925",
+        "300.3705",
+        "302.3584",
+        "304.0166",
+        "324.1974",
+        "335.1277",
+        "335.688",
+        "34.72314",
+        "344.6151",
+        "356.6102",
+        "36.05353",
+        "5",
+        "58.85465",
+        "66.72143",
+        "7.836459",
+        "94.3328"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "-7.096796e-7",
+        "0",
+        "0.132",
+        "0.8341346",
+        "12.7136",
+        "133.1718",
+        "139.4709",
+        "140.7697",
+        "15.86085",
+        "152.6346",
+        "154.7489",
+        "16.85054",
+        "170.1614",
+        "179.9479",
+        "191.5558",
+        "192.1651",
+        "192.6868",
+        "198.7414",
+        "203.407",
+        "222.8627",
+        "233.9147",
+        "255.6957",
+        "267.2822",
+        "269.9999",
+        "275.8616",
+        "276.4366",
+        "297.9543",
+        "3.421219",
+        "3.935602",
+        "301.7118",
+        "336.1856",
+        "340.3059",
+        "341.5836",
+        "346.9941",
+        "348.1441",
+        "351.3402",
+        "353.0228",
+        "38.87216",
+        "6.122982e-7",
+        "63.64727",
+        "65.91585",
+        "8.118117",
+        "8.122653",
+        "8.958498",
+        "82",
+        "83.1487",
+        "9.4596",
+        "91.66562",
+        "91.99842",
+        "92.72327",
+        "92.76538",
+        "92.93295",
+        "93.58111"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.scale",
+      "fieldType": "primitive",
+      "values": [
+        "0.4",
+        "0.5",
+        "0.75",
+        "1",
+        "1.5",
+        "2",
+        "4",
+        "51",
+        "78"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.stretch.x",
+      "fieldType": "primitive",
+      "values": [
+        "0.8745"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.stretch.y",
+      "fieldType": "primitive",
+      "values": [
+        "1.6836"
+      ]
+    },
+    {
+      "fieldPath": "Props.details.stretch.z",
+      "fieldType": "primitive",
+      "values": [
+        "0.1255"
+      ]
+    },
+    {
+      "fieldPath": "Props.dialogue.isRelativeToParent",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Props.dialogue.pathToAnimController",
+      "fieldType": "primitive",
+      "values": [
+        "Sector/Alder",
+        "Sector/Basil",
+        "Sector/Cedar",
+        "Sector/Cherry",
+        "Sector/Elm"
+      ]
+    },
+    {
+      "fieldPath": "Props.dialogue.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "0.1418195",
+        "0.7270678"
+      ]
+    },
+    {
+      "fieldPath": "Props.dialogue.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "33.98166",
+        "681.6181"
+      ]
+    },
+    {
+      "fieldPath": "Props.dialogue.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-0.2190161",
+        "-3.265439"
+      ]
+    },
+    {
+      "fieldPath": "Props.dialogue.radius",
+      "fieldType": "primitive",
+      "values": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "fieldPath": "Props.dialogue.xmlFile",
+      "fieldType": "primitive",
+      "values": [
+        "planets/xml/3-WR/Alder.xml",
+        "planets/xml/3-WR/Cedar.xml",
+        "planets/xml/3-WR/Cherry.xml",
+        "planets/xml/3-WR/Elm.xml",
+        "planets/xml/Basil.xml",
+        "planets/xml/secret.xml"
+      ]
+    },
+    {
+      "fieldPath": "Props.geysers.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "38.8765"
+      ]
+    },
+    {
+      "fieldPath": "Props.geysers.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-26.96621"
+      ]
+    },
+    {
+      "fieldPath": "Props.geysers.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "12.72086"
+      ]
+    },
+    {
+      "fieldPath": "Props.geysers.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "337.833"
+      ]
+    },
+    {
+      "fieldPath": "Props.geysers.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "356.6102"
+      ]
+    },
+    {
+      "fieldPath": "Props.geysers.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "233.9147"
+      ]
+    },
+    {
+      "fieldPath": "Props.signals.audio",
+      "fieldType": "primitive",
+      "values": [
+        "NomaiEscapePodDistressSignal_LP",
+        "planets/music/morse.wav"
+      ]
+    },
+    {
+      "fieldPath": "Props.signals.detectionRadius",
+      "fieldType": "primitive",
+      "values": [
+        "15",
+        "25",
+        "55",
+        "8"
+      ]
+    },
+    {
+      "fieldPath": "Props.signals.frequency",
+      "fieldType": "primitive",
+      "values": [
+        "Hidden Broadcast",
+        "Morse",
+        "Signal Broadcasters"
+      ]
+    },
+    {
+      "fieldPath": "Props.signals.identificationRadius",
+      "fieldType": "primitive",
+      "values": [
+        "5"
+      ]
+    },
+    {
+      "fieldPath": "Props.signals.name",
+      "fieldType": "primitive",
+      "values": [
+        "Asteroid Broadcaster",
+        "Cloud Broadcaster",
+        "First Broadcaster",
+        "Refuse Broadcaster",
+        "Second Broadcaster",
+        "Spike Broadcaster"
+      ]
+    },
+    {
+      "fieldPath": "Props.signals.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-0.8822226",
+        "-22.54999",
+        "-23.08217",
+        "-292.1644",
+        "15.15451",
+        "603.8593"
+      ]
+    },
+    {
+      "fieldPath": "Props.signals.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-0.102066",
+        "-1.500015",
+        "-317.6028",
+        "2.441422",
+        "201.5718",
+        "265.4477"
+      ]
+    },
+    {
+      "fieldPath": "Props.signals.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-28.38388",
+        "-4.763678",
+        "-46.52854",
+        "-7.014376",
+        "18.97661",
+        "63.1996"
+      ]
+    },
+    {
+      "fieldPath": "Props.singularities.distortRadius",
+      "fieldType": "primitive",
+      "values": [
+        "62"
+      ]
+    },
+    {
+      "fieldPath": "Props.singularities.horizonRadius",
+      "fieldType": "primitive",
+      "values": [
+        "61"
+      ]
+    },
+    {
+      "fieldPath": "Props.singularities.type",
+      "fieldType": "primitive",
+      "values": [
+        "whiteHole"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.alignRadial",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-0.0005750656",
+        "-0.01212621",
+        "-0.1844773",
+        "-0.8948452",
+        "-1.263823",
+        "-10.20732",
+        "-143.1462",
+        "-20.04044",
+        "-20.51679",
+        "-20.87297",
+        "-28.26348",
+        "-28.97009",
+        "-291.9107",
+        "-3.327461",
+        "-49.69526",
+        "-54.72196",
+        "-7.154451",
+        "-90.62511",
+        "0.1366286",
+        "1.166279",
+        "1.977148",
+        "12.61656",
+        "12.87241",
+        "145.9763",
+        "15.15451",
+        "150.7702",
+        "17.61859",
+        "2.358424",
+        "28.21868",
+        "44.90221",
+        "58.36527",
+        "603.8593",
+        "8.074366",
+        "82.94669",
+        "86.92467",
+        "88.62447"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-0.01469141",
+        "-0.1727161",
+        "-0.4927049",
+        "-0.7254791",
+        "-1.382923",
+        "-1.424599",
+        "-13.25846",
+        "-187.2852",
+        "-190.586",
+        "-20.59194",
+        "-29.86489",
+        "-29.96633",
+        "-31.57381",
+        "-314.7431",
+        "-314.9887",
+        "-38.09122",
+        "-43.48729",
+        "-45.87065",
+        "-51.25509",
+        "-53.16",
+        "-73.18746",
+        "-8.575027",
+        "0.00001129508",
+        "1.551311",
+        "2.305824",
+        "2.441422",
+        "203.7384",
+        "210.5257",
+        "265.4477",
+        "30.15845",
+        "38.33867",
+        "40.6234",
+        "48.1226",
+        "5.381241",
+        "54.29642",
+        "6.399929"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-0.000541687",
+        "-144.6066",
+        "-27.6538",
+        "-28.38388",
+        "-32.02409",
+        "-4.230129",
+        "-4.371849",
+        "-46.52854",
+        "-47.31169",
+        "-56.88366",
+        "-6.260307",
+        "-6.348553",
+        "-6.349207",
+        "-63.63496",
+        "0.01346239",
+        "1.810127",
+        "11.87239",
+        "12.38139",
+        "140.1628",
+        "142.2603",
+        "145.0514",
+        "18.79176",
+        "195.4116",
+        "200.4671",
+        "201.2894",
+        "22.78672",
+        "28.12366",
+        "29.25063",
+        "31.95456",
+        "5.251358",
+        "58.69209",
+        "6.34754",
+        "6.785488",
+        "61.74735",
+        "80.37563",
+        "80.5068"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.rename",
+      "fieldType": "primitive",
+      "values": [
+        "alienalienson",
+        "codeycoderson",
+        "crateycraterson",
+        "guiseyguiserson",
+        "moddymodderson",
+        "moistymoisterson",
+        "navigatenavigatorson",
+        "nubRecorder",
+        "nubScroll",
+        "othercodeothercodeyseon",
+        "seekerseekerson",
+        "worldyworldyson"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "-2.467737",
+        "-337.3312",
+        "-346.2912",
+        "-355.3437",
+        "-356.1637",
+        "0.000006339636",
+        "1.586581",
+        "10.05566",
+        "10.38598",
+        "26.74036",
+        "289.6233",
+        "292.1777",
+        "295.5193",
+        "299.1339",
+        "311.1805",
+        "312.731",
+        "313.5052",
+        "317.2371",
+        "329.8697",
+        "33.05231",
+        "330.962",
+        "334.9727",
+        "336.2921",
+        "338.0069",
+        "346.739",
+        "347.4148",
+        "35.97088",
+        "352.1748",
+        "359.4281",
+        "4.014598",
+        "46.5411",
+        "49.31627",
+        "51.63334",
+        "6.798604",
+        "79.33403"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "-33.50604",
+        "-358.1924",
+        "-37.14842",
+        "-83.86835",
+        "-94.11726",
+        "112.4736",
+        "151.9925",
+        "160.7187",
+        "175.8757",
+        "177.7678",
+        "186.2515",
+        "204.2366",
+        "251.0814",
+        "252.2765",
+        "252.4254",
+        "252.4493",
+        "255.6075",
+        "268.8767",
+        "27.93465",
+        "281.6354",
+        "284.6986",
+        "288.9411",
+        "300.2437",
+        "310.106",
+        "326.1889",
+        "341.6098",
+        "343.0027",
+        "345.025",
+        "350.3965",
+        "4.213869",
+        "79.69088",
+        "86.53614",
+        "88.9578",
+        "97.16952",
+        "98.13387"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "-177.0982",
+        "-291.2441",
+        "-3.602626e-7",
+        "-327.4879",
+        "-85.89552",
+        "-87.82762",
+        "153.7585",
+        "174.817",
+        "175.2407",
+        "176.8589",
+        "212.8924",
+        "220.1275",
+        "223.9082",
+        "228.452",
+        "228.6843",
+        "244.0645",
+        "246.3186",
+        "251.1745",
+        "253.4236",
+        "261.072",
+        "266.4856",
+        "289.6599",
+        "343.9168",
+        "5.346976",
+        "64.26241",
+        "7.784051",
+        "71.3083",
+        "86.49049",
+        "88.21321",
+        "90.00002",
+        "90.83521",
+        "96.19257",
+        "97.50325",
+        "97.68182",
+        "97.97399"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.seed",
+      "fieldType": "primitive",
+      "values": [
+        "4218",
+        "582"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.type",
+      "fieldType": "primitive",
+      "values": [
+        "computer",
+        "preCrashComputer",
+        "preCrashRecorder",
+        "recorder",
+        "scroll",
+        "whiteboard"
+      ]
+    },
+    {
+      "fieldPath": "Props.translatorText.xmlFile",
+      "fieldType": "primitive",
+      "values": [
+        "planets/xml/2-SS/OhForRadon'sSake.xml",
+        "planets/xml/2-SS/SolarPanel1.xml",
+        "planets/xml/2-SS/SolarPanel2.xml",
+        "planets/xml/2-SS/SolarPanel3.xml",
+        "planets/xml/4-LL/ReachingToTheCore.xml",
+        "planets/xml/4-LL/UmThatJustHappened.xml",
+        "planets/xml/ACodeUncovered.xml",
+        "planets/xml/Back.xml",
+        "planets/xml/Crater.xml",
+        "planets/xml/Discovery.xml",
+        "planets/xml/HarvestedMetal.xml",
+        "planets/xml/LightbulbsIncentive.xml",
+        "planets/xml/LinkingToAProject.xml",
+        "planets/xml/MoistCrater.xml",
+        "planets/xml/NavigatingAHole.xml",
+        "planets/xml/Otherside.xml",
+        "planets/xml/SSPU.xml",
+        "planets/xml/SeekerCrater.xml",
+        "planets/xml/SunRising.xml",
+        "planets/xml/TheFirstCode.xml",
+        "planets/xml/TimeIsMine.xml",
+        "planets/xml/WarpCores.xml",
+        "planets/xml/WarpingsDangers.xml",
+        "planets/xml/WeBuiltItForThis.xml",
+        "planets/xml/aMomentLastingTrauma.xml",
+        "planets/xml/brodcasting.xml",
+        "planets/xml/exploringAFracturedWorld.xml",
+        "planets/xml/findTheGuise.xml",
+        "planets/xml/moddy.xml",
+        "planets/xml/theInvisibleBehindMyEyes.xml",
+        "planets/xml/whyAreYouHereInMyLife.xml"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpReceivers.alignRadial",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpReceivers.frequency",
+      "fieldType": "primitive",
+      "values": [
+        "Brother-Maze",
+        "Platform-Refuge",
+        "SSPU-Maze"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpReceivers.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "0.01152926",
+        "15.80604",
+        "2.750885"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpReceivers.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-3.341545",
+        "4.754655",
+        "50.79654"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpReceivers.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-1.355571",
+        "31.83673",
+        "78.48455"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpReceivers.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "10.10538",
+        "2.327195",
+        "4.200294"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpReceivers.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "102.882",
+        "276.5846",
+        "96.79932"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpReceivers.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "0.5003365",
+        "289.7312",
+        "91.0071"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpTransmitters.alignmentWindow",
+      "fieldType": "primitive",
+      "values": [
+        "360"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpTransmitters.frequency",
+      "fieldType": "primitive",
+      "values": [
+        "Brother-Maze",
+        "Platform-Refuge",
+        "SSPU-Maze"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpTransmitters.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "148.708",
+        "40.86359"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpTransmitters.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-193.5996",
+        "-6.715394",
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpTransmitters.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "195.9802",
+        "29.43878",
+        "60"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpTransmitters.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "25.34543",
+        "356.6691"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpTransmitters.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "147.9024",
+        "324.3164"
+      ]
+    },
+    {
+      "fieldPath": "Props.warpTransmitters.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "132.5454",
+        "264.5723"
+      ]
+    },
+    {
+      "fieldPath": "ReferenceFrame.enabled",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    },
+    {
+      "fieldPath": "removeChildren",
+      "fieldType": "array",
+      "values": [
+        "Sector/Star/Audio_Star/SurfaceAudio_Sun"
+      ]
+    },
+    {
+      "fieldPath": "Rings.fluidType",
+      "fieldType": "primitive",
+      "values": [
+        "sand"
+      ]
+    },
+    {
+      "fieldPath": "Rings.innerRadius",
+      "fieldType": "primitive",
+      "values": [
+        "2000"
+      ]
+    },
+    {
+      "fieldPath": "Rings.outerRadius",
+      "fieldType": "primitive",
+      "values": [
+        "2500"
+      ]
+    },
+    {
+      "fieldPath": "Rings.texture",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/BB_r.png"
+      ]
+    },
+    {
+      "fieldPath": "Sand.curve.time",
+      "fieldType": "primitive",
+      "values": [
+        "22",
+        "9"
+      ]
+    },
+    {
+      "fieldPath": "Sand.curve.value",
+      "fieldType": "primitive",
+      "values": [
+        "0.7",
+        "1"
+      ]
+    },
+    {
+      "fieldPath": "Sand.size",
+      "fieldType": "primitive",
+      "values": [
+        "410"
+      ]
+    },
+    {
+      "fieldPath": "ShipLog.mapMode.invisibleWhenHidden",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "ShipLog.mapMode.revealedSprite",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/A.png",
+        "planets/assets/BB.png",
+        "planets/assets/FR.png",
+        "planets/assets/RL.png",
+        "planets/assets/SS.png"
+      ]
+    },
+    {
+      "fieldPath": "ShipLog.mapMode.scale",
+      "fieldType": "primitive",
+      "values": [
+        "0.3",
+        "0.6",
+        "1",
+        "1.2",
+        "2"
+      ]
+    },
+    {
+      "fieldPath": "ShipLog.spriteFolder",
+      "fieldType": "primitive",
+      "values": [
+        "planets/shiplog"
+      ]
+    },
+    {
+      "fieldPath": "ShipLog.xmlFile",
+      "fieldType": "primitive",
+      "values": [
+        "planets/shiplog/Asteroid.xml",
+        "planets/shiplog/Brother.xml",
+        "planets/shiplog/Lightbulb.xml",
+        "planets/shiplog/Refuse.xml",
+        "planets/shiplog/Sister.xml"
+      ]
+    },
+    {
+      "fieldPath": "Star.curve.time",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "18",
+        "18.5"
+      ]
+    },
+    {
+      "fieldPath": "Star.curve.value",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "1",
+        "1.6"
+      ]
+    },
+    {
+      "fieldPath": "Star.endTint.b",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Star.endTint.g",
+      "fieldType": "primitive",
+      "values": [
+        "156"
+      ]
+    },
+    {
+      "fieldPath": "Star.endTint.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Star.lifespan",
+      "fieldType": "primitive",
+      "values": [
+        "23"
+      ]
+    },
+    {
+      "fieldPath": "Star.lightRadius",
+      "fieldType": "primitive",
+      "values": [
+        "2800",
+        "300"
+      ]
+    },
+    {
+      "fieldPath": "Star.lightTint.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Star.lightTint.b",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Star.lightTint.g",
+      "fieldType": "primitive",
+      "values": [
+        "240",
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Star.lightTint.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "Star.size",
+      "fieldType": "primitive",
+      "values": [
+        "1",
+        "85"
+      ]
+    },
+    {
+      "fieldPath": "Star.solarLuminosity",
+      "fieldType": "primitive",
+      "values": [
+        "1.4"
+      ]
+    },
+    {
+      "fieldPath": "Star.stellarDeathType",
+      "fieldType": "primitive",
+      "values": [
+        "planetaryNebula"
+      ]
+    },
+    {
+      "fieldPath": "Star.tint.b",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "Star.tint.g",
+      "fieldType": "primitive",
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "fieldPath": "Star.tint.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "starSystem",
+      "fieldType": "primitive",
+      "values": [
+        "Jam5"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.audioVolumes.audio",
+      "fieldType": "primitive",
+      "values": [
+        "planets/music/Basil's Theme.mp3",
+        "planets/music/Bruised Brother.mp3",
+        "planets/music/Sunset Sister.mp3",
+        "planets/music/Wilds' Refuge.mp3"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.audioVolumes.loop",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.audioVolumes.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "0.1418195"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.audioVolumes.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "33.98166"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.audioVolumes.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-3.265439"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.audioVolumes.radius",
+      "fieldType": "primitive",
+      "values": [
+        "145",
+        "19",
+        "260",
+        "530"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.audioVolumes.track",
+      "fieldType": "primitive",
+      "values": [
+        "music"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.audioVolumes.volume",
+      "fieldType": "primitive",
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.hazardVolumes.damagePerSecond",
+      "fieldType": "primitive",
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.hazardVolumes.radius",
+      "fieldType": "primitive",
+      "values": [
+        "120"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.hazardVolumes.type",
+      "fieldType": "primitive",
+      "values": [
+        "heat"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.lightSourceVolumes.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-0.1844773",
+        "-3.327461",
+        "1.166279",
+        "2.358424"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.lightSourceVolumes.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-0.01469141",
+        "-0.4927049",
+        "-13.25846",
+        "-31.57381"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.lightSourceVolumes.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-32.02409",
+        "-6.349207",
+        "29.25063",
+        "31.95456"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.lightSourceVolumes.radius",
+      "fieldType": "primitive",
+      "values": [
+        "2"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.mapRestrictionVolumes.radius",
+      "fieldType": "primitive",
+      "values": [
+        "120"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.notificationVolumes.entryNotification.displayMessage",
+      "fieldType": "primitive",
+      "values": [
+        "WARNING SOLID SURFACE DETECTED"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.notificationVolumes.radius",
+      "fieldType": "primitive",
+      "values": [
+        "950"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.oxygenVolumes.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-19.22805",
+        "-28.21856",
+        "129.121"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.oxygenVolumes.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-110.1535",
+        "2.321092",
+        "3.783183"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.oxygenVolumes.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-13.60687",
+        "-8.10498",
+        "4.170747"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.oxygenVolumes.radius",
+      "fieldType": "primitive",
+      "values": [
+        "10",
+        "12",
+        "120",
+        "17",
+        "86"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.oxygenVolumes.treeVolume",
+      "fieldType": "primitive",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.revealVolumes.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "0.1418195",
+        "148.708"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.revealVolumes.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-193.5996",
+        "33.98166"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.revealVolumes.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-3.265439",
+        "195.9802"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.revealVolumes.radius",
+      "fieldType": "primitive",
+      "values": [
+        "15",
+        "2500",
+        "30"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.revealVolumes.revealFor",
+      "fieldType": "primitive",
+      "values": [
+        "both"
+      ]
+    },
+    {
+      "fieldPath": "Volumes.revealVolumes.reveals",
+      "fieldType": "array",
+      "values": [
+        "BASIL",
+        "BASPIC1",
+        "BASPIC2",
+        "BASPIC3",
+        "BROTHER_DISCOVERY",
+        "LIGHTBULB_DISCOVERY",
+        "REFUSE_DISCOVERY",
+        "SISTER_DISCOVERY",
+        "SSPU_Enterance"
+      ]
+    },
+    {
+      "fieldPath": "Water.size",
+      "fieldType": "primitive",
+      "values": [
+        "66"
       ]
     }
   ],

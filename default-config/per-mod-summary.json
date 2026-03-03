@@ -1748,6 +1748,7 @@
       "values": [
         "Alt Interact",
         "Autopilot",
+        "Cancel",
         "Free Look",
         "Interact",
         "Tool Primary",
@@ -3328,7 +3329,7 @@
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
-        "ShipLogFactTriggerVolumes"
+        "Stranger sector triggers"
       ]
     },
     {
@@ -4126,17 +4127,24 @@
       "fieldPath": "settings.{settingName}.options",
       "fieldType": "array",
       "values": [
-        "Always Off",
-        "Always On",
-        "Default",
-        "Opposite"
+        "Always",
+        "Never",
+        "When Suited",
+        "When Unsuited"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Missing Left Arm"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.tooltip",
       "fieldType": "primitive",
       "values": [
-        "The right arm will be completely invisible."
+        "The left arm will be completely invisible."
       ]
     },
     {
@@ -4225,23 +4233,23 @@
       "fieldPath": "settings.{settingName}.options",
       "fieldType": "array",
       "values": [
-        "Contextual",
-        "Disabled",
-        "Vanilla"
+        "Always",
+        "Never",
+        "When Safe"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
-        "Press 'T' Button to Equip Translator"
+        "Press 'Cancel' Button to Exit Dialogue"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.tooltip",
       "fieldType": "primitive",
       "values": [
-        "Equip the translator whenever you want by pressing T."
+        "Makes dialogue boxes from speaking to characters or reading notes disappear immediately if the cancel button is pressed."
       ]
     },
     {
@@ -4319,26 +4327,31 @@
       ]
     },
     {
-      "fieldPath": "settings.{settingName}.options",
-      "fieldType": "array",
+      "fieldPath": "settings.{settingName}.max",
+      "fieldType": "primitive",
       "values": [
-        "Default",
-        "Disabled",
-        "Legacy"
+        "2"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.min",
+      "fieldType": "primitive",
+      "values": [
+        "0"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
-        "Enable Lefty Mode"
+        "Hide Stowed Items"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.tooltip",
       "fieldType": "primitive",
       "values": [
-        "Makes you hold items/tools in your left hand!"
+        "Makes held items move fully offscreen when they are stowed (i.e. while piloting the ship, roasting marshmallows, or holding another tool)."
       ]
     },
     {
@@ -4352,7 +4365,7 @@
       "fieldPath": "settings.{settingName}.value",
       "fieldType": "primitive",
       "values": [
-        "false"
+        "true"
       ]
     }
   ],
@@ -6564,7 +6577,7 @@
       "fieldPath": "settings.{settingName}",
       "fieldType": "primitive",
       "values": [
-        "1"
+        "true"
       ]
     }
   ],
@@ -7264,6 +7277,13 @@
   ],
   "xen.NewHorizons": [
     {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
       "fieldPath": "enabled",
       "fieldType": "primitive",
       "values": [
@@ -7675,6 +7695,235 @@
       "fieldType": "primitive",
       "values": [
         "Paul"
+      ]
+    }
+  ],
+  "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "LostPython.SubaruDeathSound": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Stacik.TeleportMod": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "GameDev46.TimberHearthForest": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.options",
+      "fieldType": "array",
+      "values": [
+        "Hidden",
+        "High",
+        "Low",
+        "Medium",
+        "Ultra"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Grass Density"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "Changes the amount of extra grass tufts on Timber Hearth"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "selector"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "Ultra"
+      ]
+    }
+  ],
+  "GameDev46.ShipPlanetProjector": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.options",
+      "fieldType": "array",
+      "values": [
+        "Disabled",
+        "Enabled"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Comet Trails"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "Controls whether The Inteloper's trail effects are shown"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "selector"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "Enabled"
+      ]
+    }
+  ],
+  "MDJ287.RearViewMod": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.no",
+      "fieldType": "primitive",
+      "values": [
+        "Camera"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Rear View Camera Height"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "Height of the rear view display"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "number"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "512"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.yes",
+      "fieldType": "primitive",
+      "values": [
+        "Mirror"
+      ]
+    }
+  ],
+  "peacemkr_png.TravelersKalimba": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
       ]
     }
   ]

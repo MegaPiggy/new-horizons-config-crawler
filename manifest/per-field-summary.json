@@ -633,6 +633,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "ShipPlanetProjector.dll"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "TimberHearthForest.dll"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor",
         "values": [
           "OuterWildsSummerJam.dll"
@@ -1083,6 +1095,12 @@
         ]
       },
       {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "SubaruDeathSound.dll"
+        ]
+      },
+      {
         "modName": "lStewieAl.RunInBackground",
         "values": [
           "RunInBackground.dll"
@@ -1098,6 +1116,12 @@
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
           "AroundTheWorldColliderVisualizer.dll"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "RearViewMod.dll"
         ]
       },
       {
@@ -1473,6 +1497,12 @@
         ]
       },
       {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "TravelersKalimba.dll"
+        ]
+      },
+      {
         "modName": "picalines.OuterScout",
         "values": [
           "OuterScout.dll"
@@ -1749,6 +1779,12 @@
         ]
       },
       {
+        "modName": "Stacik.TeleportMod",
+        "values": [
+          "TeleportMod.dll"
+        ]
+      },
+      {
         "modName": "Steini.IcelandicTranslation",
         "values": [
           "IcelandicTranslation.dll"
@@ -1782,6 +1818,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "OWJam3ModProject.dll"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "StellarSibilings.dll"
         ]
       },
       {
@@ -1997,7 +2039,7 @@
       {
         "modName": "udkyo.HeadTracking",
         "values": [
-          "HeadTracking.dll"
+          "OuterWildsHeadTracking.dll"
         ]
       },
       {
@@ -2421,7 +2463,6 @@
       "HalfLifeOverhaul.dll",
       "HatchlingIcarus.dll",
       "HatchlingOutfit.dll",
-      "HeadTracking.dll",
       "HearthianFishing.dll",
       "HearthianParable.dll",
       "HearthsNeighbor2.dll",
@@ -2517,6 +2558,7 @@
       "OuterWildFixFont.dll",
       "OuterWildsAndaluh.dll",
       "OuterWildsFlyover.dll",
+      "OuterWildsHeadTracking.dll",
       "OuterWildsKazoo.dll",
       "OuterWildsMMO.dll",
       "OuterWildsSharedShipLog.dll",
@@ -2551,6 +2593,7 @@
       "RGBIntegration.dll",
       "ReactiveHearthians.dll",
       "RealSolarSystemOuterRelics.dll",
+      "RearViewMod.dll",
       "RetroHealthDisplay.dll",
       "RideMusic.dll",
       "RunInBackground.dll",
@@ -2569,6 +2612,7 @@
       "ShipEnhancements.dll",
       "ShipLightToggle.dll",
       "ShipLogSlideReelPlayer.dll",
+      "ShipPlanetProjector.dll",
       "ShipRemoteAutopilot.dll",
       "ShipyardOWOAddon.dll",
       "SillyFilters.dll",
@@ -2589,9 +2633,11 @@
       "SpeedTools.dll",
       "SpoilerQuarantineRelease.dll",
       "StaticCamera.dll",
+      "StellarSibilings.dll",
       "StopTime.dll",
       "StrangerNightCycle.dll",
       "StrangerSpinGravity.dll",
+      "SubaruDeathSound.dll",
       "SuicideMod.dll",
       "SuitLog.dll",
       "SummonShip.dll",
@@ -2602,6 +2648,7 @@
       "TLDJam5.dll",
       "TalkToPrisoner.dll",
       "TankEngine.dll",
+      "TeleportMod.dll",
       "Terrarium.dll",
       "TesseractsSecret.dll",
       "ThaiTranslation.dll",
@@ -2610,12 +2657,14 @@
       "TheVision.dll",
       "TheWildsExtended.dll",
       "ThirdPersonCamera.dll",
+      "TimberHearthForest.dll",
       "TimeSaver.dll",
       "TinyPatchForDivergence.dll",
       "ToggleHUD.dll",
       "ToggleVelocityMatching.dll",
       "TrajectoryPrediction.dll",
       "TransRightsMod.dll",
+      "TravelersKalimba.dll",
       "TravelersPack.dll",
       "TrifidJam3.dll",
       "TrifidJam5.dll",
@@ -3270,6 +3319,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "GameDev46"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "GameDev46"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor",
         "values": [
           "GameWyrmTeam"
@@ -3720,6 +3781,12 @@
         ]
       },
       {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "LostPython"
+        ]
+      },
+      {
         "modName": "lStewieAl.RunInBackground",
         "values": [
           "lStewieAl"
@@ -3733,6 +3800,12 @@
       },
       {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "MDJ287"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
         "values": [
           "MDJ287"
         ]
@@ -4110,6 +4183,12 @@
         ]
       },
       {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "peacemkr_png"
+        ]
+      },
+      {
         "modName": "picalines.OuterScout",
         "values": [
           "picalines"
@@ -4386,6 +4465,12 @@
         ]
       },
       {
+        "modName": "Stacik.TeleportMod",
+        "values": [
+          "Stacik"
+        ]
+      },
+      {
         "modName": "Steini.IcelandicTranslation",
         "values": [
           "Steini"
@@ -4419,6 +4504,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "2walker2, GayCoffee, Greenpixel"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "Team Geswaldo (Solec, T3rtu, Heroplays1122, Vodblink, and Callie)"
         ]
       },
       {
@@ -4634,7 +4725,7 @@
       {
         "modName": "udkyo.HeadTracking",
         "values": [
-          "udkyo"
+          "itsloopyo"
         ]
       },
       {
@@ -5011,6 +5102,7 @@
       "FunkyShoeMan",
       "FunkyShoeMan#0001, #nh-addon-discussion (lots of help) (Xen-12, Idiot, Trifid)",
       "FusionFlux",
+      "GameDev46",
       "GameWyrm",
       "GameWyrm, funkyshoeman, EndgameZero, and CelestialsStorm",
       "GameWyrmTeam",
@@ -5039,6 +5131,7 @@
       "LikeMauro",
       "LivingFray",
       "Locochoco",
+      "LostPython",
       "MDJ287",
       "Makaque",
       "MegaPiggy",
@@ -5078,6 +5171,7 @@
       "Spacepiano",
       "SpatialX",
       "SpatialXX",
+      "Stacik",
       "Steini",
       "Stonesword",
       "Streetlights Behind the Trees",
@@ -5087,6 +5181,7 @@
       "TacoTechnica",
       "Tandicase & Tlya",
       "TealHelix",
+      "Team Geswaldo (Solec, T3rtu, Heroplays1122, Vodblink, and Callie)",
       "Team Wrong Warp",
       "TeamMitis",
       "Tebmn",
@@ -5144,11 +5239,13 @@
       "hearth1an",
       "hearth1an & xen",
       "ilyabru",
+      "itsloopyo",
       "lStewieAl",
       "milesand",
       "mrmeep321",
       "nice2cu1",
       "orclecle",
+      "peacemkr_png",
       "picalines",
       "piggeywig2000",
       "pikpik_carrot",
@@ -5160,7 +5257,6 @@
       "snazzyostrich",
       "thearst3rd",
       "thuninoi",
-      "udkyo",
       "xen",
       "xen & JohnCorby",
       "xen and SBtT",
@@ -5802,6 +5898,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "Ship Planet Projector"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "Timber Hearth Forest"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor",
         "values": [
           "OuterWildsSummerJam"
@@ -6252,6 +6360,12 @@
         ]
       },
       {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "SubaruDeathSound"
+        ]
+      },
+      {
         "modName": "lStewieAl.RunInBackground",
         "values": [
           "Run In Background"
@@ -6267,6 +6381,12 @@
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
           "AroundTheWorldColliderVisualizer"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "Rear View Mirror"
         ]
       },
       {
@@ -6596,7 +6716,7 @@
       {
         "modName": "Owen013.QOLFixes",
         "values": [
-          "QOL Features"
+          "Quality of Life Features"
         ]
       },
       {
@@ -6639,6 +6759,12 @@
         "modName": "Pau318.OuterPictures",
         "values": [
           "OuterPictures"
+        ]
+      },
+      {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "Traveler’s Kalimba"
         ]
       },
       {
@@ -6918,6 +7044,12 @@
         ]
       },
       {
+        "modName": "Stacik.TeleportMod",
+        "values": [
+          "TeleportMod"
+        ]
+      },
+      {
         "modName": "Steini.IcelandicTranslation",
         "values": [
           "IcelandicTranslation"
@@ -6951,6 +7083,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "Reflections"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "Powerfail"
         ]
       },
       {
@@ -7751,17 +7889,18 @@
       "PodracingTracker",
       "Portal2Skinpack",
       "Power Failure",
+      "Powerfail",
       "Pride Lantern",
       "Primitive Launching",
       "Probe Grapple",
       "Project ARC",
       "Prop Placer",
       "Proud Hearthians",
-      "QOL Features",
       "QSB API Test Mod",
       "QSB Game Modes",
       "QSB Multiple Ships",
       "QSB TTS",
+      "Quality of Life Features",
       "Quantum Moon Equator Orbit",
       "Quantum Moon Orbit Line",
       "QuietEchoes",
@@ -7769,6 +7908,7 @@
       "Reactive Hearthians",
       "Real Solar System",
       "Real Solar System - Outer Relics Support and Examples",
+      "Rear View Mirror",
       "Reflections",
       "Resource Management",
       "Retro Health Display",
@@ -7789,6 +7929,7 @@
       "Ship Enhancements",
       "Ship Light Toggle",
       "Ship Log Slide Reel Player Plus",
+      "Ship Planet Projector",
       "Ship Remote Autopilot",
       "ShipAlarm",
       "ShipyardOWOAddon",
@@ -7820,6 +7961,7 @@
       "Stranger Event Triggerer",
       "StrangerNightCycle",
       "StrangerSpinGravity",
+      "SubaruDeathSound",
       "Suicide Mod",
       "Suit Log",
       "SummonShip",
@@ -7833,6 +7975,7 @@
       "TRAPPIST-1",
       "Talk To Prisoner",
       "Team Fortress 2 Skinpack",
+      "TeleportMod",
       "Tesseract's Secret",
       "ThaiTranslation",
       "The Box",
@@ -7852,6 +7995,7 @@
       "Their Homeworld",
       "Third Person Camera",
       "Throwable Items",
+      "Timber Hearth Forest",
       "Timber Twin",
       "Time Dialator",
       "TimeSaver",
@@ -7861,6 +8005,7 @@
       "Trajectory Prediction",
       "TransRightsMod",
       "Traveler's Pack",
+      "Traveler’s Kalimba",
       "Tripping and Clumsiness",
       "Trunic Localization",
       "ULTIMATE Skin Changer",
@@ -8518,6 +8663,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "GameDev46.ShipPlanetProjector"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "GameDev46.TimberHearthForest"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor",
         "values": [
           "GameWyrmTeam.OuterWildsSummerJam"
@@ -8968,6 +9125,12 @@
         ]
       },
       {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "LostPython.SubaruDeathSound"
+        ]
+      },
+      {
         "modName": "lStewieAl.RunInBackground",
         "values": [
           "lStewieAl.RunInBackground"
@@ -8983,6 +9146,12 @@
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
           "MDJ287.AroundTheWorldColliderVisualizer"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "MDJ287.RearViewMod"
         ]
       },
       {
@@ -9358,6 +9527,12 @@
         ]
       },
       {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "peacemkr_png.TravelersKalimba"
+        ]
+      },
+      {
         "modName": "picalines.OuterScout",
         "values": [
           "picalines.OuterScout"
@@ -9634,6 +9809,12 @@
         ]
       },
       {
+        "modName": "Stacik.TeleportMod",
+        "values": [
+          "Stacik.TeleportMod"
+        ]
+      },
+      {
         "modName": "Steini.IcelandicTranslation",
         "values": [
           "Steini.IcelandicTranslation"
@@ -9667,6 +9848,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "TeamErnesto.OWJam3ModProject"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "TeamGeswaldo.Jam5"
         ]
       },
       {
@@ -9882,7 +10069,7 @@
       {
         "modName": "udkyo.HeadTracking",
         "values": [
-          "udkyo.HeadTracking"
+          "itsloopyo.OuterWildsHeadTracking"
         ]
       },
       {
@@ -10288,6 +10475,8 @@
       "FunkyShoeMan.ErnestoTakeover",
       "FunkyShoeMan.TheWildsExtended",
       "FusionFlux.ProudHearthians",
+      "GameDev46.ShipPlanetProjector",
+      "GameDev46.TimberHearthForest",
       "GameWyrm.HearthsNeighbor2",
       "GameWyrm.OuterRelics",
       "GameWyrm.RealSolarSystemOuterRelics",
@@ -10348,7 +10537,9 @@
       "Locochoco.ShipyardOWOAddon",
       "Locochoco.SlateShipyard",
       "Locochoco.Spaceshipinha",
+      "LostPython.SubaruDeathSound",
       "MDJ287.AroundTheWorldColliderVisualizer",
+      "MDJ287.RearViewMod",
       "Makaque.AxisConsolidator",
       "MegaPiggy.AlphaRegression",
       "MegaPiggy.AnomalyResearchAndContainment",
@@ -10432,11 +10623,13 @@
       "Spacepiano.TheSpiralSystem",
       "SpatialX.ShipCompassHUD",
       "SpatialXX.ShipAlarm",
+      "Stacik.TeleportMod",
       "Steini.IcelandicTranslation",
       "Stonesword.ResourceManagement",
       "TacoTechnica.NBodyChaos",
       "Tandicase.interstellargargantua",
       "TeamErnesto.OWJam3ModProject",
+      "TeamGeswaldo.Jam5",
       "TeamMitis.Liaison",
       "Tebmn.MoreToHear",
       "Tephirax.InvertLookControls",
@@ -10531,6 +10724,7 @@
       "hearth1an.SadSupernovaMusic",
       "hearth1an.TheVision",
       "ilyabru.OWSpeedModifier",
+      "itsloopyo.OuterWildsHeadTracking",
       "lStewieAl.RunInBackground",
       "likemauro.controllablestranger",
       "likemauro.nodambreak",
@@ -10546,6 +10740,7 @@
       "orclecle.PickUpChert",
       "orclecle.TinyPatchForDivergence",
       "paragon.TimberTwin",
+      "peacemkr_png.TravelersKalimba",
       "picalines.OuterScout",
       "piggeywig2000.OuterWildsFlyover",
       "piggeywig2000.Permadeath",
@@ -10563,7 +10758,6 @@
       "tealhelix.EotE-RideMusic",
       "thearst3rd.OWDiagonalMovementUnpatch",
       "thunninoi.ThaiTranslation",
-      "udkyo.HeadTracking",
       "xen-42.ModJam3All",
       "xen-42.ModJam5",
       "xen-42.SandControl",
@@ -10720,7 +10914,7 @@
       {
         "modName": "Alek.OWML",
         "values": [
-          "0.3"
+          "0.3.0"
         ]
       },
       {
@@ -10738,7 +10932,7 @@
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "2.7.0"
+          "2.7.1"
         ]
       },
       {
@@ -10972,7 +11166,7 @@
       {
         "modName": "cleric.DeepBramble",
         "values": [
-          "1.2.3"
+          "1.2.4"
         ]
       },
       {
@@ -11026,7 +11220,7 @@
       {
         "modName": "coderCleric.Mindscapes",
         "values": [
-          "1.0.2"
+          "1.0.3"
         ]
       },
       {
@@ -11176,7 +11370,7 @@
       {
         "modName": "Etherpod.ShipEnhancements",
         "values": [
-          "2.2.0"
+          "2.2.1"
         ]
       },
       {
@@ -11188,7 +11382,7 @@
       {
         "modName": "Etherpod.TravelersPack",
         "values": [
-          "1.0.4"
+          "1.0.5"
         ]
       },
       {
@@ -11231,6 +11425,18 @@
         "modName": "FusionFlux.ProudHearthians",
         "values": [
           "0.1.0"
+        ]
+      },
+      {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "1.0.4"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "1.0.4"
         ]
       },
       {
@@ -11440,7 +11646,7 @@
       {
         "modName": "Ixrec.ArchipelagoRandomizer",
         "values": [
-          "0.3.20"
+          "1.2.0"
         ]
       },
       {
@@ -11542,7 +11748,7 @@
       {
         "modName": "LeeSpork.ModJam5",
         "values": [
-          "1.2.5"
+          "1.2.6"
         ]
       },
       {
@@ -11684,6 +11890,12 @@
         ]
       },
       {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "0.1.5"
+        ]
+      },
+      {
         "modName": "lStewieAl.RunInBackground",
         "values": [
           "0.1.0"
@@ -11698,7 +11910,13 @@
       {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
-          "0.1.2"
+          "0.1.3"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "0.1.1"
         ]
       },
       {
@@ -11974,19 +12192,19 @@
       {
         "modName": "orclecle.Finis",
         "values": [
-          "2.1.5"
+          "2.2.0"
         ]
       },
       {
         "modName": "orclecle.Guardian",
         "values": [
-          "0.2.2"
+          "0.3.0"
         ]
       },
       {
         "modName": "orclecle.Jam5PingBox",
         "values": [
-          "0.6.0"
+          "0.7.0"
         ]
       },
       {
@@ -12004,7 +12222,7 @@
       {
         "modName": "Owen_013.FirstPersonPresence",
         "values": [
-          "v1.4.4"
+          "v1.5.6"
         ]
       },
       {
@@ -12016,7 +12234,7 @@
       {
         "modName": "Owen013.HatchlingOutfit",
         "values": [
-          "1.2.3"
+          "1.2.4"
         ]
       },
       {
@@ -12028,7 +12246,7 @@
       {
         "modName": "Owen013.QOLFixes",
         "values": [
-          "1.3.5"
+          "1.3.6"
         ]
       },
       {
@@ -12071,6 +12289,12 @@
         "modName": "Pau318.OuterPictures",
         "values": [
           "0.1.1"
+        ]
+      },
+      {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "1.0.0"
         ]
       },
       {
@@ -12232,7 +12456,7 @@
       {
         "modName": "SBtT.TheOutsider",
         "values": [
-          "1.1.10"
+          "1.1.11"
         ]
       },
       {
@@ -12322,7 +12546,7 @@
       {
         "modName": "Solec.WeathMod",
         "values": [
-          "1.2.0"
+          "2.0.0"
         ]
       },
       {
@@ -12347,6 +12571,12 @@
         "modName": "SpatialXX.ShipAlarm",
         "values": [
           "0.0.2"
+        ]
+      },
+      {
+        "modName": "Stacik.TeleportMod",
+        "values": [
+          "0.1.0"
         ]
       },
       {
@@ -12383,6 +12613,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "0.2.0"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "9.0"
         ]
       },
       {
@@ -12478,7 +12714,7 @@
       {
         "modName": "TheSignalJammers.FifthModJam",
         "values": [
-          "1.0.5"
+          "1.1.0"
         ]
       },
       {
@@ -12502,7 +12738,7 @@
       {
         "modName": "Titch.CustomisableShipLighting",
         "values": [
-          "1.0.0"
+          "1.0.1"
         ]
       },
       {
@@ -12574,7 +12810,7 @@
       {
         "modName": "Trifid.TrifidJam3",
         "values": [
-          "1.2.0"
+          "1.2.1"
         ]
       },
       {
@@ -12598,7 +12834,7 @@
       {
         "modName": "udkyo.HeadTracking",
         "values": [
-          "1.0.1"
+          "1.0.2"
         ]
       },
       {
@@ -12826,13 +13062,13 @@
       {
         "modName": "xen.NewHorizons",
         "values": [
-          "1.28.8"
+          "1.29.1"
         ]
       },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "0.28.0"
+          "0.29.0"
         ]
       },
       {
@@ -12949,12 +13185,11 @@
       "0.2.4",
       "0.2.5",
       "0.2.6",
-      "0.28.0",
+      "0.29.0",
       "0.3",
       "0.3.0",
       "0.3.1",
       "0.3.2",
-      "0.3.20",
       "0.3.3",
       "0.3.6",
       "0.4",
@@ -12982,18 +13217,17 @@
       "1.0.8",
       "1.1.0",
       "1.1.1",
-      "1.1.10",
+      "1.1.11",
       "1.1.2",
       "1.1.3",
       "1.2.0",
       "1.2.1",
       "1.2.2",
-      "1.2.3",
       "1.2.4",
-      "1.2.5",
-      "1.28.8",
+      "1.2.6",
+      "1.29.1",
       "1.3.1",
-      "1.3.5",
+      "1.3.6",
       "1.4.1",
       "1.4.2",
       "1.5.0",
@@ -13009,18 +13243,18 @@
       "2.0.1",
       "2.1.0",
       "2.1.2",
-      "2.1.5",
       "2.10.1-pre",
       "2.2.0",
       "2.2.1",
       "2.4.1",
       "2.6.1",
-      "2.7.0",
+      "2.7.1",
       "2.9.0",
       "5.0.0",
       "6.0.1",
       "7.0.0",
-      "v1.4.4"
+      "9.0",
+      "v1.5.6"
     ]
   },
   "owmlVersion": {
@@ -13143,7 +13377,7 @@
       {
         "modName": "Alek.OWML",
         "values": [
-          "2.15.2"
+          "2.15.5"
         ]
       },
       {
@@ -13654,6 +13888,18 @@
         "modName": "FusionFlux.ProudHearthians",
         "values": [
           "2.8.0"
+        ]
+      },
+      {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "2.14.0"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "2.14.0"
         ]
       },
       {
@@ -14059,6 +14305,12 @@
         ]
       },
       {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "lStewieAl.RunInBackground",
         "values": [
           "2.0.0"
@@ -14072,6 +14324,12 @@
       },
       {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
         "values": [
           "2.15.1"
         ]
@@ -14361,7 +14619,7 @@
       {
         "modName": "Owen_013.FirstPersonPresence",
         "values": [
-          "2.15.3"
+          "2.15.5"
         ]
       },
       {
@@ -14428,6 +14686,12 @@
         "modName": "Pau318.OuterPictures",
         "values": [
           "2.8.0"
+        ]
+      },
+      {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "2.15.1"
         ]
       },
       {
@@ -14707,6 +14971,12 @@
         ]
       },
       {
+        "modName": "Stacik.TeleportMod",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "Steini.IcelandicTranslation",
         "values": [
           "2.9.0"
@@ -14740,6 +15010,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "2.9.8"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "2.15.1"
         ]
       },
       {
@@ -15296,6 +15572,7 @@
       "2.15.2",
       "2.15.3",
       "2.15.4",
+      "2.15.5",
       "2.2.0",
       "2.3.0",
       "2.3.1",
@@ -16443,6 +16720,13 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "xen-42.ModJam5",
+          "xen.NewHorizons"
+        ]
+      },
+      {
         "modName": "TeamMitis.Liaison",
         "values": [
           "xen.NewHorizons"
@@ -17141,6 +17425,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17369,6 +17665,12 @@
         ]
       },
       {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17376,6 +17678,12 @@
       },
       {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17549,6 +17857,12 @@
         ]
       },
       {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "picalines.OuterScout",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17688,6 +18002,12 @@
       },
       {
         "modName": "SpatialXX.ShipAlarm",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Stacik.TeleportMod",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]

@@ -597,6 +597,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor",
         "values": [
           "true"
@@ -993,6 +1005,12 @@
         ]
       },
       {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "lStewieAl.RunInBackground",
         "values": [
           "true"
@@ -1006,6 +1024,12 @@
       },
       {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
         "values": [
           "true"
         ]
@@ -1359,6 +1383,12 @@
         ]
       },
       {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "picalines.OuterScout",
         "values": [
           "true"
@@ -1629,6 +1659,12 @@
         ]
       },
       {
+        "modName": "Stacik.TeleportMod",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Steini.IcelandicTranslation",
         "values": [
           "true"
@@ -1660,6 +1696,12 @@
       },
       {
         "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
         "values": [
           "true"
         ]
@@ -2297,6 +2339,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "selector"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "selector"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "selector"
@@ -2390,6 +2444,12 @@
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
           "toggle"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "number"
         ]
       },
       {
@@ -2820,6 +2880,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "Enabled"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "Ultra"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "Only if VA Mod Present"
@@ -2916,6 +2988,12 @@
         ]
       },
       {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "512"
+        ]
+      },
+      {
         "modName": "MegaPiggy.Axiom",
         "values": [
           "false"
@@ -2954,7 +3032,7 @@
       {
         "modName": "Owen_013.FirstPersonPresence",
         "values": [
-          "false"
+          "true"
         ]
       },
       {
@@ -3236,6 +3314,7 @@
       "3",
       "3.0",
       "5",
+      "512",
       "9",
       "Body",
       "CHINESE_SIMPLE",
@@ -3253,6 +3332,7 @@
       "Polaroid",
       "Protagonist",
       "Separate Lines",
+      "Ultra",
       "Yes kofi? :3",
       "default",
       "false",
@@ -3336,6 +3416,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "Comet Trails"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "Grass Density"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "Voice-Acted Magistarium Notifications"
@@ -3404,7 +3496,13 @@
       {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
-          "ShipLogFactTriggerVolumes"
+          "Stranger sector triggers"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "Rear View Camera Height"
         ]
       },
       {
@@ -3434,7 +3532,13 @@
       {
         "modName": "Owen_013.FirstPersonPresence",
         "values": [
-          "Enable Lefty Mode"
+          "Hide Stowed Items"
+        ]
+      },
+      {
+        "modName": "Owen013.HatchlingOutfit",
+        "values": [
+          "Missing Left Arm"
         ]
       },
       {
@@ -3446,7 +3550,7 @@
       {
         "modName": "Owen013.QOLFixes",
         "values": [
-          "Press 'T' Button to Equip Translator"
+          "Press 'Cancel' Button to Exit Dialogue"
         ]
       },
       {
@@ -3607,6 +3711,7 @@
       "Auto save/load",
       "Bell Volume",
       "Change to controller inputs?",
+      "Comet Trails",
       "Custom Death Screen",
       "Custom Skin",
       "Debug mode (more logs)",
@@ -3619,34 +3724,37 @@
       "Dry Runs",
       "Enable HUD Marker",
       "Enable Hints",
-      "Enable Lefty Mode",
       "Enable Subnautica Notifications",
       "End of Line mode",
       "Enter Or Exit Cockpit Resets Speed to Max Value",
+      "Grass Density",
       "Head Size Multiplier",
+      "Hide Stowed Items",
       "Inhabitants Hostility",
       "Keep Helmet On",
       "Log FFmpeg output",
       "Marshmallow Limit Count",
       "Meteor Damage",
+      "Missing Left Arm",
       "Mod",
       "Night vision intensity",
       "Peripheral Shading Rate (4 is 1x samplerate)",
       "Planet Attributes",
-      "Press 'T' Button to Equip Translator",
+      "Press 'Cancel' Button to Exit Dialogue",
       "Prevent entering cockpit",
       "Randomize Planet Velocity after spawn %",
+      "Rear View Camera Height",
       "Reset Collectibles State?",
       "SFX Volume",
       "Sand funnel enabled",
       "Ship Log Font Size",
-      "ShipLogFactTriggerVolumes",
       "Show Allowed Volume",
       "Show Custom DLC Logos",
       "Show Echoes of the Eye Events",
       "Speedrunner Mode",
       "Sprint Speed Multiplier",
       "Stranger",
+      "Stranger sector triggers",
       "Suit skin",
       "Supernova Trap",
       "Synthwave shader",
@@ -3705,6 +3813,12 @@
         ]
       },
       {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "Mirror"
+        ]
+      },
+      {
         "modName": "NomaiGrandPrix",
         "values": [
           "Enabled"
@@ -3756,6 +3870,7 @@
     "distinctValues": [
       "Enabled",
       "Manual",
+      "Mirror",
       "On",
       "Sure thing!",
       "Yes"
@@ -3804,6 +3919,12 @@
         "modName": "Locochoco.Spaceshipinha",
         "values": [
           "No"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "Camera"
         ]
       },
       {
@@ -3857,6 +3978,7 @@
     ],
     "distinctValues": [
       "Auto",
+      "Camera",
       "Disabled",
       "No",
       "Nope!",
@@ -4187,7 +4309,7 @@
       {
         "modName": "udkyo.HeadTracking",
         "values": [
-          "1"
+          "true"
         ]
       },
       {
@@ -4514,6 +4636,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4622,6 +4756,12 @@
         ]
       },
       {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4629,6 +4769,12 @@
       },
       {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -4790,6 +4936,12 @@
         ]
       },
       {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "picalines.OuterScout",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4898,6 +5050,12 @@
         ]
       },
       {
+        "modName": "Stacik.TeleportMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Steini.IcelandicTranslation",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4911,6 +5069,12 @@
       },
       {
         "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -5078,6 +5242,12 @@
         ]
       },
       {
+        "modName": "xen.NewHorizons",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "xen.PlayAsGabbro",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -5116,6 +5286,7 @@
     ],
     "distinctValues": [
       "https://json-schema.org/draft-07/schema",
+      "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/config_schema.json",
       "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
     ]
   },
@@ -5171,6 +5342,18 @@
         ]
       },
       {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "Controls whether The Inteloper's trail effects are shown"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "Changes the amount of extra grass tufts on Timber Hearth"
+        ]
+      },
+      {
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "Should the Magistarium notifications be voice-acted? You will only hear them in the vacinity of the Magistarium. 'Only if VA Mod Present' means that the voice-acting will only be active if you also have the Voice Acting Mod from the mod database installed."
@@ -5207,6 +5390,12 @@
         ]
       },
       {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "Height of the rear view display"
+        ]
+      },
+      {
         "modName": "MegaPiggy.Axiom",
         "values": [
           "My mod can replace some of the audio with alpha versions. Requires the loop to reset to take effect."
@@ -5221,7 +5410,7 @@
       {
         "modName": "Owen_013.FirstPersonPresence",
         "values": [
-          "Makes you hold items/tools in your left hand!"
+          "Makes held items move fully offscreen when they are stowed (i.e. while piloting the ship, roasting marshmallows, or holding another tool)."
         ]
       },
       {
@@ -5233,7 +5422,7 @@
       {
         "modName": "Owen013.HatchlingOutfit",
         "values": [
-          "The right arm will be completely invisible."
+          "The left arm will be completely invisible."
         ]
       },
       {
@@ -5245,7 +5434,7 @@
       {
         "modName": "Owen013.QOLFixes",
         "values": [
-          "Equip the translator whenever you want by pressing T."
+          "Makes dialogue boxes from speaking to characters or reading notes disappear immediately if the cancel button is pressed."
         ]
       },
       {
@@ -5357,15 +5546,18 @@
       "A silly feature from Smol Hatchling 1.0 that's being kept for legacy reasons.",
       "Allows hints to spawn on Real Solar System planets and moons",
       "Change Echoes of the Eyes's logo to custom Thai logo",
+      "Changes the amount of extra grass tufts on Timber Hearth",
       "Controls how light is reflected with respect to light's direction.",
+      "Controls whether The Inteloper's trail effects are shown",
       "Enter Or Exit Cockpit Resets Speed to Max Value",
-      "Equip the translator whenever you want by pressing T.",
       "FFmpeg is required to record mp4 files from cameras. Enable this to see FFmpeg logs",
       "Forces the player to spawn in this system after death. Must match the unique name of a system, eg, xen.NewHorizonsExamples",
       "Funny when disabled, but makes flying more practical",
+      "Height of the rear view display",
       "Let jam entries change the spawn point. You have to restart or reload configs for changing this to take effect.",
+      "Makes dialogue boxes from speaking to characters or reading notes disappear immediately if the cancel button is pressed.",
+      "Makes held items move fully offscreen when they are stowed (i.e. while piloting the ship, roasting marshmallows, or holding another tool).",
       "Makes the star explode faster (thank you vodblink for the idea)",
-      "Makes you hold items/tools in your left hand!",
       "Multiplier for oxygen consumption if thrusting with no fuel remaining. (Default: 1.1)",
       "My mod can replace some of the audio with alpha versions. Requires the loop to reset to take effect.",
       "Number of chances added to the roulette for a Supernova Trap to happen",
@@ -5376,9 +5568,9 @@
       "The Artificial horizon is a line parallel to a planet horizon",
       "The fraction of your screen resolution used for certain renderers. High GPU impact.",
       "The host decides these settings",
+      "The left arm will be completely invisible.",
       "The number of marshmallows you have if you turn on the marshmallow limit. Will load changes after each loop.",
       "The number of times you can Wall Jump without touching the ground. Recommended: 5",
-      "The right arm will be completely invisible.",
       "The voice that reads out the chat messages.",
       "This slider doesn't do anything. I don't know why it's here.",
       "Toggle to show a sphere outlining the volume that jam entries are allowed.",
@@ -5482,10 +5674,28 @@
         "values": [
           "Alt Interact",
           "Autopilot",
+          "Cancel",
           "Free Look",
           "Interact",
           "Tool Primary",
           "Tool Secondary"
+        ]
+      },
+      {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "Disabled",
+          "Enabled"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "Hidden",
+          "High",
+          "Low",
+          "Medium",
+          "Ultra"
         ]
       },
       {
@@ -5607,20 +5817,12 @@
         ]
       },
       {
-        "modName": "Owen_013.FirstPersonPresence",
-        "values": [
-          "Default",
-          "Disabled",
-          "Legacy"
-        ]
-      },
-      {
         "modName": "Owen013.HatchlingOutfit",
         "values": [
-          "Always Off",
-          "Always On",
-          "Default",
-          "Opposite"
+          "Always",
+          "Never",
+          "When Suited",
+          "When Unsuited"
         ]
       },
       {
@@ -5633,9 +5835,9 @@
       {
         "modName": "Owen013.QOLFixes",
         "values": [
-          "Contextual",
-          "Disabled",
-          "Vanilla"
+          "Always",
+          "Never",
+          "When Safe"
         ]
       },
       {
@@ -5826,8 +6028,7 @@
       "All",
       "All Deaths",
       "Alt Interact",
-      "Always Off",
-      "Always On",
+      "Always",
       "Always_Green",
       "AshTwin",
       "Attlerock",
@@ -5842,9 +6043,9 @@
       "CHINESE_SIMPLE",
       "Cacti",
       "Camera",
+      "Cancel",
       "Chert",
       "Complete Line",
-      "Contextual",
       "Cumulative",
       "Custom",
       "Cyan",
@@ -5880,6 +6081,8 @@
       "Hard",
       "Hard: Only audio",
       "Harry",
+      "Hidden",
+      "High",
       "HollowLantern",
       "HourglassTwins",
       "INFECTION",
@@ -5902,17 +6105,19 @@
       "KOREAN",
       "Kit",
       "Lavender",
-      "Legacy",
       "Lemonade",
       "Lezzlebit (Jamie)",
       "Light Blue",
       "Linear",
+      "Low",
       "Luminance",
       "Maximum",
+      "Medium",
       "Minute",
       "Minute + Use",
       "ModelShip",
       "Named",
+      "Never",
       "No Kofi ;_;",
       "No Override",
       "NomaiBrittleHollowShuttle",
@@ -5924,7 +6129,6 @@
       "On",
       "On Use",
       "Only if VA Mod Present",
-      "Opposite",
       "Orange",
       "POLISH",
       "PORTUGUESE_BR",
@@ -5969,12 +6173,15 @@
       "Tool Primary",
       "Tool Secondary",
       "Turquoise",
+      "Ultra",
       "Ultraviolet",
       "Unnamed",
       "Up Thrust",
       "Ursula",
-      "Vanilla",
       "Wendy",
+      "When Safe",
+      "When Suited",
+      "When Unsuited",
       "White",
       "WhiteHole",
       "WhiteHoleStation",
@@ -6114,6 +6321,12 @@
       },
       {
         "modName": "orclecle.Jam5PingBox",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "Owen_013.FirstPersonPresence",
         "values": [
           "0"
         ]
@@ -6300,6 +6513,12 @@
       },
       {
         "modName": "orclecle.Jam5PingBox",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "modName": "Owen_013.FirstPersonPresence",
         "values": [
           "2"
         ]

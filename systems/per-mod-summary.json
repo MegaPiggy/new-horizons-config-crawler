@@ -614,6 +614,13 @@
       ]
     },
     {
+      "fieldPath": "factRequiredToExitViaWarpDrive",
+      "fieldType": "primitive",
+      "values": [
+        "HOME_REVEAL"
+      ]
+    },
+    {
       "fieldPath": "GlobalMusic.endTimesAudio",
       "fieldType": "primitive",
       "values": [
@@ -646,6 +653,34 @@
       "fieldType": "primitive",
       "values": [
         "true"
+      ]
+    },
+    {
+      "fieldPath": "shipLogStartingPlanetID",
+      "fieldType": "primitive",
+      "values": [
+        "Nearest Neighbor"
+      ]
+    },
+    {
+      "fieldPath": "StarChart.disappearanceTime",
+      "fieldType": "primitive",
+      "values": [
+        "33"
+      ]
+    },
+    {
+      "fieldPath": "StarChart.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-10"
+      ]
+    },
+    {
+      "fieldPath": "StarChart.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-2"
       ]
     },
     {
@@ -10239,6 +10274,20 @@
       ]
     },
     {
+      "fieldPath": "StarChart.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-10"
+      ]
+    },
+    {
+      "fieldPath": "StarChart.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-10"
+      ]
+    },
+    {
       "fieldPath": "startHere",
       "fieldType": "primitive",
       "values": [
@@ -10645,6 +10694,133 @@
         "-150",
         "0",
         "100"
+      ]
+    }
+  ],
+  "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.b",
+      "fieldType": "primitive",
+      "values": [
+        "235"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.g",
+      "fieldType": "primitive",
+      "values": [
+        "52"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.r",
+      "fieldType": "primitive",
+      "values": [
+        "168"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.b",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.g",
+      "fieldType": "primitive",
+      "values": [
+        "138"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.r",
+      "fieldType": "primitive",
+      "values": [
+        "212"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.id",
+      "fieldType": "primitive",
+      "values": [
+        "SSPU"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.id",
+      "fieldType": "primitive",
+      "values": [
+        "BROTHER",
+        "Cracking_Open",
+        "Discovery",
+        "LIGHTBULB",
+        "Morse_Refuse",
+        "Nomai_computer",
+        "PIC1",
+        "PIC2",
+        "PIC3",
+        "Ping_And_Obsi",
+        "Planetary_Nebula",
+        "REFUSE",
+        "SISTER",
+        "SPACKLE",
+        "SSPU_Encrypted",
+        "Safeguards",
+        "Scroll_spots",
+        "Sunset_Sister_Power_Unit"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-100",
+        "-200",
+        "-300",
+        "-400",
+        "-500",
+        "0",
+        "200",
+        "300",
+        "400",
+        "500"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-1050",
+        "-350",
+        "-650",
+        "-800",
+        "0",
+        "200",
+        "400",
+        "600",
+        "700"
       ]
     }
   ],

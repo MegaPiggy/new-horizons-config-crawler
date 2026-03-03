@@ -148,36 +148,38 @@
       "fieldType": "array",
       "values": [
         " # ",
+        "<heading text-align=\"UpperCenter\" height=\"75\">Contributors</heading>",
+        "<heading text-align=\"UpperCenter\" height=\"75\">Playtesters</heading>",
+        "<heading text-align=\"UpperCenter\" height=\"75\">Special Thanks</heading>",
+        "<heading text-align=\"UpperCenter\" height=\"75\">Translators</heading>",
         "Barirn#Korean",
         "Bird#Dialogue for Birch",
         "Classic",
-        "Contributors:",
         "Daoist_Of_Fists",
         "Etherpod",
         "Flip#Post Credits Artist",
         "GameWyrm",
         "Hawkbar",
+        "IRLFine#Poem\n#Enigma Puzzles",
         "Insmoshable",
         "Ixrec",
         "JohnCorby",
         "Luci",
         "MegaPiggy",
-        "MegaPiggy#Repository Manager and Successor",
+        "MegaPiggy#Repository Manager\n#Successor",
         "Meriyu1088",
         "Mod Made by Anonymous",
-        "Playtesters:",
         "ProfessionalIdiot",
-        "Special Thanks:",
-        "TRSasasusu/orclecle#Japanese",
-        "Translators:",
         "Trifid#Scripted the Learn Stranger Language Puzzle",
         "WrierBrake#Russian",
         "cOa Rex#Cloak Mineral Icon Artist",
         "cOa Rex#French",
         "coderCleric",
         "nice2cu1#Chinese",
-        "pikpik_carrot#Helped with Houses, Unity Kit, and First Slide Reel",
-        "sawyer & vlop#Slide Reel Title Artists",
+        "orclecle#Japanese",
+        "pikpik_carrot#Houses\n#Unity Kit\n#First Slide Reel",
+        "sawyer#Slide Reel Title Artist",
+        "vlop#Slide Reel Title Artist",
         "xen"
       ]
     },
@@ -306,7 +308,7 @@
         "Repcon#Character modeling\n#Rigging\n#Animating\n#Texturing\n#Playtesting",
         "Special credit to pikpik for being the first to find Ernesto",
         "Thank you to the late development playtesters#JohnCorby\n#Etherpod\n#GameWyrm\n#Pikpik\n#Anon",
-        "Thank you to those who have done translations#Barirn - Korean\n#nepyanagi - Japanese",
+        "Thank you to those who have done translations#Barirn - Korean\n#nepyanagi - Japanese\n#SanBaiMing - Simplified Chinese\n#ErriiickK - PT-BR",
         "Title screen music derived from The Lost Reels by Andrew Prahlow",
         "coderCleric#Code\n#Story\n#Writing\n#Design\n#Modeling"
       ]
@@ -912,6 +914,7 @@
       "fieldType": "array",
       "values": [
         "Outer Wilds Modding Discord#Special Thanks",
+        "SanBaiMing#Chinese Translation",
         "orclecle#Program, Art, Music, Story"
       ]
     }
@@ -1115,15 +1118,20 @@
         "A Jam 5 Submission by the Signal Jammers Team",
         "Anonymous#Programmer",
         "Echatsum#Programmer",
+        "GameWyrm (Achievements+ update)",
         "Ixrec",
         "JohnCorby",
         "Modders:",
         "Playtesters:",
         "Repcon#3D Modeling and Design",
+        "SanBaiMing#Chinese",
         "Special Thanks:",
         "Streetlights Behind The Trees",
+        "Translations curtesy of:",
+        "Yommi (Achievements+ update)",
         "cOa Rex",
         "cOa Rex#2D Art",
+        "cOa Rex#French",
         "pikpik_carrot#Lead Developer",
         "vodblink",
         "xen"
@@ -1354,6 +1362,7 @@
         "FreezeDriedMangos#Programmer\n#Dev Tool Creator",
         "Hawkbat#Programmer",
         "JohnCorby#Programmer",
+        "Lezzlebit#Interstellar Mode",
         "MegaPiggy#Programmer",
         "Nageld#Programmer",
         "This work is unofficial Fan Content and is not affiliated with Mobius Digital",
@@ -1512,6 +1521,26 @@
       "fieldType": "array",
       "values": [
         "xen#Me it's my mod\n#Do I win the jam now?\n#(I am a judge I'm not elligible)"
+      ]
+    }
+  ],
+  "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Harrassed me to finish the mod on time (with permission), Viburnum#Vodblink",
+        "Logo, expert critiquer, Calylophus#Callie",
+        "Musician, Hellebore#HeroPlays1122",
+        "Planet crafter, prop placer, shiplogger, Sorrel#Solec",
+        "Story and planet ideator, modeller, Thyme#T3rtu"
       ]
     }
   ],

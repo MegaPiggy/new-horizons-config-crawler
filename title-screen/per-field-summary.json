@@ -57,6 +57,12 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
         "modName": "xen-42.ModJam5",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"

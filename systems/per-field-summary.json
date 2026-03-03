@@ -358,6 +358,12 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
         "modName": "TerrificTrifid.NGC1087",
         "values": [
           "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
@@ -2201,6 +2207,29 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "BROTHER",
+          "Cracking_Open",
+          "Discovery",
+          "LIGHTBULB",
+          "Morse_Refuse",
+          "Nomai_computer",
+          "PIC1",
+          "PIC2",
+          "PIC3",
+          "Ping_And_Obsi",
+          "Planetary_Nebula",
+          "REFUSE",
+          "SISTER",
+          "SPACKLE",
+          "SSPU_Encrypted",
+          "Safeguards",
+          "Scroll_spots",
+          "Sunset_Sister_Power_Unit"
+        ]
+      },
+      {
         "modName": "Tetraminus.BrokenBalance",
         "values": [
           "BB_CAPITOL_REC",
@@ -2447,6 +2476,7 @@
       "BRIDGE_CAMP",
       "BRIDGE_SCROLL",
       "BRITOMARTIS_ENTRY",
+      "BROTHER",
       "BT_ERNESTO",
       "BT_FIFTH_SHARD",
       "BT_GHIRD_VILLAGE_A",
@@ -2502,6 +2532,7 @@
       "CRIMSON_SPINLAB",
       "CRIMSON_TRAVELER",
       "CURIEL_ENTRY",
+      "Cracking_Open",
       "DABABY",
       "DARKER_BASE",
       "DARKER_MAIN",
@@ -2530,6 +2561,7 @@
       "DRIP_ROOT",
       "DS_SIGNAL_ENDING",
       "DURIAN_ENTRY",
+      "Discovery",
       "EERIE_EEL",
       "EH_CAVERN",
       "EH_ENTRANCE",
@@ -2706,6 +2738,7 @@
       "LH_LAKE_DOOR_FACT",
       "LH_NORTHERN_WASTELAND_FACT",
       "LH_POWER_PLANT_FACT",
+      "LIGHTBULB",
       "LILRETARD_DESC",
       "LINE_UPGRADE",
       "LK_MAZE_FACT",
@@ -2766,6 +2799,7 @@
       "MONOLITH",
       "MP_STORY",
       "M_FACT",
+      "Morse_Refuse",
       "NA_STORY",
       "NEBLINA",
       "NEWSIM_ARCHIVE_MAIN",
@@ -2790,6 +2824,10 @@
       "NSCORCHEDFRONTPORCH_DESC",
       "NURSERY_ENTRY_FC",
       "NUTS",
+      "Nomai_computer",
+      "PIC1",
+      "PIC2",
+      "PIC3",
       "PILLAR_TOWN_ENTRY_FC",
       "PINEAPPLE_ENTRY",
       "PINE_MULLET",
@@ -2819,6 +2857,8 @@
       "PREGULARITY_DESC",
       "PSCORCHEDFRONTPORCH_DESC",
       "PSFP_STORY",
+      "Ping_And_Obsi",
+      "Planetary_Nebula",
       "QM_TRANSPORT_PILGRIM",
       "QUANTAM_GROVE_HINT",
       "QUANTUM",
@@ -2844,6 +2884,7 @@
       "REAL",
       "RECURSIVE_NODE_ENTRY_FC",
       "RED",
+      "REFUSE",
       "REGULARITY_DESC",
       "REJECT_ENTRY_FC",
       "RESON",
@@ -2875,6 +2916,7 @@
       "SHINY_ROCK_BAIT",
       "SIGNAL_LAB_ENTRY_FC",
       "SIGNAL_SCOPE_ODDITY",
+      "SISTER",
       "SKELETON_SCROLL",
       "SOIL_LAB_FC",
       "SOLANUM_ATP",
@@ -2886,6 +2928,7 @@
       "SOLANUM_QM_TH",
       "SOLANUM_TH",
       "SOLARE",
+      "SPACKLE",
       "SPARKLING_STONEFISH",
       "SPINEL_FISHING_ADVENTURE",
       "SPRUCECABOOSE_BASE",
@@ -2897,6 +2940,7 @@
       "SPRUCECABOOSE_PLATFORM",
       "SPRUCECABOOSE_PLATFORM_WARP",
       "SPRUCECABOOSE_VESSEL_PLATFORM",
+      "SSPU_Encrypted",
       "SS_DESC",
       "SS_SCROLL",
       "SS_STORY",
@@ -2921,7 +2965,10 @@
       "SYM_POOL",
       "SYM_VILLAGE",
       "S_FACT",
+      "Safeguards",
       "ScaleExplorer",
+      "Scroll_spots",
+      "Sunset_Sister_Power_Unit",
       "TESSERACT_PLANET",
       "THE_VISION_ENTRY",
       "THE_VISITOR",
@@ -3778,6 +3825,21 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "0"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "-100",
+          "-200",
+          "-300",
+          "-400",
+          "-500",
+          "0",
+          "200",
+          "300",
+          "400",
+          "500"
         ]
       },
       {
@@ -4749,6 +4811,20 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "-1050",
+          "-350",
+          "-650",
+          "-800",
+          "0",
+          "200",
+          "400",
+          "600",
+          "700"
+        ]
+      },
+      {
         "modName": "Tetraminus.BrokenBalance",
         "values": [
           "-242.70509831",
@@ -4903,6 +4979,7 @@
       "-100",
       "-1000",
       "-105",
+      "-1050",
       "-1100",
       "-1150",
       "-120",
@@ -4961,6 +5038,7 @@
       "-574",
       "-600",
       "-618",
+      "-650",
       "-672",
       "-677.2763",
       "-682.1013",
@@ -5447,6 +5525,12 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "SSPU"
+        ]
+      },
+      {
         "modName": "Tetraminus.BrokenBalance",
         "values": [
           "BB_STARTING_INFO"
@@ -5608,6 +5692,7 @@
       "SECRETS_OF_DRAGONFRUIT_CURIOSITY",
       "SPINEL_FISHING_ADVENTURE",
       "SPRUCECABOOSE_CURIOSITY",
+      "SSPU",
       "STORY",
       "SYM_MAIN",
       "S_REC",
@@ -5960,6 +6045,12 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "168"
+        ]
+      },
+      {
         "modName": "Tetraminus.BrokenBalance",
         "values": [
           "70"
@@ -6066,6 +6157,7 @@
       "159",
       "160",
       "164",
+      "168",
       "180",
       "186",
       "190",
@@ -6416,6 +6508,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "109"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "52"
         ]
       },
       {
@@ -6880,6 +6978,12 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "235"
+        ]
+      },
+      {
         "modName": "Tetraminus.BrokenBalance",
         "values": [
           "15"
@@ -7301,6 +7405,12 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "Tetraminus.BrokenBalance",
         "values": [
           "255"
@@ -7695,6 +7805,12 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "212"
+        ]
+      },
+      {
         "modName": "Tetraminus.BrokenBalance",
         "values": [
           "100"
@@ -7811,6 +7927,7 @@
       "204",
       "208",
       "209",
+      "212",
       "220",
       "221",
       "224",
@@ -8151,6 +8268,12 @@
         ]
       },
       {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "138"
+        ]
+      },
+      {
         "modName": "Tetraminus.BrokenBalance",
         "values": [
           "90"
@@ -8245,6 +8368,7 @@
       "133",
       "135",
       "136",
+      "138",
       "141",
       "146",
       "15",
@@ -8605,6 +8729,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "159"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "255"
         ]
       },
       {
@@ -9028,6 +9158,12 @@
       },
       {
         "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
         "values": [
           "255"
         ]
@@ -10205,6 +10341,89 @@
       "planets/assets/SpaceInRealLife.ogg",
       "planets/assets/Travel Audio.mp3",
       "planets/assets/jam5space.ogg"
+    ]
+  },
+  "factRequiredToExitViaWarpDrive": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "HOME_REVEAL"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "HOME_REVEAL"
+    ]
+  },
+  "shipLogStartingPlanetID": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "Nearest Neighbor"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Nearest Neighbor"
+    ]
+  },
+  "StarChart.disappearanceTime": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "33"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "33"
+    ]
+  },
+  "StarChart.position.x": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "-10"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "-10"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "-10"
+    ]
+  },
+  "StarChart.position.y": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "-2"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "-10"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "-10",
+      "-2"
     ]
   },
   "canExitViaWarpDrive": {
