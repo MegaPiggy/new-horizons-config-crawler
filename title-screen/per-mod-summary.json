@@ -1,507 +1,4 @@
 {
-  "2walker2.OWJam5ModProject": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    }
-  ],
-  "AnonymousStrangerOW.TheStrangerTheyAre": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.ambience",
-      "fieldType": "primitive",
-      "values": [
-        "DreamFire_Crackling_Loop"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.disableNHPlanets",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.destroyMenuPlanet",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.assetBundle",
-      "fieldType": "primitive",
-      "values": [
-        "assets/AssetBundle/title"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.path",
-      "fieldType": "primitive",
-      "values": [
-        "Assets/NewTitlePlanet.prefab"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.position.x",
-      "fieldType": "primitive",
-      "values": [
-        "3.4349"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.position.y",
-      "fieldType": "primitive",
-      "values": [
-        "-12.3667"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.position.z",
-      "fieldType": "primitive",
-      "values": [
-        "3.1489"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.rotation.x",
-      "fieldType": "primitive",
-      "values": [
-        "333.0655"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.rotation.y",
-      "fieldType": "primitive",
-      "values": [
-        "8.4042"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.rotation.z",
-      "fieldType": "primitive",
-      "values": [
-        "7.4983"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.menuTextTint.b",
-      "fieldType": "primitive",
-      "values": [
-        "121"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.menuTextTint.g",
-      "fieldType": "primitive",
-      "values": [
-        "255"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.menuTextTint.r",
-      "fieldType": "primitive",
-      "values": [
-        "0"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.music",
-      "fieldType": "primitive",
-      "values": [
-        "assets/audio/LostWaltz.mp3"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.shareTitleScreen",
-      "fieldType": "primitive",
-      "values": [
-        "false"
-      ]
-    }
-  ],
-  "APOLLO.939sPlanetdotSTRUCTURE": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    }
-  ],
-  "artificialparanoia.Divergence": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    }
-  ],
-  "CantAffordaName.OnARail": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    }
-  ],
-  "Ender.Beryl.BrightSpark": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    }
-  ],
-  "Hawkbar.Terrarium": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    }
-  ],
-  "MegaPiggy.AnomalyResearchAndContainment": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    }
-  ],
-  "Onbvb.catastrophe": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    }
-  ],
-  "xen-42.ModJam5": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.assetBundle",
-      "fieldType": "primitive",
-      "values": [
-        "planets/assets/jam3title"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.path",
-      "fieldType": "primitive",
-      "values": [
-        "Assets/StarshipCommunity.prefab"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.position.x",
-      "fieldType": "primitive",
-      "values": [
-        "-32"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.position.y",
-      "fieldType": "primitive",
-      "values": [
-        "125"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.position.z",
-      "fieldType": "primitive",
-      "values": [
-        "-50"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.rename",
-      "fieldType": "primitive",
-      "values": [
-        "StarshipCommunity"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.rotation.x",
-      "fieldType": "primitive",
-      "values": [
-        "45"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.rotation.y",
-      "fieldType": "primitive",
-      "values": [
-        "330"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.rotation.z",
-      "fieldType": "primitive",
-      "values": [
-        "10"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.Background.details.scale",
-      "fieldType": "primitive",
-      "values": [
-        "0.2"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.disableNHPlanets",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.destroyMenuPlanet",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.assetBundle",
-      "fieldType": "primitive",
-      "values": [
-        "planets/assets/jam5title"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.isRelativeToParent",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.parentPath",
-      "fieldType": "primitive",
-      "values": [
-        "CentralStation/ShipRoot"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.path",
-      "fieldType": "primitive",
-      "values": [
-        "Assets/jam5-start-model.prefab",
-        "Scene/Background/PlanetPivot/PlanetRoot/Props/Structure_HEA_PlayerShip_v4_NearProxy"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.position.y",
-      "fieldType": "primitive",
-      "values": [
-        "4"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.position.z",
-      "fieldType": "primitive",
-      "values": [
-        "0"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.removeChildren",
-      "fieldType": "array",
-      "values": [
-        "StarshipCommunity"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.rename",
-      "fieldType": "primitive",
-      "values": [
-        "CentralStation",
-        "HearthianShip"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.scale",
-      "fieldType": "primitive",
-      "values": [
-        "0.2",
-        "1"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.menuTextTint.b",
-      "fieldType": "primitive",
-      "values": [
-        "220"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.menuTextTint.g",
-      "fieldType": "primitive",
-      "values": [
-        "60"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.menuTextTint.r",
-      "fieldType": "primitive",
-      "values": [
-        "180"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.music",
-      "fieldType": "primitive",
-      "values": [
-        "TravelerNomai"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.shareTitleScreen",
-      "fieldType": "primitive",
-      "values": [
-        "false"
-      ]
-    }
-  ],
-  "xen.ModJam3": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.disableNHPlanets",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.destroyMenuPlanet",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.assetBundle",
-      "fieldType": "primitive",
-      "values": [
-        "planets/assets/jam3title"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.isRelativeToParent",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.parentPath",
-      "fieldType": "primitive",
-      "values": [
-        "StarshipCommunity/Jam3_EntryStation"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.path",
-      "fieldType": "primitive",
-      "values": [
-        "Assets/StarshipCommunity.prefab",
-        "Scene/Background/PlanetPivot/PlanetRoot/Props/Structure_HEA_PlayerShip_v4_NearProxy"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.position.y",
-      "fieldType": "primitive",
-      "values": [
-        "4"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.position.z",
-      "fieldType": "primitive",
-      "values": [
-        "40"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.rename",
-      "fieldType": "primitive",
-      "values": [
-        "HearthianShip",
-        "StarshipCommunity"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.MenuPlanet.details.scale",
-      "fieldType": "primitive",
-      "values": [
-        "1"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.menuTextTint.b",
-      "fieldType": "primitive",
-      "values": [
-        "250"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.menuTextTint.g",
-      "fieldType": "primitive",
-      "values": [
-        "150"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.menuTextTint.r",
-      "fieldType": "primitive",
-      "values": [
-        "120"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.music",
-      "fieldType": "primitive",
-      "values": [
-        "TravelerNomai"
-      ]
-    },
-    {
-      "fieldPath": "titleScreens.shareTitleScreen",
-      "fieldType": "primitive",
-      "values": [
-        "false"
-      ]
-    }
-  ],
   "xen.NewHorizonsExamples": [
     {
       "fieldPath": "$schema",
@@ -722,7 +219,510 @@
       ]
     }
   ],
+  "artificialparanoia.Divergence": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "xen.ModJam3": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.disableNHPlanets",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.destroyMenuPlanet",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.assetBundle",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/jam3title"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.isRelativeToParent",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.parentPath",
+      "fieldType": "primitive",
+      "values": [
+        "StarshipCommunity/Jam3_EntryStation"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.path",
+      "fieldType": "primitive",
+      "values": [
+        "Assets/StarshipCommunity.prefab",
+        "Scene/Background/PlanetPivot/PlanetRoot/Props/Structure_HEA_PlayerShip_v4_NearProxy"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "4"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "40"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rename",
+      "fieldType": "primitive",
+      "values": [
+        "HearthianShip",
+        "StarshipCommunity"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.scale",
+      "fieldType": "primitive",
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.b",
+      "fieldType": "primitive",
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.g",
+      "fieldType": "primitive",
+      "values": [
+        "150"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.r",
+      "fieldType": "primitive",
+      "values": [
+        "120"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.music",
+      "fieldType": "primitive",
+      "values": [
+        "TravelerNomai"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.shareTitleScreen",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "AnonymousStrangerOW.TheStrangerTheyAre": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.ambience",
+      "fieldType": "primitive",
+      "values": [
+        "DreamFire_Crackling_Loop"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.disableNHPlanets",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.destroyMenuPlanet",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.assetBundle",
+      "fieldType": "primitive",
+      "values": [
+        "assets/AssetBundle/title"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.path",
+      "fieldType": "primitive",
+      "values": [
+        "Assets/NewTitlePlanet.prefab"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "3.4349"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-12.3667"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "3.1489"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "333.0655"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "8.4042"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "7.4983"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.b",
+      "fieldType": "primitive",
+      "values": [
+        "121"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.g",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.r",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.music",
+      "fieldType": "primitive",
+      "values": [
+        "assets/audio/LostWaltz.mp3"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.shareTitleScreen",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "xen-42.ModJam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.assetBundle",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/jam3title"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.path",
+      "fieldType": "primitive",
+      "values": [
+        "Assets/StarshipCommunity.prefab"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-32"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "125"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "-50"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.rename",
+      "fieldType": "primitive",
+      "values": [
+        "StarshipCommunity"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "45"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "330"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "10"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.details.scale",
+      "fieldType": "primitive",
+      "values": [
+        "0.2"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.disableNHPlanets",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.destroyMenuPlanet",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.assetBundle",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/jam5title"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.isRelativeToParent",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.parentPath",
+      "fieldType": "primitive",
+      "values": [
+        "CentralStation/ShipRoot"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.path",
+      "fieldType": "primitive",
+      "values": [
+        "Assets/jam5-start-model.prefab",
+        "Scene/Background/PlanetPivot/PlanetRoot/Props/Structure_HEA_PlayerShip_v4_NearProxy"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "4"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.removeChildren",
+      "fieldType": "array",
+      "values": [
+        "StarshipCommunity"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rename",
+      "fieldType": "primitive",
+      "values": [
+        "CentralStation",
+        "HearthianShip"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.scale",
+      "fieldType": "primitive",
+      "values": [
+        "0.2",
+        "1"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.b",
+      "fieldType": "primitive",
+      "values": [
+        "220"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.g",
+      "fieldType": "primitive",
+      "values": [
+        "60"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.r",
+      "fieldType": "primitive",
+      "values": [
+        "180"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.music",
+      "fieldType": "primitive",
+      "values": [
+        "TravelerNomai"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.shareTitleScreen",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "APOLLO.939sPlanetdotSTRUCTURE": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "Hawkbar.Terrarium": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "2walker2.OWJam5ModProject": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "Onbvb.catastrophe": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
   "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "MegaPiggy.AnomalyResearchAndContainment": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "Ender.Beryl.BrightSpark": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "CantAffordaName.OnARail": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",

@@ -1,1348 +1,4 @@
 {
-  "2walker2.Evacuation": [
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Outer Wilds Modding Discord#Special Thanks",
-        "QuantumBlur314#Playtesting",
-        "Samster68#Design, Hearthian Dialogue",
-        "Texture_Turtle#Design, 3D Art, Animation",
-        "Walker#Design, Implementation, Writing"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file."
-      ]
-    }
-  ],
-  "2walker2.OWJam4ModProject": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Greenpixel",
-        "JohnCorby",
-        "Walker"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "A new exhibit has been added to the museum."
-      ]
-    },
-    {
-      "fieldPath": "subtitlePath",
-      "fieldType": "primitive",
-      "values": [
-        "assets/Root_Access_Subtitle.png"
-      ]
-    }
-  ],
-  "2walker2.OWJam5ModProject": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " # ",
-        "Anonymous#Playtesting",
-        "Barirn#Korean Translation",
-        "Enable developer commentary from the options menu!",
-        "HanSoloCh#Russian Translation",
-        "IcyViaton#Playtesting",
-        "JohnCorby#Programming, Music, Optimization, Design, Daucus",
-        "LaraNanuq#French Translation",
-        "Lezzlebit#Music, Audio, 2D and 3D Art, Design, Alnus",
-        "Nan#Chinese Translation",
-        "Walker#Design, Programming, Ship Logs, Dev Commentary, Betula",
-        "coderCleric#Design, Programming, Writing, Adonsonia",
-        "pikpik_carrot#Playtesting",
-        "vodlink#Playtesting"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary."
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "planets/assets/walker_jam5_assets",
-        "planets/assets/walker_jam5_assets2",
-        "planets/assets/walker_jam5_bundle"
-      ]
-    }
-  ],
-  "AnonymousStrangerOW.TheStrangerTheyAre": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "achievements.conditionIDs",
-      "fieldType": "array",
-      "values": [
-        "tsta_allornothing",
-        "tsta_ernesto",
-        "tsta_gangnam",
-        "tsta_gettrolled",
-        "tsta_ghostbusters",
-        "tsta_mindscapes",
-        "tsta_redpilled",
-        "tsta_reunion",
-        "tsta_sudormrf",
-        "tsta_thevision"
-      ]
-    },
-    {
-      "fieldPath": "achievements.ID",
-      "fieldType": "primitive",
-      "values": [
-        "tsta_allornothing",
-        "tsta_ernesto",
-        "tsta_gangnam",
-        "tsta_gettrolled",
-        "tsta_ghostbusters",
-        "tsta_mindscapes",
-        "tsta_redpilled",
-        "tsta_reunion",
-        "tsta_sudormrf",
-        "tsta_thevision"
-      ]
-    },
-    {
-      "fieldPath": "achievements.secret",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " # ",
-        "<heading text-align=\"UpperCenter\" height=\"75\">Contributors</heading>",
-        "<heading text-align=\"UpperCenter\" height=\"75\">Playtesters</heading>",
-        "<heading text-align=\"UpperCenter\" height=\"75\">Special Thanks</heading>",
-        "<heading text-align=\"UpperCenter\" height=\"75\">Translators</heading>",
-        "Barirn#Korean",
-        "Bird#Dialogue for Birch",
-        "Classic",
-        "Daoist_Of_Fists",
-        "Etherpod",
-        "Flip#Post Credits Artist",
-        "GameWyrm",
-        "Hawkbar",
-        "IRLFine#Poem\n#Enigma Puzzles",
-        "Insmoshable",
-        "Ixrec",
-        "JohnCorby",
-        "Luci",
-        "MegaPiggy",
-        "MegaPiggy#Repository Manager\n#Successor",
-        "Meriyu1088",
-        "Mod Made by Anonymous",
-        "ProfessionalIdiot",
-        "Trifid#Scripted the Learn Stranger Language Puzzle",
-        "WrierBrake#Russian",
-        "cOa Rex#Cloak Mineral Icon Artist",
-        "cOa Rex#French",
-        "coderCleric",
-        "nice2cu1#Chinese",
-        "orclecle#Japanese",
-        "pikpik_carrot#Houses\n#Unity Kit\n#First Slide Reel",
-        "sawyer#Slide Reel Title Artist",
-        "vlop#Slide Reel Title Artist",
-        "xen"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "assets/AssetBundle/postcredits",
-        "assets/AssetBundle/strangerbundle"
-      ]
-    }
-  ],
-  "AsymmetricalCavern.LonesomeLake": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Asymmetrical Cavern#Mod Creator",
-        "Special thanks to the Outer Wilds Modding Discord!"
-      ]
-    }
-  ],
-  "atk.IntactMod2": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " ",
-        "And Bird the orb ponderer for making orb stuff!",
-        "JohnCorby for spoonfeeding code and being very cool",
-        "Made with help from the New Horizons modding community",
-        "Shoe#Goober Modeler\n Made the remodeled Hanging City Highway!\n#They're a cool chap",
-        "Special Thanks",
-        "This work is unofficial Fan Content and is not affiliated with Mobius Digital",
-        "Xen for being an awesome guy and teacher even in semi-retirement",
-        "atk#Simpler Times\n#Mod Maker\n#Replacing all the sandfall details and audio was painful but I'm crazy"
-      ]
-    }
-  ],
-  "CantAffordaName.OnARail": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "#",
-        "By Can't Afford a Name",
-        "Nan_Fyn#Simplified Chinese",
-        "Translations"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "planets/assetbundle/onarail"
-      ]
-    }
-  ],
-  "CantAffordaName.TesseractsSecret": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " ",
-        "And various other members of the Outer Wilds Modding Discord",
-        "Can't Afford a Name#Mod Author",
-        "Music#Lightless Dawn\n#Kevin MacLeod (incompetech.com)\n#Licensed under Creative Commons: By Attribution 4.0 License\n#CrypticBird\n#http://creativecommons.org/licenses/by/4.0/",
-        "SanBaiMing#Simplified Chinese Translations",
-        "Xen#Made cloak volumes work after seventy years (It took 2 seconds)"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "Thanks for downloading Tesseract's Secret!\nCheck your ship log to begin!"
-      ]
-    }
-  ],
-  "cleric.DeepBramble": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Ceryus#Playtesting\n#Story\n#Feedback\n#Puzzles",
-        "Custom music made using GarageBand",
-        "Evorox#Playtesting\n#Story\n#Feedback\n#Puzzles\n#Alien writing asset",
-        "My Beautiful, Handsome, Amazing Spouse#2D assets\n#Feedback\n#Editing\n#Puzzles\n#Story\n#Ditylum's song",
-        "OW Modding Discord#General help and support",
-        "Raime000#Audio editing\n#Playtesting",
-        "Repcon#Character modeling\n#Rigging\n#Animating\n#Texturing\n#Playtesting",
-        "Special credit to pikpik for being the first to find Ernesto",
-        "Thank you to the late development playtesters#JohnCorby\n#Etherpod\n#GameWyrm\n#Pikpik\n#Anon",
-        "Thank you to those who have done translations#Barirn - Korean\n#nepyanagi - Japanese\n#SanBaiMing - Simplified Chinese\n#ErriiickK - PT-BR",
-        "Title screen music derived from The Lost Reels by Andrew Prahlow",
-        "coderCleric#Code\n#Story\n#Writing\n#Design\n#Modeling"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "assetbundles/castaways_assets1",
-        "assetbundles/castaways_assets2"
-      ]
-    }
-  ],
-  "Ender.Beryl.BrightSpark": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Mod Creators:\n#Ender\n#Beryl"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.audio",
-      "fieldType": "primitive",
-      "values": [
-        "OW New Raft Music 082321_4 AP theme"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.audioLooping",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.audioVolume",
-      "fieldType": "primitive",
-      "values": [
-        "0.75"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.condition",
-      "fieldType": "primitive",
-      "values": [
-        "BRIGHTSPARK_ENDING_1"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.creditsType",
-      "fieldType": "primitive",
-      "values": [
-        "none"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.length",
-      "fieldType": "primitive",
-      "values": [
-        "120"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.text",
-      "fieldType": "primitive",
-      "values": [
-        "..and so they left, with a glimmer of hope."
-      ]
-    }
-  ],
-  "Etherpod.T0187": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Ernest#3D Modeling",
-        "Etherpod#Music, Writing, Programming, 3D Modeling",
-        "ditzy#Shaders, Writing, Programming, 3D Modeling",
-        "harperlr#3D Modeling"
-      ]
-    }
-  ],
-  "GameWyrm.HearthsNeighbor2": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Barirn#Korean",
-        "CelestialsStorm#2D artist",
-        "CelestialsStorm#Lily",
-        "EndgameZero#Musician and editor",
-        "FunkyShoeMan#Prop 3D artist",
-        "GameWyrm#Magister, Vultos",
-        "GameWyrm#Team Lead, level designer, writer, and programmer",
-        "Ixrec#Playtesting",
-        "JohnCorby#Sectoring and Unity Consultant",
-        "Mashroom#Chinese",
-        "Repcon#Magister robe model and textures",
-        "Shiloh#Vespa",
-        "Special Thanks",
-        "Stache#System",
-        "Thimble#Acquarius",
-        "Translations",
-        "Voice Talent",
-        "You#For playing!",
-        "evalka#Roja",
-        "pikpik_carrot#Sectoring and Vespa's room",
-        "xen#Quartz, Obligatory Ernesto"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "$HN2StartupPrompt"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "assets/magistration-assets/animations",
-        "assets/magistration-assets/music",
-        "assets/magistration-assets/text",
-        "assets/magistration-assets/textures-original",
-        "assets/magistration-assets/texturesow-a",
-        "assets/magistration-assets/texturesow-b"
-      ]
-    },
-    {
-      "fieldPath": "repeatPopup",
-      "fieldType": "primitive",
-      "values": [
-        "false"
-      ]
-    }
-  ],
-  "GameWyrm.SymbiosisShipLogs": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Bird#Creator of Symbiosis",
-        "GameWyrm#Ship Logs and some minor fixes",
-        "xen#Helped a bit"
-      ]
-    }
-  ],
-  "Hawkbar.GreenFlameBlade": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Chinese (s.) Translation#redsu721",
-        "French Translation#Lumine0409",
-        "Hawkbar#Programming, Environment Design",
-        "Insmoshable#Art, Scenario Design",
-        "Japanese Translation#orclecle",
-        "Korean Translation#Barim",
-        "NonoGry#Playtester",
-        "Oshyu18#Playtester",
-        "Polish Translation#Haishi",
-        "Russion Translation#OrWest",
-        "Sugeema#Playtester"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "assetbundles/greenflameblade"
-      ]
-    },
-    {
-      "fieldPath": "subtitlePath",
-      "fieldType": "primitive",
-      "values": [
-        "subtitle.png"
-      ]
-    }
-  ],
-  "Hawkbar.SolarRangers": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Hawkbar#Programming, Design, and Writing",
-        "Insmoshable#Environment and Character Art",
-        "Oshyu18#Playtester",
-        "ShwinVT#Playtester",
-        "TeamKabuki#Playtester"
-      ]
-    }
-  ],
-  "Hawkbar.Terrarium": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Hawkbar#Programming and Music",
-        "Insmoshable#Art and Design"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "planets/assetbundles/terrarium"
-      ]
-    },
-    {
-      "fieldPath": "subtitlePath",
-      "fieldType": "primitive",
-      "values": [
-        "subtitle.png"
-      ]
-    }
-  ],
-  "Hawkbar.TheSurvivors": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Hawkbar#Programming, Writing, and Design",
-        "Insmoshable#Art and Design",
-        "Team Kabuki#Art and Design"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "A new adventure awaits you starting at the Vessel!"
-      ]
-    }
-  ],
-  "hearth1an.ChristmasStory": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "",
-        "Balex#French localisation",
-        "Barirn#Korean localisation",
-        "Derko#German localisation",
-        "Elwensà#2D artist",
-        "GameWyrm#Tester",
-        "Greenpixel#Composer",
-        "Ink#Tester",
-        "John Corby#Tester",
-        "Music Turtle#Tester",
-        "Outer Spacecorns#Tester",
-        "Pabloherresp#Spanish localisation",
-        "ShVanes#Russian localisation",
-        "Thank you for playing Christmas Story!",
-        "That Thing#Tester",
-        "TimeWarp Knight#Tester",
-        "bismuthdistrict#Tester",
-        "fire_minth#Tester",
-        "hearth1an#Mod Author",
-        "ilynery#Italian localisation",
-        "orclecle#Japanese localisation",
-        "solitary-sails#Chinese localisation",
-        "xen#Mod Author"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "MOD_POPUP"
-      ]
-    }
-  ],
-  "hearth1an.Intervention": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " ",
-        "Andrew Prahlow, Arondight Studios",
-        "Did little help:",
-        "JohnCorby",
-        "Music used:",
-        "Russian localisation#wantapples, hearth1an",
-        "This mod was made for Outer Wilds New Horizons modding Jam in one week with no coding",
-        "Trifid",
-        "and others from Outer Wilds Modding Discord community",
-        "clay",
-        "hearth1an#Mod author",
-        "xen"
-      ]
-    }
-  ],
-  "hearth1an.Origins": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "",
-        "Music Turtle#Voice acting",
-        "Terofale#French translation",
-        "Thank you for playing Origins!",
-        "This mod was made for Outer Wilds Modding Jam in july 2023",
-        "Tofu, hearth1an#Russian translation",
-        "Yakamoto, orclecle#Japanese translation",
-        "hearth1an#Mod Author",
-        "iAsure#Spanish translation"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "MOD_POPUP"
-      ]
-    }
-  ],
-  "hearth1an.TheVision": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " ",
-        "2walker2#Tester\n#Grammar fix",
-        "9638#Japanese localisation",
-        "Alejandro-SB#Spanish localisation",
-        "Alex Chaloner#English localisation",
-        "Andrew Prahlow - Nomai Meditation",
-        "Barirn#Korean localisation",
-        "Book#Tester",
-        "Chinese Outer Wilds lovers#Chinese localisation",
-        "Deadofnothing#French localisation",
-        "Derko#German localisation",
-        "Ernesto#Fish",
-        "Fixxion#Tester",
-        "Gabriel9282#Tester",
-        "Greenpixel#Tester",
-        "Hawkbat#Help with code",
-        "Ink#Tester",
-        "Jammer#Tester",
-        "JohnCorby#Help with code\n#Tester",
-        "Lambda#Tester",
-        "Laundryjx#Tester",
-        "Leatryx#Russian localisation",
-        "Made with New Horizons",
-        "MegaPiggy#Help with code\n#Tester\n#English localisation",
-        "Music used:",
-        "Novid Prokteps#Tester",
-        "ShoosGun#Portuguese localisation",
-        "SolarReaction#Tester",
-        "Thank you for playing \"The Vision\"!",
-        "TimLikeHero#Tester",
-        "Tlya#Russian localisation",
-        "and others from Outer Wilds Modding Discord community",
-        "clay#Mentor\n#Help with code",
-        "hearth1an#Mod Author\n#Russian localisation\n#English localisation",
-        "ilyNerY#Italian localisation",
-        "nebula#Help with code\n#Tester",
-        "piggeywig2000#Help with code",
-        "xen#Help with code\n#Tester"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "THE_VISION_POPUP"
-      ]
-    }
-  ],
-  "LeeSpork.ModJam5": [
-    {
-      "fieldPath": "achievements.conditionIDs",
-      "fieldType": "array",
-      "values": [
-        "LEESPORK_JAM5_GESWALDO_REPORTED",
-        "LEESPORK_JAM5_LEUC_KILLS_YOU",
-        "LEESPORK_JAM5_POST_WIN_GRAVE_READ",
-        "LEESPORK_JAM5_SPECIAL_THANKED"
-      ]
-    },
-    {
-      "fieldPath": "achievements.ID",
-      "fieldType": "primitive",
-      "values": [
-        "LEESPORK_JAM5_BAD_ENDING",
-        "LEESPORK_JAM5_ERNESTO",
-        "LEESPORK_JAM5_GOOD_GRAVE",
-        "LEESPORK_JAM5_SPECIAL_THANKS"
-      ]
-    },
-    {
-      "fieldPath": "achievements.secret",
-      "fieldType": "primitive",
-      "values": [
-        "false"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Mod created by LeeSpork"
-      ]
-    }
-  ],
-  "MegaPiggy.AnomalyResearchAndContainment": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "MegaPiggy#Story, 3D Modeling, Programming, Writing, Music"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "planets/anomalyresearch.rem"
-      ]
-    }
-  ],
-  "MegaPiggy.Axiom": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "MegaPiggy#Mod Creator",
-        "Outer Wilds Alpha#Based off"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "planets/axiomaicale.rem"
-      ]
-    },
-    {
-      "fieldPath": "subtitlePath",
-      "fieldType": "primitive",
-      "values": [
-        "subtitle.png"
-      ]
-    }
-  ],
-  "MegaPiggy.Jam4JokeEntry": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "MegaPiggy#God"
-      ]
-    }
-  ],
-  "Onbvb.catastrophe": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Graphic Design#My passion",
-        "Ixrec#2 Typos",
-        "Mr.Biollante#He was also there",
-        "Onbvb#EVERYTHING AAAAAAAAAAAAAAAAA",
-        "SirDootDoot#1 Typo",
-        "SirDootDoot#Testing the mod",
-        "Star.stellarDeathType#Being unused",
-        "Vodblink#Speedrun Mode Idea"
-      ]
-    },
-    {
-      "fieldPath": "subtitlePath",
-      "fieldType": "primitive",
-      "values": [
-        "planets/textures/subtitle.png"
-      ]
-    }
-  ],
-  "orclecle.Finis": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Outer Wilds Modding Discord#Special Thanks",
-        "SanBaiMing#Chinese Translation",
-        "orclecle#Program, Art, Music, Story"
-      ]
-    }
-  ],
-  "orclecle.Guardian": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Outer Wilds Modding Discord#Special Thanks",
-        "orclecle#Program, Art, Music, Story"
-      ]
-    }
-  ],
-  "pikpik_carrot.BandTogether": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Etherpod#3D Modeling\n#Programming\n#Writing",
-        "Playtesters#FunkyShoeMan\n#GameWyrm\n#Ixrec",
-        "TheHipOne#Music Composition",
-        "ditzy#3D Modeling\n#Programming",
-        "pikpik_carrot#Animation\n#Project Management"
-      ]
-    }
-  ],
-  "Samster68.FretsQuest": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "achievements.factIDs",
-      "fieldType": "array",
-      "values": [
-        "ASK_ABOUT_ICE",
-        "BACKSTORY_FROM_FRET",
-        "BRACKETS_REST_LYRIC",
-        "CLIFF_HOUSE_RECORDER",
-        "DRIED_TEARS_RECORDER",
-        "LANTERN_HOUSE_RECORDER",
-        "LOST_STRINGS_LYRICS",
-        "LOST_STRINGS_RECORDER",
-        "LOST_VILLAGE_LYRICS",
-        "READ_BANJO_SCROLL",
-        "READ_BRIDGE_SCROLL_ARGUMENT",
-        "READ_BRIDGE_SCROLL_BANJO",
-        "READ_SKELETON_SCROLL_BRIDGE",
-        "READ_SKELETON_SCROLL_FRET",
-        "READ_SKELETON_SCROLL_RIM",
-        "READ_SKELETON_SCROLL_START",
-        "READ_STRUMS_DIARY",
-        "READ_STRUMS_DIARY_BANJO",
-        "REPORTED_TO_FRET",
-        "RESON_BACKSTORY",
-        "RESON_BANJO_MISSING",
-        "RESON_LS_RUMOR",
-        "RESON_NEW_GALAXY",
-        "TALKING_SKELETONS",
-        "TALK_TO_ERNESTO",
-        "TALK_TO_RIM",
-        "TALK_TO_STRUM",
-        "TALK_TO_STRUM_PART_TWO",
-        "TALK_TO_TUNER",
-        "TALL_HOUSE_RECORDER",
-        "TUNERS_QUEST_COMPLETE",
-        "TUNERS_REQUEST",
-        "TUNER_GRAVE_FOUND"
-      ]
-    },
-    {
-      "fieldPath": "achievements.ID",
-      "fieldType": "primitive",
-      "values": [
-        "FQ_CORRUPTED_SCROLL",
-        "FQ_DISCOVER_BANJO_GALAXY",
-        "FQ_DREAMWORLD_BANJO",
-        "FQ_FINISH_LOG",
-        "FQ_ICE_SPIRE",
-        "FQ_INVESTIGATE_BANJO",
-        "FQ_MEET_FRET",
-        "FQ_MISSION_COMPLETE",
-        "FQ_TUNERS_DREAM",
-        "FQ_TUNERS_SONG",
-        "FQ_TUNER_GRAVE"
-      ]
-    },
-    {
-      "fieldPath": "achievements.secret",
-      "fieldType": "primitive",
-      "values": [
-        "false",
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " ",
-        "CrypticBird#Bird",
-        "Fixxion#Code Assist",
-        "Flatkat#Playtester",
-        "Greenpixel#Playtester",
-        "JohnCorby#Playtester",
-        "Samster68#Mod Author",
-        "Smuffy#Music\n#Playtester",
-        "Texture_Turtle#Launch Trailer",
-        "Thank you for playing \"Fret's Quest\"!",
-        "Tlya#Russian Localization",
-        "Trifid#Code Assist",
-        "and others from the Outer Wilds Modding community!",
-        "clay#Code Assist, Playtester",
-        "ewo#Playtester",
-        "hearth1an#Code Assist",
-        "xen#Code Assist",
-        "yakamot03#Japanese Localization"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "Thank you for downloading Fret's Quest! Someone is waiting for you in the Village near the geysers."
-      ]
-    },
-    {
-      "fieldPath": "repeatPopup",
-      "fieldType": "primitive",
-      "values": [
-        "false"
-      ]
-    }
-  ],
-  "TeamErnesto.OWJam3ModProject": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "AstridOrange#Chinese Translation",
-        "GayCoffee#Writer",
-        "Greenpixel#Composer",
-        "NanF#Chines Translation Proofreading",
-        "Walker#Programmer",
-        "digitalvalues (freesound.org)#Signal SFX"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended."
-      ]
-    },
-    {
-      "fieldPath": "subtitlePath",
-      "fieldType": "primitive",
-      "values": [
-        "planets/assets/Subtitle.png"
-      ]
-    }
-  ],
-  "TheSignalJammers.FifthModJam": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " # ",
-        "A Jam 5 Submission by the Signal Jammers Team",
-        "Anonymous#Programmer",
-        "Echatsum#Programmer",
-        "GameWyrm (Achievements+ update)",
-        "Ixrec",
-        "JohnCorby",
-        "Modders:",
-        "Playtesters:",
-        "Repcon#3D Modeling and Design",
-        "SanBaiMing#Chinese",
-        "Special Thanks:",
-        "Streetlights Behind The Trees",
-        "Translations curtesy of:",
-        "Yommi (Achievements+ update)",
-        "cOa Rex",
-        "cOa Rex#2D Art",
-        "cOa Rex#French",
-        "pikpik_carrot#Lead Developer",
-        "vodblink",
-        "xen"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "planets/assets/AssetBundle/jam5"
-      ]
-    }
-  ],
-  "Trifid.QuasarProject": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "JohnCorby#Programmer",
-        "Tetraminus#Programmer",
-        "Trifid#Creator",
-        "Turtle#Composer"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "The Quasar Project has a certain mechanic that is graphically intensive; when you reach it, you can adjust its quality in the mod settings."
-      ]
-    },
-    {
-      "fieldPath": "repeatPopup",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    }
-  ],
-  "Turtle.FunDayOff": [
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "JohnCorby#Big help when doing code",
-        "Outer Wilds Modding Discord#Special Thanks",
-        "Texture_Turtle#Design, 3D Art, Animation",
-        "Texture_Turtle#Design, Hearthian Dialogue",
-        "Texture_Turtle#Design, Implementation, Writing",
-        "Texture_Turtle#Playtesting"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!"
-      ]
-    }
-  ],
-  "Walker.AstralCodex": [
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "AstridOrange#Chinese Translation Proofreading",
-        "Barirn#Korean Translation",
-        "Book\nMegaPiggy\nCaffeinated Gay\nFunkyShoeMan\nSchpungus\nxen 12\nSamster68\nToby Wright\npikpik\nCelestialStorm\nGameWyrm\nposhpotato#Playtesters",
-        "Carol#Russian Translation",
-        "Ernesto#Neither Last '-Nore' Least",
-        "Greenpixel#Composer, Artist",
-        "Groove619#Russian Translation Update",
-        "Hedgehog Team (Unity Asset Store)#Ghost Matter Skybox",
-        "InspectorJ (Freesound.com)#Sound Effects",
-        "JohnCorby\nEchatsum\nToasty\norclecle\nkarayage\nQuantum Luna\nGamemaster36016\nholemcross\nSoulRaen\nDinkSmallwood\nMegaPupEx\nEncounterQ\npaulschellin\nDiORDKAE\nHipPotatoes\nposhpotato\nDieck_Pwns_All\nBeatCrazed\nMinionNumberQ\nramawa\nMs. Blue\nUpgrade\nCybus\nmolek112\nRedio3\nTheShipNostromo\nMancomb Seepgood\ntimmot\nDangerzone#Scholars of Ernesto",
-        "JohnCorby#Composer, SFX, Technical Assistance",
-        "LaraNanuq#French Translation Updates",
-        "Nan#Chinese Translation",
-        "Outer Wilds Modding Discord#Special Thanks",
-        "Reavo End#Composer",
-        "Texture_Turtle#Artist, Trailer",
-        "Walker#Designer, Developer, Writer",
-        "Yokuen#French Translation",
-        "karayage#Japanese Translation Assistance",
-        "orclecle#Japanese Translation",
-        "simozmp#Italian Translation"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed."
-      ]
-    }
-  ],
-  "xen-42.ModJam5": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Hub model#Streetlights Behind the Trees",
-        "Organizers#xen\n#Streetlights Behind the Trees",
-        "Pre-crash Nomai suit texture#hearth1an",
-        "Space music#Lezzlebit"
-      ]
-    }
-  ],
-  "xen.Dreamstalker": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " ",
-        "Acamaeda and Rai#Rewrote a line of text",
-        "Bwc9876#Checked one thing one time",
-        "JohnCorby#Helped",
-        "Playtesters#JohnCorby\n#2walker2\n#Damian\n#CrypticBird\n#Other people I think",
-        "Tlya#Russian Localization",
-        "xen#Made the mod"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "DREAMSTALKER_POPUP"
-      ]
-    }
-  ],
-  "xen.EscapeRoomJam4": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        " ",
-        "Playtesters#Ixrec\n#Megapiggy\n#And others",
-        "Wyrm#Lead developer",
-        "xen#Developer"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "WYRM_XEN_JAM_4_POPUP"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "assets/bundles/assets",
-        "assets/bundles/structure_nom",
-        "assets/bundles/structure_stranger"
-      ]
-    },
-    {
-      "fieldPath": "repeatPopup",
-      "fieldType": "primitive",
-      "values": [
-        "false"
-      ]
-    }
-  ],
-  "xen.ModJam3": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Organizers#xen\n#Raicuparta\n#_nebula\n#JohnCorby\n#Idiot",
-        "Pre-crash Nomai suit texture#hearth1an",
-        "Starship Community model#Streetlights Behind the Trees"
-      ]
-    }
-  ],
   "xen.NewHorizons": [
     {
       "fieldPath": "$schema",
@@ -1508,491 +164,6 @@
       ]
     }
   ],
-  "xen.UnofficialJam3Entry": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "xen#Me it's my mod\n#Do I win the jam now?\n#(I am a judge I'm not elligible)"
-      ]
-    }
-  ],
-  "TeamGeswaldo.Jam5": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "credits",
-      "fieldType": "array",
-      "values": [
-        "Harrassed me to finish the mod on time (with permission), Viburnum#Vodblink",
-        "Logo, expert critiquer, Calylophus#Callie",
-        "Musician, Hellebore#HeroPlays1122",
-        "Planet crafter, prop placer, shiplogger, Sorrel#Solec",
-        "Story and planet ideator, modeller, Thyme#T3rtu"
-      ]
-    }
-  ],
-  "coderCleric.Mindscapes": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "MINDSCAPES:\nA new exhibit has been added to the observatory."
-      ]
-    }
-  ],
-  "Samster68.HearthianFishing": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "achievements.factIDs",
-      "fieldType": "array",
-      "values": [
-        "ANCESTRAL_SALMON_CAUGHT_FACT",
-        "EERIE_EEL_CAUGHT_FACT",
-        "HEARTHIAN_BASS_CAUGHT_FACT",
-        "PINE_MULLET_CAUGHT_FACT",
-        "SPARKLING_STONEFISH_CAUGHT_FACT",
-        "SPINEL_ADVENTURE_FACT_ONE",
-        "TIMBER_MACKEREL_CAUGHT_FACT",
-        "WARPING_COD_CAUGHT_FACT"
-      ]
-    },
-    {
-      "fieldPath": "achievements.ID",
-      "fieldType": "primitive",
-      "values": [
-        "HF_CATCH_BASS",
-        "HF_OBTAIN_FISHING_ROD",
-        "HF_TH_ANGLER"
-      ]
-    },
-    {
-      "fieldPath": "achievements.secret",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "MAIN_MENU_POPUP"
-      ]
-    },
-    {
-      "fieldPath": "repeatPopup",
-      "fieldType": "primitive",
-      "values": [
-        "false"
-      ]
-    }
-  ],
-  "Samster68.HearthianGolf": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "achievements.factIDs",
-      "fieldType": "array",
-      "values": [
-        "FINISHED_COURSE_FACT",
-        "FOUND_BANJO_FACT",
-        "HOURGLASS_COMPLETE_FACT",
-        "MET_CHIP_FACT",
-        "TIMBER_HEARTH_COMPLETE_FACT"
-      ]
-    },
-    {
-      "fieldPath": "achievements.ID",
-      "fieldType": "primitive",
-      "values": [
-        "HG_FOUND_BANJO",
-        "HG_FRONT_NINE_MASTER",
-        "HG_HEARTHIAN_MASTERY",
-        "HG_HOURGLASS_MASTERY",
-        "HG_TALK_TO_CHIP"
-      ]
-    },
-    {
-      "fieldPath": "achievements.secret",
-      "fieldType": "primitive",
-      "values": [
-        "false",
-        "true"
-      ]
-    },
-    {
-      "fieldPath": "popupMessage",
-      "fieldType": "primitive",
-      "values": [
-        "MAIN_MENU_POPUP"
-      ]
-    },
-    {
-      "fieldPath": "repeatPopup",
-      "fieldType": "primitive",
-      "values": [
-        "false"
-      ]
-    }
-  ],
-  "almaz5200.EskerIceCream": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "AnonymousStrangerOW.WarpToVessel": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "APOLLO.939sPlanetdotSTRUCTURE": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "artificialparanoia.Divergence": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "atk.ObtuseClues": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "Boreas.Jam5CakeCapere": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "Boreas.ScavengerHunt": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "coderCleric.JamHub": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "assetbundles/cleric_jamhub_assets1",
-        "assetbundles/cleric_jamhub_assets2",
-        "assetbundles/cleric_jamhub_assets3",
-        "assetbundles/cleric_jamhub_assets4",
-        "assetbundles/cleric_jamhub_bundle",
-        "assetbundles/cleric_jamhub_textandbanners"
-      ]
-    }
-  ],
-  "CreativeNameTxt.OrbitTest": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "Echatsum.MisfiredJump": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "Etherpod.LuminaTerra": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "FunkyShoeMan.ErnestoTakeover": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "GameWyrm.HearthsNeighbor": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "gany.LiveAndLearn": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "OmegaFallon.ReactiveHearthians": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "orclecle.Jam5PingBox": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "pikpik_carrot,shoe,TextureTurtle.2024FallJam": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "pikpik_carrot.EotUFly": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "SpatialXX.ShipAlarm": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "TeamMitis.Liaison": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "Tebmn.MoreToHear": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "TerrificTrifid.ShipBallpit": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "TheLoweDown256.TLDJam5": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.colour.a",
-      "fieldType": "primitive",
-      "values": [
-        "255"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.colour.b",
-      "fieldType": "primitive",
-      "values": [
-        "255"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.colour.g",
-      "fieldType": "primitive",
-      "values": [
-        "95"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.colour.r",
-      "fieldType": "primitive",
-      "values": [
-        "105"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.condition",
-      "fieldType": "primitive",
-      "values": [
-        "TLD256_SHOW_ENDSCREEN"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.creditsType",
-      "fieldType": "primitive",
-      "values": [
-        "none"
-      ]
-    },
-    {
-      "fieldPath": "gameOver.text",
-      "fieldType": "primitive",
-      "values": [
-        "CORE COLLAPSE"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "assets/shrinkingplanet"
-      ]
-    }
-  ],
-  "Trifid.TrifidJam3": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "Trifid.TrifidJam5": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "preloadAssetBundles",
-      "fieldType": "array",
-      "values": [
-        "planets/trifid_jam5"
-      ]
-    }
-  ],
-  "Vambok.HearthianParable": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "Vambok.NomaiSky": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
-  "xen.PlayAsGabbro": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-      ]
-    }
-  ],
   "xen.RealSolarSystem": [
     {
       "fieldPath": "$schema",
@@ -2063,6 +234,1660 @@
       ]
     }
   ],
+  "hearth1an.TheVision": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " ",
+        "2walker2#Tester\n#Grammar fix",
+        "9638#Japanese localisation",
+        "Alejandro-SB#Spanish localisation",
+        "Alex Chaloner#English localisation",
+        "Andrew Prahlow - Nomai Meditation",
+        "Barirn#Korean localisation",
+        "Book#Tester",
+        "Chinese Outer Wilds lovers#Chinese localisation",
+        "Deadofnothing#French localisation",
+        "Derko#German localisation",
+        "Ernesto#Fish",
+        "Fixxion#Tester",
+        "Gabriel9282#Tester",
+        "Greenpixel#Tester",
+        "Hawkbat#Help with code",
+        "Ink#Tester",
+        "Jammer#Tester",
+        "JohnCorby#Help with code\n#Tester",
+        "Lambda#Tester",
+        "Laundryjx#Tester",
+        "Leatryx#Russian localisation",
+        "Made with New Horizons",
+        "MegaPiggy#Help with code\n#Tester\n#English localisation",
+        "Music used:",
+        "Novid Prokteps#Tester",
+        "ShoosGun#Portuguese localisation",
+        "SolarReaction#Tester",
+        "Thank you for playing \"The Vision\"!",
+        "TimLikeHero#Tester",
+        "Tlya#Russian localisation",
+        "and others from Outer Wilds Modding Discord community",
+        "clay#Mentor\n#Help with code",
+        "hearth1an#Mod Author\n#Russian localisation\n#English localisation",
+        "ilyNerY#Italian localisation",
+        "nebula#Help with code\n#Tester",
+        "piggeywig2000#Help with code",
+        "xen#Help with code\n#Tester"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "THE_VISION_POPUP"
+      ]
+    }
+  ],
+  "Samster68.FretsQuest": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "achievements.factIDs",
+      "fieldType": "array",
+      "values": [
+        "ASK_ABOUT_ICE",
+        "BACKSTORY_FROM_FRET",
+        "BRACKETS_REST_LYRIC",
+        "CLIFF_HOUSE_RECORDER",
+        "DRIED_TEARS_RECORDER",
+        "LANTERN_HOUSE_RECORDER",
+        "LOST_STRINGS_LYRICS",
+        "LOST_STRINGS_RECORDER",
+        "LOST_VILLAGE_LYRICS",
+        "READ_BANJO_SCROLL",
+        "READ_BRIDGE_SCROLL_ARGUMENT",
+        "READ_BRIDGE_SCROLL_BANJO",
+        "READ_SKELETON_SCROLL_BRIDGE",
+        "READ_SKELETON_SCROLL_FRET",
+        "READ_SKELETON_SCROLL_RIM",
+        "READ_SKELETON_SCROLL_START",
+        "READ_STRUMS_DIARY",
+        "READ_STRUMS_DIARY_BANJO",
+        "REPORTED_TO_FRET",
+        "RESON_BACKSTORY",
+        "RESON_BANJO_MISSING",
+        "RESON_LS_RUMOR",
+        "RESON_NEW_GALAXY",
+        "TALKING_SKELETONS",
+        "TALK_TO_ERNESTO",
+        "TALK_TO_RIM",
+        "TALK_TO_STRUM",
+        "TALK_TO_STRUM_PART_TWO",
+        "TALK_TO_TUNER",
+        "TALL_HOUSE_RECORDER",
+        "TUNERS_QUEST_COMPLETE",
+        "TUNERS_REQUEST",
+        "TUNER_GRAVE_FOUND"
+      ]
+    },
+    {
+      "fieldPath": "achievements.ID",
+      "fieldType": "primitive",
+      "values": [
+        "FQ_CORRUPTED_SCROLL",
+        "FQ_DISCOVER_BANJO_GALAXY",
+        "FQ_DREAMWORLD_BANJO",
+        "FQ_FINISH_LOG",
+        "FQ_ICE_SPIRE",
+        "FQ_INVESTIGATE_BANJO",
+        "FQ_MEET_FRET",
+        "FQ_MISSION_COMPLETE",
+        "FQ_TUNERS_DREAM",
+        "FQ_TUNERS_SONG",
+        "FQ_TUNER_GRAVE"
+      ]
+    },
+    {
+      "fieldPath": "achievements.secret",
+      "fieldType": "primitive",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " ",
+        "CrypticBird#Bird",
+        "Fixxion#Code Assist",
+        "Flatkat#Playtester",
+        "Greenpixel#Playtester",
+        "JohnCorby#Playtester",
+        "Samster68#Mod Author",
+        "Smuffy#Music\n#Playtester",
+        "Texture_Turtle#Launch Trailer",
+        "Thank you for playing \"Fret's Quest\"!",
+        "Tlya#Russian Localization",
+        "Trifid#Code Assist",
+        "and others from the Outer Wilds Modding community!",
+        "clay#Code Assist, Playtester",
+        "ewo#Playtester",
+        "hearth1an#Code Assist",
+        "xen#Code Assist",
+        "yakamot03#Japanese Localization"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "Thank you for downloading Fret's Quest! Someone is waiting for you in the Village near the geysers."
+      ]
+    },
+    {
+      "fieldPath": "repeatPopup",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "xen.Dreamstalker": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " ",
+        "Acamaeda and Rai#Rewrote a line of text",
+        "Bwc9876#Checked one thing one time",
+        "JohnCorby#Helped",
+        "Playtesters#JohnCorby\n#2walker2\n#Damian\n#CrypticBird\n#Other people I think",
+        "Tlya#Russian Localization",
+        "xen#Made the mod"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "DREAMSTALKER_POPUP"
+      ]
+    }
+  ],
+  "FunkyShoeMan.ErnestoTakeover": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "artificialparanoia.Divergence": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "hearth1an.Intervention": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " ",
+        "Andrew Prahlow, Arondight Studios",
+        "Did little help:",
+        "JohnCorby",
+        "Music used:",
+        "Russian localisation#wantapples, hearth1an",
+        "This mod was made for Outer Wilds New Horizons modding Jam in one week with no coding",
+        "Trifid",
+        "and others from Outer Wilds Modding Discord community",
+        "clay",
+        "hearth1an#Mod author",
+        "xen"
+      ]
+    }
+  ],
+  "CreativeNameTxt.OrbitTest": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "TerrificTrifid.ShipBallpit": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "hearth1an.ChristmasStory": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "",
+        "Balex#French localisation",
+        "Barirn#Korean localisation",
+        "Derko#German localisation",
+        "Elwensà#2D artist",
+        "GameWyrm#Tester",
+        "Greenpixel#Composer",
+        "Ink#Tester",
+        "John Corby#Tester",
+        "Music Turtle#Tester",
+        "Outer Spacecorns#Tester",
+        "Pabloherresp#Spanish localisation",
+        "ShVanes#Russian localisation",
+        "Thank you for playing Christmas Story!",
+        "That Thing#Tester",
+        "TimeWarp Knight#Tester",
+        "bismuthdistrict#Tester",
+        "fire_minth#Tester",
+        "hearth1an#Mod Author",
+        "ilynery#Italian localisation",
+        "orclecle#Japanese localisation",
+        "solitary-sails#Chinese localisation",
+        "xen#Mod Author"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "MOD_POPUP"
+      ]
+    }
+  ],
+  "coderCleric.Mindscapes": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "MINDSCAPES:\nA new exhibit has been added to the observatory."
+      ]
+    }
+  ],
+  "GameWyrm.HearthsNeighbor": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "Hawkbar.TheSurvivors": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Hawkbar#Programming, Writing, and Design",
+        "Insmoshable#Art and Design",
+        "Team Kabuki#Art and Design"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "A new adventure awaits you starting at the Vessel!"
+      ]
+    }
+  ],
+  "hearth1an.Origins": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "",
+        "Music Turtle#Voice acting",
+        "Terofale#French translation",
+        "Thank you for playing Origins!",
+        "This mod was made for Outer Wilds Modding Jam in july 2023",
+        "Tofu, hearth1an#Russian translation",
+        "Yakamoto, orclecle#Japanese translation",
+        "hearth1an#Mod Author",
+        "iAsure#Spanish translation"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "MOD_POPUP"
+      ]
+    }
+  ],
+  "CantAffordaName.TesseractsSecret": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " ",
+        "And various other members of the Outer Wilds Modding Discord",
+        "Can't Afford a Name#Mod Author",
+        "Music#Lightless Dawn\n#Kevin MacLeod (incompetech.com)\n#Licensed under Creative Commons: By Attribution 4.0 License\n#CrypticBird\n#http://creativecommons.org/licenses/by/4.0/",
+        "SanBaiMing#Simplified Chinese Translations",
+        "Xen#Made cloak volumes work after seventy years (It took 2 seconds)"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "Thanks for downloading Tesseract's Secret!\nCheck your ship log to begin!"
+      ]
+    }
+  ],
+  "Trifid.QuasarProject": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "JohnCorby#Programmer",
+        "Tetraminus#Programmer",
+        "Trifid#Creator",
+        "Turtle#Composer"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "The Quasar Project has a certain mechanic that is graphically intensive; when you reach it, you can adjust its quality in the mod settings."
+      ]
+    },
+    {
+      "fieldPath": "repeatPopup",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "atk.IntactMod2": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " ",
+        "And Bird the orb ponderer for making orb stuff!",
+        "JohnCorby for spoonfeeding code and being very cool",
+        "Made with help from the New Horizons modding community",
+        "Shoe#Goober Modeler\n Made the remodeled Hanging City Highway!\n#They're a cool chap",
+        "Special Thanks",
+        "This work is unofficial Fan Content and is not affiliated with Mobius Digital",
+        "Xen for being an awesome guy and teacher even in semi-retirement",
+        "atk#Simpler Times\n#Mod Maker\n#Replacing all the sandfall details and audio was painful but I'm crazy"
+      ]
+    }
+  ],
+  "xen.ModJam3": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Organizers#xen\n#Raicuparta\n#_nebula\n#JohnCorby\n#Idiot",
+        "Pre-crash Nomai suit texture#hearth1an",
+        "Starship Community model#Streetlights Behind the Trees"
+      ]
+    }
+  ],
+  "coderCleric.JamHub": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "assetbundles/cleric_jamhub_assets1",
+        "assetbundles/cleric_jamhub_assets2",
+        "assetbundles/cleric_jamhub_assets3",
+        "assetbundles/cleric_jamhub_assets4",
+        "assetbundles/cleric_jamhub_bundle",
+        "assetbundles/cleric_jamhub_textandbanners"
+      ]
+    }
+  ],
+  "xen.UnofficialJam3Entry": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "xen#Me it's my mod\n#Do I win the jam now?\n#(I am a judge I'm not elligible)"
+      ]
+    }
+  ],
+  "Hawkbar.SolarRangers": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Hawkbar#Programming, Design, and Writing",
+        "Insmoshable#Environment and Character Art",
+        "Oshyu18#Playtester",
+        "ShwinVT#Playtester",
+        "TeamKabuki#Playtester"
+      ]
+    }
+  ],
+  "GameWyrm.HearthsNeighbor2": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Barirn#Korean",
+        "CelestialsStorm#2D artist",
+        "CelestialsStorm#Lily",
+        "EndgameZero#Musician and editor",
+        "FunkyShoeMan#Prop 3D artist",
+        "GameWyrm#Magister, Vultos",
+        "GameWyrm#Team Lead, level designer, writer, and programmer",
+        "Ixrec#Playtesting",
+        "JohnCorby#Sectoring and Unity Consultant",
+        "Mashroom#Chinese",
+        "Repcon#Magister robe model and textures",
+        "Shiloh#Vespa",
+        "Special Thanks",
+        "Stache#System",
+        "Thimble#Acquarius",
+        "Translations",
+        "Voice Talent",
+        "You#For playing!",
+        "evalka#Roja",
+        "pikpik_carrot#Sectoring and Vespa's room",
+        "xen#Quartz, Obligatory Ernesto"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "$HN2StartupPrompt"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "assets/magistration-assets/animations",
+        "assets/magistration-assets/music",
+        "assets/magistration-assets/text",
+        "assets/magistration-assets/textures-original",
+        "assets/magistration-assets/texturesow-a",
+        "assets/magistration-assets/texturesow-b"
+      ]
+    },
+    {
+      "fieldPath": "repeatPopup",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "orclecle.Finis": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Outer Wilds Modding Discord#Special Thanks",
+        "SanBaiMing#Chinese Translation",
+        "orclecle#Program, Art, Music, Story"
+      ]
+    }
+  ],
+  "TeamErnesto.OWJam3ModProject": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "AstridOrange#Chinese Translation",
+        "GayCoffee#Writer",
+        "Greenpixel#Composer",
+        "NanF#Chines Translation Proofreading",
+        "Walker#Programmer",
+        "digitalvalues (freesound.org)#Signal SFX"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended."
+      ]
+    },
+    {
+      "fieldPath": "subtitlePath",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/Subtitle.png"
+      ]
+    }
+  ],
+  "MegaPiggy.Axiom": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "MegaPiggy#Mod Creator",
+        "Outer Wilds Alpha#Based off"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "planets/axiomaicale.rem"
+      ]
+    },
+    {
+      "fieldPath": "subtitlePath",
+      "fieldType": "primitive",
+      "values": [
+        "subtitle.png"
+      ]
+    }
+  ],
+  "Trifid.TrifidJam3": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "pikpik_carrot.BandTogether": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Etherpod#3D Modeling\n#Programming\n#Writing",
+        "Playtesters#FunkyShoeMan\n#GameWyrm\n#Ixrec",
+        "TheHipOne#Music Composition",
+        "ditzy#3D Modeling\n#Programming",
+        "pikpik_carrot#Animation\n#Project Management"
+      ]
+    }
+  ],
+  "OmegaFallon.ReactiveHearthians": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "xen.PlayAsGabbro": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "GameWyrm.SymbiosisShipLogs": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Bird#Creator of Symbiosis",
+        "GameWyrm#Ship Logs and some minor fixes",
+        "xen#Helped a bit"
+      ]
+    }
+  ],
+  "atk.ObtuseClues": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "Samster68.HearthianGolf": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "achievements.factIDs",
+      "fieldType": "array",
+      "values": [
+        "FINISHED_COURSE_FACT",
+        "FOUND_BANJO_FACT",
+        "HOURGLASS_COMPLETE_FACT",
+        "MET_CHIP_FACT",
+        "TIMBER_HEARTH_COMPLETE_FACT"
+      ]
+    },
+    {
+      "fieldPath": "achievements.ID",
+      "fieldType": "primitive",
+      "values": [
+        "HG_FOUND_BANJO",
+        "HG_FRONT_NINE_MASTER",
+        "HG_HEARTHIAN_MASTERY",
+        "HG_HOURGLASS_MASTERY",
+        "HG_TALK_TO_CHIP"
+      ]
+    },
+    {
+      "fieldPath": "achievements.secret",
+      "fieldType": "primitive",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "MAIN_MENU_POPUP"
+      ]
+    },
+    {
+      "fieldPath": "repeatPopup",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "almaz5200.EskerIceCream": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "gany.LiveAndLearn": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "AnonymousStrangerOW.WarpToVessel": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "xen.EscapeRoomJam4": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " ",
+        "Playtesters#Ixrec\n#Megapiggy\n#And others",
+        "Wyrm#Lead developer",
+        "xen#Developer"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "WYRM_XEN_JAM_4_POPUP"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "assets/bundles/assets",
+        "assets/bundles/structure_nom",
+        "assets/bundles/structure_stranger"
+      ]
+    },
+    {
+      "fieldPath": "repeatPopup",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "Hawkbar.GreenFlameBlade": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Chinese (s.) Translation#redsu721",
+        "French Translation#Lumine0409",
+        "Hawkbar#Programming, Environment Design",
+        "Insmoshable#Art, Scenario Design",
+        "Japanese Translation#orclecle",
+        "Korean Translation#Barim",
+        "NonoGry#Playtester",
+        "Oshyu18#Playtester",
+        "Polish Translation#Haishi",
+        "Russion Translation#OrWest",
+        "Sugeema#Playtester"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "assetbundles/greenflameblade"
+      ]
+    },
+    {
+      "fieldPath": "subtitlePath",
+      "fieldType": "primitive",
+      "values": [
+        "subtitle.png"
+      ]
+    }
+  ],
+  "orclecle.Guardian": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Outer Wilds Modding Discord#Special Thanks",
+        "orclecle#Program, Art, Music, Story"
+      ]
+    }
+  ],
+  "pikpik_carrot,shoe,TextureTurtle.2024FallJam": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "2walker2.OWJam4ModProject": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Greenpixel",
+        "JohnCorby",
+        "Walker"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "A new exhibit has been added to the museum."
+      ]
+    },
+    {
+      "fieldPath": "subtitlePath",
+      "fieldType": "primitive",
+      "values": [
+        "assets/Root_Access_Subtitle.png"
+      ]
+    }
+  ],
+  "AsymmetricalCavern.LonesomeLake": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Asymmetrical Cavern#Mod Creator",
+        "Special thanks to the Outer Wilds Modding Discord!"
+      ]
+    }
+  ],
+  "Etherpod.LuminaTerra": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "Echatsum.MisfiredJump": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "TeamMitis.Liaison": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "MegaPiggy.Jam4JokeEntry": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "MegaPiggy#God"
+      ]
+    }
+  ],
+  "Boreas.ScavengerHunt": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "AnonymousStrangerOW.TheStrangerTheyAre": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "achievements.conditionIDs",
+      "fieldType": "array",
+      "values": [
+        "tsta_allornothing",
+        "tsta_ernesto",
+        "tsta_gangnam",
+        "tsta_gettrolled",
+        "tsta_ghostbusters",
+        "tsta_mindscapes",
+        "tsta_redpilled",
+        "tsta_reunion",
+        "tsta_sudormrf",
+        "tsta_thevision"
+      ]
+    },
+    {
+      "fieldPath": "achievements.ID",
+      "fieldType": "primitive",
+      "values": [
+        "tsta_allornothing",
+        "tsta_ernesto",
+        "tsta_gangnam",
+        "tsta_gettrolled",
+        "tsta_ghostbusters",
+        "tsta_mindscapes",
+        "tsta_redpilled",
+        "tsta_reunion",
+        "tsta_sudormrf",
+        "tsta_thevision"
+      ]
+    },
+    {
+      "fieldPath": "achievements.secret",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " # ",
+        "<heading text-align=\"UpperCenter\" height=\"75\">Contributors</heading>",
+        "<heading text-align=\"UpperCenter\" height=\"75\">Playtesters</heading>",
+        "<heading text-align=\"UpperCenter\" height=\"75\">Special Thanks</heading>",
+        "<heading text-align=\"UpperCenter\" height=\"75\">Translators</heading>",
+        "Barirn#Korean",
+        "Bird#Dialogue for Birch",
+        "Classic",
+        "Daoist_Of_Fists",
+        "Etherpod",
+        "Flip#Post Credits Artist",
+        "GameWyrm",
+        "Hawkbar",
+        "IRLFine#Poem\n#Enigma Puzzles",
+        "Insmoshable",
+        "Ixrec",
+        "JohnCorby",
+        "Luci",
+        "MegaPiggy",
+        "MegaPiggy#Repository Manager\n#Successor",
+        "Meriyu1088",
+        "Mod Made by Anonymous",
+        "ProfessionalIdiot",
+        "Trifid#Scripted the Learn Stranger Language Puzzle",
+        "WrierBrake#Russian",
+        "cOa Rex#Cloak Mineral Icon Artist",
+        "cOa Rex#French",
+        "coderCleric",
+        "nice2cu1#Chinese",
+        "orclecle#Japanese",
+        "pikpik_carrot#Houses\n#Unity Kit\n#First Slide Reel",
+        "sawyer#Slide Reel Title Artist",
+        "vlop#Slide Reel Title Artist",
+        "xen"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "assets/AssetBundle/postcredits",
+        "assets/AssetBundle/strangerbundle"
+      ]
+    }
+  ],
+  "cleric.DeepBramble": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Ceryus#Playtesting\n#Story\n#Feedback\n#Puzzles",
+        "Custom music made using GarageBand",
+        "Evorox#Playtesting\n#Story\n#Feedback\n#Puzzles\n#Alien writing asset",
+        "My Beautiful, Handsome, Amazing Spouse#2D assets\n#Feedback\n#Editing\n#Puzzles\n#Story\n#Ditylum's song",
+        "OW Modding Discord#General help and support",
+        "Raime000#Audio editing\n#Playtesting",
+        "Repcon#Character modeling\n#Rigging\n#Animating\n#Texturing\n#Playtesting",
+        "Special credit to pikpik for being the first to find Ernesto",
+        "Thank you to the late development playtesters#JohnCorby\n#Etherpod\n#GameWyrm\n#Pikpik\n#Anon",
+        "Thank you to those who have done translations#Barirn - Korean\n#nepyanagi - Japanese\n#SanBaiMing - Simplified Chinese\n#ErriiickK - PT-BR",
+        "Title screen music derived from The Lost Reels by Andrew Prahlow",
+        "coderCleric#Code\n#Story\n#Writing\n#Design\n#Modeling"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "assetbundles/castaways_assets1",
+        "assetbundles/castaways_assets2"
+      ]
+    }
+  ],
+  "SpatialXX.ShipAlarm": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "Vambok.NomaiSky": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "pikpik_carrot.EotUFly": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "xen-42.ModJam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Hub model#Streetlights Behind the Trees",
+        "Organizers#xen\n#Streetlights Behind the Trees",
+        "Pre-crash Nomai suit texture#hearth1an",
+        "Space music#Lezzlebit"
+      ]
+    }
+  ],
+  "Vambok.HearthianParable": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "APOLLO.939sPlanetdotSTRUCTURE": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "Hawkbar.Terrarium": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Hawkbar#Programming and Music",
+        "Insmoshable#Art and Design"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "planets/assetbundles/terrarium"
+      ]
+    },
+    {
+      "fieldPath": "subtitlePath",
+      "fieldType": "primitive",
+      "values": [
+        "subtitle.png"
+      ]
+    }
+  ],
+  "2walker2.OWJam5ModProject": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " # ",
+        "Anonymous#Playtesting",
+        "Barirn#Korean Translation",
+        "Enable developer commentary from the options menu!",
+        "HanSoloCh#Russian Translation",
+        "IcyViaton#Playtesting",
+        "JohnCorby#Programming, Music, Optimization, Design, Daucus",
+        "LaraNanuq#French Translation",
+        "Lezzlebit#Music, Audio, 2D and 3D Art, Design, Alnus",
+        "Nan#Chinese Translation",
+        "Walker#Design, Programming, Ship Logs, Dev Commentary, Betula",
+        "coderCleric#Design, Programming, Writing, Adonsonia",
+        "pikpik_carrot#Playtesting",
+        "vodlink#Playtesting"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary."
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "planets/assets/walker_jam5_assets",
+        "planets/assets/walker_jam5_assets2",
+        "planets/assets/walker_jam5_bundle"
+      ]
+    }
+  ],
+  "TheSignalJammers.FifthModJam": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        " # ",
+        "A Jam 5 Submission by the Signal Jammers Team",
+        "Anonymous#Programmer",
+        "Echatsum#Programmer",
+        "GameWyrm (Achievements+ update)",
+        "Ixrec",
+        "JohnCorby",
+        "Modders:",
+        "Playtesters:",
+        "Repcon#3D Modeling and Design",
+        "SanBaiMing#Chinese",
+        "Special Thanks:",
+        "Streetlights Behind The Trees",
+        "Translations curtesy of:",
+        "Yommi (Achievements+ update)",
+        "cOa Rex",
+        "cOa Rex#2D Art",
+        "cOa Rex#French",
+        "pikpik_carrot#Lead Developer",
+        "vodblink",
+        "xen"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "planets/assets/AssetBundle/jam5"
+      ]
+    }
+  ],
+  "orclecle.Jam5PingBox": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "Boreas.Jam5CakeCapere": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "Onbvb.catastrophe": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Graphic Design#My passion",
+        "Ixrec#2 Typos",
+        "Mr.Biollante#He was also there",
+        "Onbvb#EVERYTHING AAAAAAAAAAAAAAAAA",
+        "SirDootDoot#1 Typo",
+        "SirDootDoot#Testing the mod",
+        "Star.stellarDeathType#Being unused",
+        "Vodblink#Speedrun Mode Idea"
+      ]
+    },
+    {
+      "fieldPath": "subtitlePath",
+      "fieldType": "primitive",
+      "values": [
+        "planets/textures/subtitle.png"
+      ]
+    }
+  ],
+  "TheLoweDown256.TLDJam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.b",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.g",
+      "fieldType": "primitive",
+      "values": [
+        "95"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.r",
+      "fieldType": "primitive",
+      "values": [
+        "105"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.condition",
+      "fieldType": "primitive",
+      "values": [
+        "TLD256_SHOW_ENDSCREEN"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.creditsType",
+      "fieldType": "primitive",
+      "values": [
+        "none"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.text",
+      "fieldType": "primitive",
+      "values": [
+        "CORE COLLAPSE"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "assets/shrinkingplanet"
+      ]
+    }
+  ],
+  "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Harrassed me to finish the mod on time (with permission), Viburnum#Vodblink",
+        "Logo, expert critiquer, Calylophus#Callie",
+        "Musician, Hellebore#HeroPlays1122",
+        "Planet crafter, prop placer, shiplogger, Sorrel#Solec",
+        "Story and planet ideator, modeller, Thyme#T3rtu"
+      ]
+    }
+  ],
+  "Etherpod.T0187": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Ernest#3D Modeling",
+        "Etherpod#Music, Writing, Programming, 3D Modeling",
+        "ditzy#Shaders, Writing, Programming, 3D Modeling",
+        "harperlr#3D Modeling"
+      ]
+    }
+  ],
+  "MegaPiggy.AnomalyResearchAndContainment": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "MegaPiggy#Story, 3D Modeling, Programming, Writing, Music"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "planets/anomalyresearch.rem"
+      ]
+    }
+  ],
+  "Ender.Beryl.BrightSpark": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Mod Creators:\n#Ender\n#Beryl"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.audio",
+      "fieldType": "primitive",
+      "values": [
+        "OW New Raft Music 082321_4 AP theme"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.audioLooping",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.audioVolume",
+      "fieldType": "primitive",
+      "values": [
+        "0.75"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.condition",
+      "fieldType": "primitive",
+      "values": [
+        "BRIGHTSPARK_ENDING_1"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.creditsType",
+      "fieldType": "primitive",
+      "values": [
+        "none"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.length",
+      "fieldType": "primitive",
+      "values": [
+        "120"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.text",
+      "fieldType": "primitive",
+      "values": [
+        "..and so they left, with a glimmer of hope."
+      ]
+    }
+  ],
+  "Trifid.TrifidJam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "planets/trifid_jam5"
+      ]
+    }
+  ],
+  "CantAffordaName.OnARail": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "#",
+        "By Can't Afford a Name",
+        "Nan_Fyn#Simplified Chinese",
+        "Translations"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "planets/assetbundle/onarail"
+      ]
+    }
+  ],
   "xen.TalkToPrisoner": [
     {
       "fieldPath": "$schema",
@@ -2072,19 +1897,35 @@
       ]
     }
   ],
-  "Tlya.Grapefruit": [
+  "Samster68.HearthianFishing": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
     {
       "fieldPath": "achievements.factIDs",
       "fieldType": "array",
       "values": [
-        "DRAGONFRUIT_DEADFISH_RECORDER"
+        "ANCESTRAL_SALMON_CAUGHT_FACT",
+        "EERIE_EEL_CAUGHT_FACT",
+        "HEARTHIAN_BASS_CAUGHT_FACT",
+        "PINE_MULLET_CAUGHT_FACT",
+        "SPARKLING_STONEFISH_CAUGHT_FACT",
+        "SPINEL_ADVENTURE_FACT_ONE",
+        "TIMBER_MACKEREL_CAUGHT_FACT",
+        "WARPING_COD_CAUGHT_FACT"
       ]
     },
     {
       "fieldPath": "achievements.ID",
       "fieldType": "primitive",
       "values": [
-        "GRAPEFRUIT_ACHIEVEMENT_ERNESTO"
+        "HF_CATCH_BASS",
+        "HF_OBTAIN_FISHING_ROD",
+        "HF_TH_ANGLER"
       ]
     },
     {
@@ -2092,6 +1933,142 @@
       "fieldType": "primitive",
       "values": [
         "true"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "MAIN_MENU_POPUP"
+      ]
+    },
+    {
+      "fieldPath": "repeatPopup",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "Tebmn.MoreToHear": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "2walker2.Evacuation": [
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Outer Wilds Modding Discord#Special Thanks",
+        "QuantumBlur314#Playtesting",
+        "Samster68#Design, Hearthian Dialogue",
+        "Texture_Turtle#Design, 3D Art, Animation",
+        "Walker#Design, Implementation, Writing"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file."
+      ]
+    }
+  ],
+  "Turtle.FunDayOff": [
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "JohnCorby#Big help when doing code",
+        "Outer Wilds Modding Discord#Special Thanks",
+        "Texture_Turtle#Design, 3D Art, Animation",
+        "Texture_Turtle#Design, Hearthian Dialogue",
+        "Texture_Turtle#Design, Implementation, Writing",
+        "Texture_Turtle#Playtesting"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!"
+      ]
+    }
+  ],
+  "Walker.AstralCodex": [
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "AstridOrange#Chinese Translation Proofreading",
+        "Barirn#Korean Translation",
+        "Book\nMegaPiggy\nCaffeinated Gay\nFunkyShoeMan\nSchpungus\nxen 12\nSamster68\nToby Wright\npikpik\nCelestialStorm\nGameWyrm\nposhpotato#Playtesters",
+        "Carol#Russian Translation",
+        "Ernesto#Neither Last '-Nore' Least",
+        "Greenpixel#Composer, Artist",
+        "Groove619#Russian Translation Update",
+        "Hedgehog Team (Unity Asset Store)#Ghost Matter Skybox",
+        "InspectorJ (Freesound.com)#Sound Effects",
+        "JohnCorby\nEchatsum\nToasty\norclecle\nkarayage\nQuantum Luna\nGamemaster36016\nholemcross\nSoulRaen\nDinkSmallwood\nMegaPupEx\nEncounterQ\npaulschellin\nDiORDKAE\nHipPotatoes\nposhpotato\nDieck_Pwns_All\nBeatCrazed\nMinionNumberQ\nramawa\nMs. Blue\nUpgrade\nCybus\nmolek112\nRedio3\nTheShipNostromo\nMancomb Seepgood\ntimmot\nDangerzone#Scholars of Ernesto",
+        "JohnCorby#Composer, SFX, Technical Assistance",
+        "LaraNanuq#French Translation Updates",
+        "Nan#Chinese Translation",
+        "Outer Wilds Modding Discord#Special Thanks",
+        "Reavo End#Composer",
+        "Texture_Turtle#Artist, Trailer",
+        "Walker#Designer, Developer, Writer",
+        "Yokuen#French Translation",
+        "karayage#Japanese Translation Assistance",
+        "orclecle#Japanese Translation",
+        "simozmp#Italian Translation"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed."
+      ]
+    }
+  ],
+  "LeeSpork.ModJam5": [
+    {
+      "fieldPath": "achievements.conditionIDs",
+      "fieldType": "array",
+      "values": [
+        "LEESPORK_JAM5_GESWALDO_REPORTED",
+        "LEESPORK_JAM5_LEUC_KILLS_YOU",
+        "LEESPORK_JAM5_POST_WIN_GRAVE_READ",
+        "LEESPORK_JAM5_SPECIAL_THANKED"
+      ]
+    },
+    {
+      "fieldPath": "achievements.ID",
+      "fieldType": "primitive",
+      "values": [
+        "LEESPORK_JAM5_BAD_ENDING",
+        "LEESPORK_JAM5_ERNESTO",
+        "LEESPORK_JAM5_GOOD_GRAVE",
+        "LEESPORK_JAM5_SPECIAL_THANKS"
+      ]
+    },
+    {
+      "fieldPath": "achievements.secret",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Mod created by LeeSpork"
       ]
     }
   ],
@@ -2118,6 +2095,29 @@
         "SIGNAL_HIDDEN_GORGE",
         "SIGNAL_RIVER_LOWLANDS",
         "SIGNAL_SUBMERGED_STRUCTURE"
+      ]
+    }
+  ],
+  "Tlya.Grapefruit": [
+    {
+      "fieldPath": "achievements.factIDs",
+      "fieldType": "array",
+      "values": [
+        "DRAGONFRUIT_DEADFISH_RECORDER"
+      ]
+    },
+    {
+      "fieldPath": "achievements.ID",
+      "fieldType": "primitive",
+      "values": [
+        "GRAPEFRUIT_ACHIEVEMENT_ERNESTO"
+      ]
+    },
+    {
+      "fieldPath": "achievements.secret",
+      "fieldType": "primitive",
+      "values": [
+        "true"
       ]
     }
   ]

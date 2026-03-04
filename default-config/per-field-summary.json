@@ -3985,405 +3985,1009 @@
       "Off"
     ]
   },
-  "settings.{settingName}": {
+  "settings.{settingName}.min": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "12090113.MeteorLaunching",
-        "values": [
-          "1"
-        ]
-      },
-      {
-        "modName": "Alek.Cammie",
-        "values": [
-          "4"
-        ]
-      },
-      {
-        "modName": "Alek.LightBramble",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Anyar.CustomAnglerfishAI",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "APOLLO.939sPlanetdotSTRUCTURE",
-        "values": [
-          "true"
-        ]
-      },
-      {
         "modName": "Artum.NomaiVRFoveated",
         "values": [
-          "95"
-        ]
-      },
-      {
-        "modName": "Book.BlackHolePortalGun",
-        "values": [
-          "C"
-        ]
-      },
-      {
-        "modName": "BUNN1E5.OW360Camera",
-        "values": [
-          "./Pictures/"
-        ]
-      },
-      {
-        "modName": "BUNN1E5.QSBGameModes",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Bwc9876.TimeSaver",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.DancinWildsVentures",
-        "values": [
-          ""
-        ]
-      },
-      {
-        "modName": "Chaxiraxi.DebugHUD",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "cleric.DeepBramble",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Cleric.HatchlingIcarus",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Cleric.NomaiTextPrinter",
-        "values": [
-          "M"
+          "0"
         ]
       },
       {
         "modName": "clubby789.OWClock",
         "values": [
-          "false"
+          "10"
         ]
       },
       {
-        "modName": "codelazarus14.InhabitantChess",
+        "modName": "Etherpod.ErnestoChase",
         "values": [
-          "true"
+          "1"
         ]
       },
       {
-        "modName": "CrystalENVT.TransRightsMod",
+        "modName": "Etherpod.ExpeditionTakeoff",
         "values": [
-          "0.05"
+          "0"
         ]
       },
       {
-        "modName": "dgarro.ArchaeologistAchievementHelper",
+        "modName": "Etherpod.ShipEnhancements",
         "values": [
-          "false"
+          "0"
         ]
       },
       {
-        "modName": "dgarro.CustomShipLogModes",
+        "modName": "GameWyrm.OuterRelics",
         "values": [
-          "true"
+          "0"
         ]
       },
       {
-        "modName": "dgarro.ShipLogSlideReelPlayer",
+        "modName": "Heelio.EotEBrighterDreams",
         "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "GrimLala.SpeedTools",
-        "values": [
-          "0.0, 0.0, 0.0"
-        ]
-      },
-      {
-        "modName": "Hawkbar.Doom",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Hawkbar.FreedomUnits",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Hawkbar.GreenFlameBlade",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Hawkbar.ScreenshotTool",
-        "values": [
-          "120"
-        ]
-      },
-      {
-        "modName": "Hawkbar.Terrarium",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Hawkbar.TheSurvivors",
-        "values": [
-          "false"
+          "0"
         ]
       },
       {
         "modName": "Ixrec.ArchipelagoRandomizer",
         "values": [
-          "50"
+          "0"
         ]
       },
       {
-        "modName": "Joooosh.SurviveTheSupernova",
+        "modName": "Krevace.VoiceMod",
         "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Komodo.StrangerNightCycle",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Komodo.StrangerSpinGravity",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Leadpogrommer.PeacefulGhosts",
-        "values": [
-          "true"
+          "0"
         ]
       },
       {
         "modName": "Locochoco.ColliderVisualizer",
         "values": [
-          "1-2-3-4"
+          "100"
         ]
       },
       {
-        "modName": "Makaque.AxisConsolidator",
+        "modName": "Locochoco.Spaceshipinha",
         "values": [
-          "false"
+          "0"
         ]
       },
       {
-        "modName": "misternebula.FreeCam",
+        "modName": "nice2cu1.OuterWildFixFont",
         "values": [
-          "false"
+          "10"
         ]
       },
       {
-        "modName": "MrGruntie.InvertLines",
+        "modName": "orclecle.Jam5PingBox",
         "values": [
-          "true"
+          "0"
         ]
       },
       {
-        "modName": "OlegSkutte.TrajectoryPrediction",
+        "modName": "Owen_013.FirstPersonPresence",
         "values": [
-          "false"
+          "0"
         ]
       },
       {
-        "modName": "PacificEngine.CheatsMod",
+        "modName": "picalines.OuterScout",
         "values": [
-          "LeftAlt,Digit2"
+          "1024"
         ]
       },
       {
-        "modName": "PacificEngine.OW_Randomizer",
+        "modName": "Puzzle_Dude98.BONGG",
         "values": [
-          ""
-        ]
-      },
-      {
-        "modName": "Pau318.OuterPictures",
-        "values": [
-          "/Outer Pictures"
-        ]
-      },
-      {
-        "modName": "piggeywig2000.Permadeath",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "PuFF.OWCHT",
-        "values": [
-          "false"
+          "0"
         ]
       },
       {
         "modName": "QuantumBlur314.BonusRocks95",
         "values": [
-          "false"
+          "1"
+        ]
+      },
+      {
+        "modName": "Raicuparta.NomaiVR",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "SBtT.CameraShake",
+        "values": [
+          "0"
         ]
       },
       {
         "modName": "SBtT.GeneralEnhancements",
         "values": [
-          "true"
+          "1"
         ]
       },
       {
-        "modName": "tealhelix.EotE-RideMusic",
+        "modName": "SpatialX.ShipCompassHUD",
         "values": [
-          "154"
+          "0"
         ]
       },
       {
-        "modName": "Tephirax.InvertLookControls",
+        "modName": "SpatialXX.ShipAlarm",
         "values": [
-          "false"
+          "0"
         ]
       },
       {
-        "modName": "Tephirax.OuterWildsSharedShipLog",
+        "modName": "TacoTechnica.NBodyChaos",
         "values": [
-          "true"
+          "0"
         ]
       },
       {
-        "modName": "TheIterator.PodracingTracker",
+        "modName": "Tlya.Hollodjustment",
         "values": [
-          "%USERPROFILE%\\Documents\\PodracingTracker"
-        ]
-      },
-      {
-        "modName": "Titch.ShipRemoteAutopilot",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "TruAI.SmoothThrust",
-        "values": [
-          "0.3"
+          "0"
         ]
       },
       {
         "modName": "Turtle.FunDayOff",
         "values": [
-          "UH OH SECRET"
+          "0"
         ]
       },
       {
-        "modName": "udkyo.HeadTracking",
+        "modName": "Vesper.VespersAssortedOuterWildsShaders",
         "values": [
-          "true"
+          "1"
         ]
       },
       {
-        "modName": "Vesper.OuterWildsMMO",
+        "modName": "VioVayo.ModThatDoesNothing",
         "values": [
-          "owo.outerwildsmods.com"
-        ]
-      },
-      {
-        "modName": "xen.AchievementTracker",
-        "values": [
-          "false"
+          "0"
         ]
       },
       {
         "modName": "xen.DayDream",
         "values": [
-          "false"
+          "0"
         ]
       },
       {
-        "modName": "xen.GhostBuster",
+        "modName": "xen.TankEngine",
         "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "xen.GreenScreenMod",
-        "values": [
-          "K"
-        ]
-      },
-      {
-        "modName": "xen.SecretSettings",
-        "values": [
-          "false"
+          "0"
         ]
       },
       {
         "modName": "xen.ThirdPersonCamera",
         "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Yurtle.ToggleHUD",
-        "values": [
-          "true"
+          "0"
         ]
       }
     ],
     "distinctValues": [
-      "",
-      "%USERPROFILE%\\Documents\\PodracingTracker",
-      "./Pictures/",
-      "/Outer Pictures",
-      "0.0, 0.0, 0.0",
-      "0.05",
-      "0.3",
+      "0",
       "1",
-      "1-2-3-4",
-      "120",
-      "154",
+      "10",
+      "100",
+      "1024"
+    ]
+  },
+  "settings.{settingName}.max": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Artum.NomaiVRFoveated",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "modName": "clubby789.OWClock",
+        "values": [
+          "80"
+        ]
+      },
+      {
+        "modName": "Etherpod.ErnestoChase",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "modName": "Etherpod.ExpeditionTakeoff",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "modName": "Etherpod.ShipEnhancements",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "GameWyrm.OuterRelics",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "modName": "Heelio.EotEBrighterDreams",
+        "values": [
+          "5"
+        ]
+      },
+      {
+        "modName": "Ixrec.ArchipelagoRandomizer",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "modName": "Krevace.VoiceMod",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "Locochoco.ColliderVisualizer",
+        "values": [
+          "1500"
+        ]
+      },
+      {
+        "modName": "Locochoco.Spaceshipinha",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "nice2cu1.OuterWildFixFont",
+        "values": [
+          "20"
+        ]
+      },
+      {
+        "modName": "orclecle.Jam5PingBox",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "modName": "Owen_013.FirstPersonPresence",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "modName": "picalines.OuterScout",
+        "values": [
+          "49151"
+        ]
+      },
+      {
+        "modName": "Puzzle_Dude98.BONGG",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "QuantumBlur314.BonusRocks95",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "modName": "Raicuparta.NomaiVR",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "SBtT.CameraShake",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "modName": "SBtT.GeneralEnhancements",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "modName": "SpatialX.ShipCompassHUD",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "SpatialXX.ShipAlarm",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "TacoTechnica.NBodyChaos",
+        "values": [
+          "2"
+        ]
+      },
+      {
+        "modName": "Tlya.Hollodjustment",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "80"
+        ]
+      },
+      {
+        "modName": "Vesper.VespersAssortedOuterWildsShaders",
+        "values": [
+          "11"
+        ]
+      },
+      {
+        "modName": "VioVayo.ModThatDoesNothing",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "modName": "xen.DayDream",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "xen.TankEngine",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "xen.ThirdPersonCamera",
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "1",
+      "10",
+      "100",
+      "11",
+      "1500",
+      "2",
+      "20",
+      "49151",
+      "5",
+      "80"
+    ]
+  },
+  "settings.{settingName}.options": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "_nebula.QSBTTS",
+        "values": [
+          "Betty",
+          "Dennis",
+          "Frank",
+          "Harry",
+          "Kit",
+          "Paul",
+          "Rita",
+          "Ursula",
+          "Wendy"
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          "2walker2",
+          "All",
+          "JohnCorby",
+          "Lezzlebit (Jamie)",
+          "None",
+          "coderCleric"
+        ]
+      },
+      {
+        "modName": "Anyar.CustomAnglerfishAI",
+        "values": [
+          "None",
+          "X",
+          "Y",
+          "Z"
+        ]
+      },
+      {
+        "modName": "BUNN1E5.QSBGameModes",
+        "values": [
+          "INFECTION"
+        ]
+      },
+      {
+        "modName": "Cleric.HatchlingIcarus",
+        "values": [
+          "Body",
+          "Camera"
+        ]
+      },
+      {
+        "modName": "dgarro.ArchaeologistAchievementHelper",
+        "values": [
+          "Disabled",
+          "Named",
+          "Unnamed"
+        ]
+      },
+      {
+        "modName": "Etherpod.ErnestoChase",
+        "values": [
+          "Cumulative",
+          "Linear",
+          "Timed"
+        ]
+      },
+      {
+        "modName": "Etherpod.ShipEnhancements",
+        "values": [
+          "Black",
+          "Blue",
+          "Default",
+          "Ghostly Green",
+          "Green",
+          "Lavender",
+          "Lemonade",
+          "Orange",
+          "Pink",
+          "Purple",
+          "Rainbow",
+          "Turquoise",
+          "Ultraviolet",
+          "White"
+        ]
+      },
+      {
+        "modName": "Etherpod.TravelersPack",
+        "values": [
+          "Alt Interact",
+          "Autopilot",
+          "Cancel",
+          "Free Look",
+          "Interact",
+          "Tool Primary",
+          "Tool Secondary"
+        ]
+      },
+      {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "Disabled",
+          "Enabled"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "Hidden",
+          "High",
+          "Low",
+          "Medium",
+          "Ultra"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "Off",
+          "On",
+          "Only if VA Mod Present"
+        ]
+      },
+      {
+        "modName": "GameWyrm.OuterRelics",
+        "values": [
+          "0",
+          "25",
+          "50",
+          "75"
+        ]
+      },
+      {
+        "modName": "GrimLala.SpeedTools",
+        "values": [
+          "AshTwin",
+          "Attlerock",
+          "BrittleHollow",
+          "DarkBramble",
+          "EmberTwin",
+          "EyeOfTheUniverse",
+          "EyeOfTheUniverse_Vessel",
+          "GiantsDeep",
+          "HollowLantern",
+          "HourglassTwins",
+          "InnerDarkBramble_EscapePod",
+          "InnerDarkBramble_Feldspar",
+          "InnerDarkBramble_Gutter",
+          "InnerDarkBramble_Hub",
+          "InnerDarkBramble_Maze",
+          "InnerDarkBramble_Nest",
+          "InnerDarkBramble_Secret",
+          "InnerDarkBramble_SmallNest",
+          "InnerDarkBramble_Vessel",
+          "Interloper",
+          "ModelShip",
+          "NomaiBrittleHollowShuttle",
+          "NomaiEmberTwinShuttle",
+          "NomaiProbe",
+          "Probe",
+          "ProbeCannon",
+          "QuantumMoon",
+          "SatiliteBacker",
+          "SatiliteMapping",
+          "Sun",
+          "SunStation",
+          "TimberHearth",
+          "TimberHearthProbe",
+          "WhiteHole",
+          "WhiteHoleStation"
+        ]
+      },
+      {
+        "modName": "Hawkbar.ScreenshotTool",
+        "values": [
+          "Average",
+          "Luminance",
+          "Maximum",
+          "None"
+        ]
+      },
+      {
+        "modName": "ilyabru.OWSpeedModifier",
+        "values": [
+          "2",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "modName": "Ixrec.ArchipelagoRandomizer",
+        "values": [
+          "All Deaths",
+          "Default",
+          "No Override",
+          "Off"
+        ]
+      },
+      {
+        "modName": "Ixrec.LanguageSwap",
+        "values": [
+          "CHINESE_SIMPLE",
+          "ENGLISH",
+          "FRENCH",
+          "GERMAN",
+          "ITALIAN",
+          "JAPANESE",
+          "KOREAN",
+          "POLISH",
+          "PORTUGUESE_BR",
+          "RUSSIAN",
+          "SPANISH_LA",
+          "TURKISH"
+        ]
+      },
+      {
+        "modName": "JohnCorby.VolumetricLights",
+        "values": [
+          "Full",
+          "Half",
+          "Quarter"
+        ]
+      },
+      {
+        "modName": "MoonstoneStudios.SillyFilters",
+        "values": [
+          "hearts",
+          "none",
+          "postcard",
+          "rainbow",
+          "so cute"
+        ]
+      },
+      {
+        "modName": "Owen013.HatchlingOutfit",
+        "values": [
+          "Always",
+          "Never",
+          "When Suited",
+          "When Unsuited"
+        ]
+      },
+      {
+        "modName": "Owen013.MovementMod",
+        "values": [
+          "Down Thrust",
+          "Up Thrust"
+        ]
+      },
+      {
+        "modName": "Owen013.QOLFixes",
+        "values": [
+          "Always",
+          "Never",
+          "When Safe"
+        ]
+      },
+      {
+        "modName": "PacificEngine.OW_HardMode",
+        "values": [
+          "Custom",
+          "Easy",
+          "Hard",
+          "Improbable",
+          "Peaceful",
+          "Ridiculous",
+          "Standard"
+        ]
+      },
+      {
+        "modName": "PacificEngine.OW_Randomizer",
+        "values": [
+          "Death",
+          "Full On Use",
+          "Minute",
+          "Minute + Use",
+          "Off",
+          "On Use",
+          "Profile",
+          "Seed",
+          "Seedless",
+          "Seedless Full On Use",
+          "Seedless Minute",
+          "Seedless Minute + Use",
+          "Seedless On Use"
+        ]
+      },
+      {
+        "modName": "Pau318.OuterPictures",
+        "values": [
+          "Polaroid",
+          "Square",
+          "[none]"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.SkinChanger",
+        "values": [
+          "1 - Backward",
+          "2 - Broken",
+          "3 - Curvy",
+          "4 - Forward",
+          "5 - Sturdy",
+          "6 - Upward"
+        ]
+      },
+      {
+        "modName": "Raicuparta.NomaiVR",
+        "values": [
+          "15",
+          "30",
+          "45",
+          "60",
+          "90"
+        ]
+      },
+      {
+        "modName": "Raicuparta.QuantumSpaceBuddies",
+        "values": [
+          "Cyan",
+          "Dark Blue",
+          "Green",
+          "Light Blue",
+          "Orange",
+          "Pink",
+          "Purple",
+          "Red",
+          "Yellow"
+        ]
+      },
+      {
+        "modName": "SBtT.GeneralEnhancements",
+        "values": [
+          "Always_Green",
+          "Disabled",
+          "Enabled"
+        ]
+      },
+      {
+        "modName": "SpatialX.ShipCompassHUD",
+        "values": [
+          "Complete Line",
+          "Disabled",
+          "Separate Lines"
+        ]
+      },
+      {
+        "modName": "SpatialXX.ShipAlarm",
+        "values": [
+          "Cyclops",
+          "None",
+          "Prawn",
+          "Sea Base",
+          "Sea Moth"
+        ]
+      },
+      {
+        "modName": "TerrificTrifid.ShipBallpit",
+        "values": [
+          "Balls",
+          "Cacti",
+          "Ernestos",
+          "Rubber duckies"
+        ]
+      },
+      {
+        "modName": "TheIterator.PodracingTracker",
+        "values": [
+          "No Kofi ;_;",
+          "Yes kofi? :3"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "Eighth",
+          "Full",
+          "Half",
+          "Quarter"
+        ]
+      },
+      {
+        "modName": "Vambok.HearthianParable",
+        "values": [
+          "Easy: Shiplogs",
+          "Hard: Only audio",
+          "Insane: Nothing",
+          "Normal: Subtitles"
+        ]
+      },
+      {
+        "modName": "Vesper.OuterWildsMMO",
+        "values": [
+          "Chert",
+          "Feldspar",
+          "Gabbro",
+          "Protagonist"
+        ]
+      },
+      {
+        "modName": "xen.QSBSkins",
+        "values": [
+          "Chert",
+          "Feldspar",
+          "Gabbro",
+          "Protagonist"
+        ]
+      },
+      {
+        "modName": "xen.SecretSettings",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "default"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "1",
+      "1 - Backward",
+      "15",
+      "2",
+      "2 - Broken",
+      "25",
+      "2walker2",
+      "3",
+      "3 - Curvy",
+      "30",
       "4",
+      "4 - Forward",
+      "45",
+      "5",
+      "5 - Sturdy",
       "50",
-      "95",
-      "C",
-      "K",
-      "LeftAlt,Digit2",
-      "M",
-      "UH OH SECRET",
-      "false",
-      "owo.outerwildsmods.com",
-      "true"
+      "6 - Upward",
+      "60",
+      "75",
+      "90",
+      "All",
+      "All Deaths",
+      "Alt Interact",
+      "Always",
+      "Always_Green",
+      "AshTwin",
+      "Attlerock",
+      "Autopilot",
+      "Average",
+      "Balls",
+      "Betty",
+      "Black",
+      "Blue",
+      "Body",
+      "BrittleHollow",
+      "CHINESE_SIMPLE",
+      "Cacti",
+      "Camera",
+      "Cancel",
+      "Chert",
+      "Complete Line",
+      "Cumulative",
+      "Custom",
+      "Cyan",
+      "Cyclops",
+      "Dark Blue",
+      "DarkBramble",
+      "Death",
+      "Default",
+      "Dennis",
+      "Disabled",
+      "Down Thrust",
+      "ENGLISH",
+      "Easy",
+      "Easy: Shiplogs",
+      "Eighth",
+      "EmberTwin",
+      "Enabled",
+      "Ernestos",
+      "EyeOfTheUniverse",
+      "EyeOfTheUniverse_Vessel",
+      "FRENCH",
+      "Feldspar",
+      "Frank",
+      "Free Look",
+      "Full",
+      "Full On Use",
+      "GERMAN",
+      "Gabbro",
+      "Ghostly Green",
+      "GiantsDeep",
+      "Green",
+      "Half",
+      "Hard",
+      "Hard: Only audio",
+      "Harry",
+      "Hidden",
+      "High",
+      "HollowLantern",
+      "HourglassTwins",
+      "INFECTION",
+      "ITALIAN",
+      "Improbable",
+      "InnerDarkBramble_EscapePod",
+      "InnerDarkBramble_Feldspar",
+      "InnerDarkBramble_Gutter",
+      "InnerDarkBramble_Hub",
+      "InnerDarkBramble_Maze",
+      "InnerDarkBramble_Nest",
+      "InnerDarkBramble_Secret",
+      "InnerDarkBramble_SmallNest",
+      "InnerDarkBramble_Vessel",
+      "Insane: Nothing",
+      "Interact",
+      "Interloper",
+      "JAPANESE",
+      "JohnCorby",
+      "KOREAN",
+      "Kit",
+      "Lavender",
+      "Lemonade",
+      "Lezzlebit (Jamie)",
+      "Light Blue",
+      "Linear",
+      "Low",
+      "Luminance",
+      "Maximum",
+      "Medium",
+      "Minute",
+      "Minute + Use",
+      "ModelShip",
+      "Named",
+      "Never",
+      "No Kofi ;_;",
+      "No Override",
+      "NomaiBrittleHollowShuttle",
+      "NomaiEmberTwinShuttle",
+      "NomaiProbe",
+      "None",
+      "Normal: Subtitles",
+      "Off",
+      "On",
+      "On Use",
+      "Only if VA Mod Present",
+      "Orange",
+      "POLISH",
+      "PORTUGUESE_BR",
+      "Paul",
+      "Peaceful",
+      "Pink",
+      "Polaroid",
+      "Prawn",
+      "Probe",
+      "ProbeCannon",
+      "Profile",
+      "Protagonist",
+      "Purple",
+      "QuantumMoon",
+      "Quarter",
+      "RUSSIAN",
+      "Rainbow",
+      "Red",
+      "Ridiculous",
+      "Rita",
+      "Rubber duckies",
+      "SPANISH_LA",
+      "SatiliteBacker",
+      "SatiliteMapping",
+      "Sea Base",
+      "Sea Moth",
+      "Seed",
+      "Seedless",
+      "Seedless Full On Use",
+      "Seedless Minute",
+      "Seedless Minute + Use",
+      "Seedless On Use",
+      "Separate Lines",
+      "Square",
+      "Standard",
+      "Sun",
+      "SunStation",
+      "TURKISH",
+      "TimberHearth",
+      "TimberHearthProbe",
+      "Timed",
+      "Tool Primary",
+      "Tool Secondary",
+      "Turquoise",
+      "Ultra",
+      "Ultraviolet",
+      "Unnamed",
+      "Up Thrust",
+      "Ursula",
+      "Wendy",
+      "When Safe",
+      "When Suited",
+      "When Unsuited",
+      "White",
+      "WhiteHole",
+      "WhiteHoleStation",
+      "X",
+      "Y",
+      "Yellow",
+      "Yes kofi? :3",
+      "Z",
+      "[none]",
+      "coderCleric",
+      "default",
+      "hearts",
+      "none",
+      "postcard",
+      "rainbow",
+      "so cute"
     ]
   },
   "$schema": {
@@ -5584,622 +6188,6 @@
       "[Requires Hiker's Mod] The chance of tripping while sprinting."
     ]
   },
-  "settings.{settingName}.options": {
-    "fieldType": "array",
-    "mods": [
-      {
-        "modName": "_nebula.QSBTTS",
-        "values": [
-          "Betty",
-          "Dennis",
-          "Frank",
-          "Harry",
-          "Kit",
-          "Paul",
-          "Rita",
-          "Ursula",
-          "Wendy"
-        ]
-      },
-      {
-        "modName": "2walker2.OWJam5ModProject",
-        "values": [
-          "2walker2",
-          "All",
-          "JohnCorby",
-          "Lezzlebit (Jamie)",
-          "None",
-          "coderCleric"
-        ]
-      },
-      {
-        "modName": "Anyar.CustomAnglerfishAI",
-        "values": [
-          "None",
-          "X",
-          "Y",
-          "Z"
-        ]
-      },
-      {
-        "modName": "BUNN1E5.QSBGameModes",
-        "values": [
-          "INFECTION"
-        ]
-      },
-      {
-        "modName": "Cleric.HatchlingIcarus",
-        "values": [
-          "Body",
-          "Camera"
-        ]
-      },
-      {
-        "modName": "dgarro.ArchaeologistAchievementHelper",
-        "values": [
-          "Disabled",
-          "Named",
-          "Unnamed"
-        ]
-      },
-      {
-        "modName": "Etherpod.ErnestoChase",
-        "values": [
-          "Cumulative",
-          "Linear",
-          "Timed"
-        ]
-      },
-      {
-        "modName": "Etherpod.ShipEnhancements",
-        "values": [
-          "Black",
-          "Blue",
-          "Default",
-          "Ghostly Green",
-          "Green",
-          "Lavender",
-          "Lemonade",
-          "Orange",
-          "Pink",
-          "Purple",
-          "Rainbow",
-          "Turquoise",
-          "Ultraviolet",
-          "White"
-        ]
-      },
-      {
-        "modName": "Etherpod.TravelersPack",
-        "values": [
-          "Alt Interact",
-          "Autopilot",
-          "Cancel",
-          "Free Look",
-          "Interact",
-          "Tool Primary",
-          "Tool Secondary"
-        ]
-      },
-      {
-        "modName": "GameDev46.ShipPlanetProjector",
-        "values": [
-          "Disabled",
-          "Enabled"
-        ]
-      },
-      {
-        "modName": "GameDev46.TimberHearthForest",
-        "values": [
-          "Hidden",
-          "High",
-          "Low",
-          "Medium",
-          "Ultra"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor2",
-        "values": [
-          "Off",
-          "On",
-          "Only if VA Mod Present"
-        ]
-      },
-      {
-        "modName": "GameWyrm.OuterRelics",
-        "values": [
-          "0",
-          "25",
-          "50",
-          "75"
-        ]
-      },
-      {
-        "modName": "GrimLala.SpeedTools",
-        "values": [
-          "AshTwin",
-          "Attlerock",
-          "BrittleHollow",
-          "DarkBramble",
-          "EmberTwin",
-          "EyeOfTheUniverse",
-          "EyeOfTheUniverse_Vessel",
-          "GiantsDeep",
-          "HollowLantern",
-          "HourglassTwins",
-          "InnerDarkBramble_EscapePod",
-          "InnerDarkBramble_Feldspar",
-          "InnerDarkBramble_Gutter",
-          "InnerDarkBramble_Hub",
-          "InnerDarkBramble_Maze",
-          "InnerDarkBramble_Nest",
-          "InnerDarkBramble_Secret",
-          "InnerDarkBramble_SmallNest",
-          "InnerDarkBramble_Vessel",
-          "Interloper",
-          "ModelShip",
-          "NomaiBrittleHollowShuttle",
-          "NomaiEmberTwinShuttle",
-          "NomaiProbe",
-          "Probe",
-          "ProbeCannon",
-          "QuantumMoon",
-          "SatiliteBacker",
-          "SatiliteMapping",
-          "Sun",
-          "SunStation",
-          "TimberHearth",
-          "TimberHearthProbe",
-          "WhiteHole",
-          "WhiteHoleStation"
-        ]
-      },
-      {
-        "modName": "Hawkbar.ScreenshotTool",
-        "values": [
-          "Average",
-          "Luminance",
-          "Maximum",
-          "None"
-        ]
-      },
-      {
-        "modName": "ilyabru.OWSpeedModifier",
-        "values": [
-          "2",
-          "3",
-          "5"
-        ]
-      },
-      {
-        "modName": "Ixrec.ArchipelagoRandomizer",
-        "values": [
-          "All Deaths",
-          "Default",
-          "No Override",
-          "Off"
-        ]
-      },
-      {
-        "modName": "Ixrec.LanguageSwap",
-        "values": [
-          "CHINESE_SIMPLE",
-          "ENGLISH",
-          "FRENCH",
-          "GERMAN",
-          "ITALIAN",
-          "JAPANESE",
-          "KOREAN",
-          "POLISH",
-          "PORTUGUESE_BR",
-          "RUSSIAN",
-          "SPANISH_LA",
-          "TURKISH"
-        ]
-      },
-      {
-        "modName": "JohnCorby.VolumetricLights",
-        "values": [
-          "Full",
-          "Half",
-          "Quarter"
-        ]
-      },
-      {
-        "modName": "MoonstoneStudios.SillyFilters",
-        "values": [
-          "hearts",
-          "none",
-          "postcard",
-          "rainbow",
-          "so cute"
-        ]
-      },
-      {
-        "modName": "Owen013.HatchlingOutfit",
-        "values": [
-          "Always",
-          "Never",
-          "When Suited",
-          "When Unsuited"
-        ]
-      },
-      {
-        "modName": "Owen013.MovementMod",
-        "values": [
-          "Down Thrust",
-          "Up Thrust"
-        ]
-      },
-      {
-        "modName": "Owen013.QOLFixes",
-        "values": [
-          "Always",
-          "Never",
-          "When Safe"
-        ]
-      },
-      {
-        "modName": "PacificEngine.OW_HardMode",
-        "values": [
-          "Custom",
-          "Easy",
-          "Hard",
-          "Improbable",
-          "Peaceful",
-          "Ridiculous",
-          "Standard"
-        ]
-      },
-      {
-        "modName": "PacificEngine.OW_Randomizer",
-        "values": [
-          "Death",
-          "Full On Use",
-          "Minute",
-          "Minute + Use",
-          "Off",
-          "On Use",
-          "Profile",
-          "Seed",
-          "Seedless",
-          "Seedless Full On Use",
-          "Seedless Minute",
-          "Seedless Minute + Use",
-          "Seedless On Use"
-        ]
-      },
-      {
-        "modName": "Pau318.OuterPictures",
-        "values": [
-          "Polaroid",
-          "Square",
-          "[none]"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.SkinChanger",
-        "values": [
-          "1 - Backward",
-          "2 - Broken",
-          "3 - Curvy",
-          "4 - Forward",
-          "5 - Sturdy",
-          "6 - Upward"
-        ]
-      },
-      {
-        "modName": "Raicuparta.NomaiVR",
-        "values": [
-          "15",
-          "30",
-          "45",
-          "60",
-          "90"
-        ]
-      },
-      {
-        "modName": "Raicuparta.QuantumSpaceBuddies",
-        "values": [
-          "Cyan",
-          "Dark Blue",
-          "Green",
-          "Light Blue",
-          "Orange",
-          "Pink",
-          "Purple",
-          "Red",
-          "Yellow"
-        ]
-      },
-      {
-        "modName": "SBtT.GeneralEnhancements",
-        "values": [
-          "Always_Green",
-          "Disabled",
-          "Enabled"
-        ]
-      },
-      {
-        "modName": "SpatialX.ShipCompassHUD",
-        "values": [
-          "Complete Line",
-          "Disabled",
-          "Separate Lines"
-        ]
-      },
-      {
-        "modName": "SpatialXX.ShipAlarm",
-        "values": [
-          "Cyclops",
-          "None",
-          "Prawn",
-          "Sea Base",
-          "Sea Moth"
-        ]
-      },
-      {
-        "modName": "TerrificTrifid.ShipBallpit",
-        "values": [
-          "Balls",
-          "Cacti",
-          "Ernestos",
-          "Rubber duckies"
-        ]
-      },
-      {
-        "modName": "TheIterator.PodracingTracker",
-        "values": [
-          "No Kofi ;_;",
-          "Yes kofi? :3"
-        ]
-      },
-      {
-        "modName": "Trifid.QuasarProject",
-        "values": [
-          "Eighth",
-          "Full",
-          "Half",
-          "Quarter"
-        ]
-      },
-      {
-        "modName": "Vambok.HearthianParable",
-        "values": [
-          "Easy: Shiplogs",
-          "Hard: Only audio",
-          "Insane: Nothing",
-          "Normal: Subtitles"
-        ]
-      },
-      {
-        "modName": "Vesper.OuterWildsMMO",
-        "values": [
-          "Chert",
-          "Feldspar",
-          "Gabbro",
-          "Protagonist"
-        ]
-      },
-      {
-        "modName": "xen.QSBSkins",
-        "values": [
-          "Chert",
-          "Feldspar",
-          "Gabbro",
-          "Protagonist"
-        ]
-      },
-      {
-        "modName": "xen.SecretSettings",
-        "values": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "default"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "1",
-      "1 - Backward",
-      "15",
-      "2",
-      "2 - Broken",
-      "25",
-      "2walker2",
-      "3",
-      "3 - Curvy",
-      "30",
-      "4",
-      "4 - Forward",
-      "45",
-      "5",
-      "5 - Sturdy",
-      "50",
-      "6 - Upward",
-      "60",
-      "75",
-      "90",
-      "All",
-      "All Deaths",
-      "Alt Interact",
-      "Always",
-      "Always_Green",
-      "AshTwin",
-      "Attlerock",
-      "Autopilot",
-      "Average",
-      "Balls",
-      "Betty",
-      "Black",
-      "Blue",
-      "Body",
-      "BrittleHollow",
-      "CHINESE_SIMPLE",
-      "Cacti",
-      "Camera",
-      "Cancel",
-      "Chert",
-      "Complete Line",
-      "Cumulative",
-      "Custom",
-      "Cyan",
-      "Cyclops",
-      "Dark Blue",
-      "DarkBramble",
-      "Death",
-      "Default",
-      "Dennis",
-      "Disabled",
-      "Down Thrust",
-      "ENGLISH",
-      "Easy",
-      "Easy: Shiplogs",
-      "Eighth",
-      "EmberTwin",
-      "Enabled",
-      "Ernestos",
-      "EyeOfTheUniverse",
-      "EyeOfTheUniverse_Vessel",
-      "FRENCH",
-      "Feldspar",
-      "Frank",
-      "Free Look",
-      "Full",
-      "Full On Use",
-      "GERMAN",
-      "Gabbro",
-      "Ghostly Green",
-      "GiantsDeep",
-      "Green",
-      "Half",
-      "Hard",
-      "Hard: Only audio",
-      "Harry",
-      "Hidden",
-      "High",
-      "HollowLantern",
-      "HourglassTwins",
-      "INFECTION",
-      "ITALIAN",
-      "Improbable",
-      "InnerDarkBramble_EscapePod",
-      "InnerDarkBramble_Feldspar",
-      "InnerDarkBramble_Gutter",
-      "InnerDarkBramble_Hub",
-      "InnerDarkBramble_Maze",
-      "InnerDarkBramble_Nest",
-      "InnerDarkBramble_Secret",
-      "InnerDarkBramble_SmallNest",
-      "InnerDarkBramble_Vessel",
-      "Insane: Nothing",
-      "Interact",
-      "Interloper",
-      "JAPANESE",
-      "JohnCorby",
-      "KOREAN",
-      "Kit",
-      "Lavender",
-      "Lemonade",
-      "Lezzlebit (Jamie)",
-      "Light Blue",
-      "Linear",
-      "Low",
-      "Luminance",
-      "Maximum",
-      "Medium",
-      "Minute",
-      "Minute + Use",
-      "ModelShip",
-      "Named",
-      "Never",
-      "No Kofi ;_;",
-      "No Override",
-      "NomaiBrittleHollowShuttle",
-      "NomaiEmberTwinShuttle",
-      "NomaiProbe",
-      "None",
-      "Normal: Subtitles",
-      "Off",
-      "On",
-      "On Use",
-      "Only if VA Mod Present",
-      "Orange",
-      "POLISH",
-      "PORTUGUESE_BR",
-      "Paul",
-      "Peaceful",
-      "Pink",
-      "Polaroid",
-      "Prawn",
-      "Probe",
-      "ProbeCannon",
-      "Profile",
-      "Protagonist",
-      "Purple",
-      "QuantumMoon",
-      "Quarter",
-      "RUSSIAN",
-      "Rainbow",
-      "Red",
-      "Ridiculous",
-      "Rita",
-      "Rubber duckies",
-      "SPANISH_LA",
-      "SatiliteBacker",
-      "SatiliteMapping",
-      "Sea Base",
-      "Sea Moth",
-      "Seed",
-      "Seedless",
-      "Seedless Full On Use",
-      "Seedless Minute",
-      "Seedless Minute + Use",
-      "Seedless On Use",
-      "Separate Lines",
-      "Square",
-      "Standard",
-      "Sun",
-      "SunStation",
-      "TURKISH",
-      "TimberHearth",
-      "TimberHearthProbe",
-      "Timed",
-      "Tool Primary",
-      "Tool Secondary",
-      "Turquoise",
-      "Ultra",
-      "Ultraviolet",
-      "Unnamed",
-      "Up Thrust",
-      "Ursula",
-      "Wendy",
-      "When Safe",
-      "When Suited",
-      "When Unsuited",
-      "White",
-      "WhiteHole",
-      "WhiteHoleStation",
-      "X",
-      "Y",
-      "Yellow",
-      "Yes kofi? :3",
-      "Z",
-      "[none]",
-      "coderCleric",
-      "default",
-      "hearts",
-      "none",
-      "postcard",
-      "rainbow",
-      "so cute"
-    ]
-  },
   "requireVR": {
     "fieldType": "primitive",
     "mods": [
@@ -6244,393 +6232,405 @@
       "false"
     ]
   },
-  "settings.{settingName}.min": {
+  "settings.{settingName}": {
     "fieldType": "primitive",
     "mods": [
       {
+        "modName": "12090113.MeteorLaunching",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "Alek.Cammie",
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "modName": "Alek.LightBramble",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Anyar.CustomAnglerfishAI",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "APOLLO.939sPlanetdotSTRUCTURE",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Artum.NomaiVRFoveated",
         "values": [
-          "0"
+          "95"
+        ]
+      },
+      {
+        "modName": "Book.BlackHolePortalGun",
+        "values": [
+          "C"
+        ]
+      },
+      {
+        "modName": "BUNN1E5.OW360Camera",
+        "values": [
+          "./Pictures/"
+        ]
+      },
+      {
+        "modName": "BUNN1E5.QSBGameModes",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Bwc9876.TimeSaver",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.DancinWildsVentures",
+        "values": [
+          ""
+        ]
+      },
+      {
+        "modName": "Chaxiraxi.DebugHUD",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Cleric.HatchlingIcarus",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Cleric.NomaiTextPrinter",
+        "values": [
+          "M"
         ]
       },
       {
         "modName": "clubby789.OWClock",
         "values": [
-          "10"
+          "false"
         ]
       },
       {
-        "modName": "Etherpod.ErnestoChase",
+        "modName": "codelazarus14.InhabitantChess",
         "values": [
-          "1"
+          "true"
         ]
       },
       {
-        "modName": "Etherpod.ExpeditionTakeoff",
+        "modName": "CrystalENVT.TransRightsMod",
         "values": [
-          "0"
+          "0.05"
         ]
       },
       {
-        "modName": "Etherpod.ShipEnhancements",
+        "modName": "dgarro.ArchaeologistAchievementHelper",
         "values": [
-          "0"
+          "false"
         ]
       },
       {
-        "modName": "GameWyrm.OuterRelics",
+        "modName": "dgarro.CustomShipLogModes",
         "values": [
-          "0"
+          "true"
         ]
       },
       {
-        "modName": "Heelio.EotEBrighterDreams",
+        "modName": "dgarro.ShipLogSlideReelPlayer",
         "values": [
-          "0"
+          "false"
         ]
       },
       {
-        "modName": "Ixrec.ArchipelagoRandomizer",
+        "modName": "GrimLala.SpeedTools",
         "values": [
-          "0"
+          "0.0, 0.0, 0.0"
         ]
       },
       {
-        "modName": "Krevace.VoiceMod",
+        "modName": "Hawkbar.Doom",
         "values": [
-          "0"
+          "true"
         ]
       },
       {
-        "modName": "Locochoco.ColliderVisualizer",
+        "modName": "Hawkbar.FreedomUnits",
         "values": [
-          "100"
+          "false"
         ]
       },
       {
-        "modName": "Locochoco.Spaceshipinha",
+        "modName": "Hawkbar.GreenFlameBlade",
         "values": [
-          "0"
+          "false"
         ]
       },
       {
-        "modName": "nice2cu1.OuterWildFixFont",
+        "modName": "Hawkbar.ScreenshotTool",
         "values": [
-          "10"
+          "120"
         ]
       },
       {
-        "modName": "orclecle.Jam5PingBox",
+        "modName": "Hawkbar.Terrarium",
         "values": [
-          "0"
+          "false"
         ]
       },
       {
-        "modName": "Owen_013.FirstPersonPresence",
+        "modName": "Hawkbar.TheSurvivors",
         "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "picalines.OuterScout",
-        "values": [
-          "1024"
-        ]
-      },
-      {
-        "modName": "Puzzle_Dude98.BONGG",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "QuantumBlur314.BonusRocks95",
-        "values": [
-          "1"
-        ]
-      },
-      {
-        "modName": "Raicuparta.NomaiVR",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "SBtT.CameraShake",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "SBtT.GeneralEnhancements",
-        "values": [
-          "1"
-        ]
-      },
-      {
-        "modName": "SpatialX.ShipCompassHUD",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "SpatialXX.ShipAlarm",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "TacoTechnica.NBodyChaos",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "Tlya.Hollodjustment",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "Turtle.FunDayOff",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "Vesper.VespersAssortedOuterWildsShaders",
-        "values": [
-          "1"
-        ]
-      },
-      {
-        "modName": "VioVayo.ModThatDoesNothing",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "xen.DayDream",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "xen.TankEngine",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "xen.ThirdPersonCamera",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "1",
-      "10",
-      "100",
-      "1024"
-    ]
-  },
-  "settings.{settingName}.max": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Artum.NomaiVRFoveated",
-        "values": [
-          "10"
-        ]
-      },
-      {
-        "modName": "clubby789.OWClock",
-        "values": [
-          "80"
-        ]
-      },
-      {
-        "modName": "Etherpod.ErnestoChase",
-        "values": [
-          "10"
-        ]
-      },
-      {
-        "modName": "Etherpod.ExpeditionTakeoff",
-        "values": [
-          "2"
-        ]
-      },
-      {
-        "modName": "Etherpod.ShipEnhancements",
-        "values": [
-          "1"
-        ]
-      },
-      {
-        "modName": "GameWyrm.OuterRelics",
-        "values": [
-          "10"
-        ]
-      },
-      {
-        "modName": "Heelio.EotEBrighterDreams",
-        "values": [
-          "5"
+          "false"
         ]
       },
       {
         "modName": "Ixrec.ArchipelagoRandomizer",
         "values": [
-          "10"
+          "50"
         ]
       },
       {
-        "modName": "Krevace.VoiceMod",
+        "modName": "Joooosh.SurviveTheSupernova",
         "values": [
-          "1"
+          "true"
+        ]
+      },
+      {
+        "modName": "Komodo.StrangerNightCycle",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Komodo.StrangerSpinGravity",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Leadpogrommer.PeacefulGhosts",
+        "values": [
+          "true"
         ]
       },
       {
         "modName": "Locochoco.ColliderVisualizer",
         "values": [
-          "1500"
+          "1-2-3-4"
         ]
       },
       {
-        "modName": "Locochoco.Spaceshipinha",
+        "modName": "Makaque.AxisConsolidator",
         "values": [
-          "1"
+          "false"
         ]
       },
       {
-        "modName": "nice2cu1.OuterWildFixFont",
+        "modName": "misternebula.FreeCam",
         "values": [
-          "20"
+          "false"
         ]
       },
       {
-        "modName": "orclecle.Jam5PingBox",
+        "modName": "MrGruntie.InvertLines",
         "values": [
-          "2"
+          "true"
         ]
       },
       {
-        "modName": "Owen_013.FirstPersonPresence",
+        "modName": "OlegSkutte.TrajectoryPrediction",
         "values": [
-          "2"
+          "false"
         ]
       },
       {
-        "modName": "picalines.OuterScout",
+        "modName": "PacificEngine.CheatsMod",
         "values": [
-          "49151"
+          "LeftAlt,Digit2"
         ]
       },
       {
-        "modName": "Puzzle_Dude98.BONGG",
+        "modName": "PacificEngine.OW_Randomizer",
         "values": [
-          "1"
+          ""
+        ]
+      },
+      {
+        "modName": "Pau318.OuterPictures",
+        "values": [
+          "/Outer Pictures"
+        ]
+      },
+      {
+        "modName": "piggeywig2000.Permadeath",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "PuFF.OWCHT",
+        "values": [
+          "false"
         ]
       },
       {
         "modName": "QuantumBlur314.BonusRocks95",
         "values": [
-          "100"
-        ]
-      },
-      {
-        "modName": "Raicuparta.NomaiVR",
-        "values": [
-          "1"
-        ]
-      },
-      {
-        "modName": "SBtT.CameraShake",
-        "values": [
-          "2"
+          "false"
         ]
       },
       {
         "modName": "SBtT.GeneralEnhancements",
         "values": [
-          "2"
+          "true"
         ]
       },
       {
-        "modName": "SpatialX.ShipCompassHUD",
+        "modName": "tealhelix.EotE-RideMusic",
         "values": [
-          "1"
+          "154"
         ]
       },
       {
-        "modName": "SpatialXX.ShipAlarm",
+        "modName": "Tephirax.InvertLookControls",
         "values": [
-          "1"
+          "false"
         ]
       },
       {
-        "modName": "TacoTechnica.NBodyChaos",
+        "modName": "Tephirax.OuterWildsSharedShipLog",
         "values": [
-          "2"
+          "true"
         ]
       },
       {
-        "modName": "Tlya.Hollodjustment",
+        "modName": "TheIterator.PodracingTracker",
         "values": [
-          "10"
+          "%USERPROFILE%\\Documents\\PodracingTracker"
+        ]
+      },
+      {
+        "modName": "Titch.ShipRemoteAutopilot",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "TruAI.SmoothThrust",
+        "values": [
+          "0.3"
         ]
       },
       {
         "modName": "Turtle.FunDayOff",
         "values": [
-          "80"
+          "UH OH SECRET"
         ]
       },
       {
-        "modName": "Vesper.VespersAssortedOuterWildsShaders",
+        "modName": "udkyo.HeadTracking",
         "values": [
-          "11"
+          "true"
         ]
       },
       {
-        "modName": "VioVayo.ModThatDoesNothing",
+        "modName": "Vesper.OuterWildsMMO",
         "values": [
-          "10"
+          "owo.outerwildsmods.com"
+        ]
+      },
+      {
+        "modName": "xen.AchievementTracker",
+        "values": [
+          "false"
         ]
       },
       {
         "modName": "xen.DayDream",
         "values": [
-          "1"
+          "false"
         ]
       },
       {
-        "modName": "xen.TankEngine",
+        "modName": "xen.GhostBuster",
         "values": [
-          "1"
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.GreenScreenMod",
+        "values": [
+          "K"
+        ]
+      },
+      {
+        "modName": "xen.SecretSettings",
+        "values": [
+          "false"
         ]
       },
       {
         "modName": "xen.ThirdPersonCamera",
         "values": [
-          "1"
+          "false"
+        ]
+      },
+      {
+        "modName": "Yurtle.ToggleHUD",
+        "values": [
+          "true"
         ]
       }
     ],
     "distinctValues": [
+      "",
+      "%USERPROFILE%\\Documents\\PodracingTracker",
+      "./Pictures/",
+      "/Outer Pictures",
+      "0.0, 0.0, 0.0",
+      "0.05",
+      "0.3",
       "1",
-      "10",
-      "100",
-      "11",
-      "1500",
-      "2",
-      "20",
-      "49151",
-      "5",
-      "80"
+      "1-2-3-4",
+      "120",
+      "154",
+      "4",
+      "50",
+      "95",
+      "C",
+      "K",
+      "LeftAlt,Digit2",
+      "M",
+      "UH OH SECRET",
+      "false",
+      "owo.outerwildsmods.com",
+      "true"
     ]
   },
   "settings.{settingName}.dlcOnly": {

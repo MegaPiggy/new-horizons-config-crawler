@@ -1,4 +1,1316 @@
 {
+  "$schema": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "_nebula.GlobalScreenSpaceReflections",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam4ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Alek.LightBramble",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Alek.OWML",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/dev/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AlexDevs.OWAughJetpack",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "almaz5200.EskerIceCream",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.WarpToVessel",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Anyar.CustomAnglerfishAI",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "APOLLO.939sPlanetdotSTRUCTURE",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "artificialparanoia.Divergence",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Astien.OWBhaptics",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AsymmetricalCavern.LonesomeLake",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Atakku.FunnyNoises",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "atk.IntactMod2",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "atk.ObtuseClues",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Boofdev.NoSupernova",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Boreas.Jam5CakeCapere",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Boreas.ScavengerHunt",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Bwc9876.PrideLantern",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.OnARail",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.TesseractsSecret",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Chaxiraxi.DebugHUD",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "clay.ClearGlass",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Cleric.ArtifactLaser",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Cleric.ChargeableScout",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Cleric.HatchlingIcarus",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Cleric.NomaiTextPrinter",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Cleric.WackyRotations",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "codelazarus14.InhabitantChess",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "coderCleric.GhostEverything",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "coderCleric.JamHub",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "coderCleric.Mindscapes",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "ColumbidaeCafe.MoarMarshmallows",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CreativeNameTxt.OrbitTest",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CrystalENVT.TransRightsMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "dgarro.EpicasAlbum",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "dgarro.Journal",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Dim0v.OWUkrainian",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "DragonflyL5.OWCHTfix",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Echatsum.MisfiredJump",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.ErnestoChase",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.ExpeditionTakeoff",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.LuminaTerra",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.ShipEnhancements",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.T0187",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.TravelersPack",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Eztainu.OW_Euskaraz_Mod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "FancyFurret.LoreTracker",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Felps.SorrisoRonaldo",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "FunkyShoeMan.TheWildsExtended",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "FusionFlux.ProudHearthians",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameDev46.ShipPlanetProjector",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.OuterRelics",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.RealSolarSystemOuterRelics",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.SymbiosisShipLogs",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "gany.LiveAndLearn",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GoldenCrepe.OuterWildsKazoo",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GrimLala.SpeedTools",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Doom",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.FastTravel",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.FreedomUnits",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GreenFlameBlade",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.ModDataTools",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.ScreenshotTool",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.ShipLightToggle",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.SolarRangers",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.SoundTest",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.TheSurvivors",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.ChristmasStory",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.NoDotMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.Origins",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.ProbeTeleporter",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.SadSupernovaMusic",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.TheVision",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "ilyabru.OWSpeedModifier",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Ixrec.ArchipelagoRandomizer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Ixrec.LanguageSwap",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "JohnCorby.SlipNSlide",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "JohnCorby.VanillaFix",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "JohnCorby.VolumetricLights",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Komodo.StrangerNightCycle",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Komodo.StrangerSpinGravity",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "LeCreepyboy.SummonShip",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "LeeSpork.ModJam5",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "LivingFray.RGBIntegration",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Locochoco.KSPShips",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Locochoco.ShipyardOWOAddon",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "LostPython.SubaruDeathSound",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Makaque.AxisConsolidator",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MDJ287.RearViewMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.AnomalyResearchAndContainment",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Axiom",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.CinematicUnityExplorer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Jam4JokeEntry",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LineNumbers",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.NoAchievements",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.QuantumMoonEquatorOrbit",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.RetroHealthDisplay",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.UpsilonAndromedae",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "milesand.OWKT",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "misternebula.FreeCam",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MoonstoneStudios.SillyFilters",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MrGruntie.InvertLines",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "nice2cu1.OuterWildFixFont",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "NineMeowz.CruncyMarshmallows",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "NomaiGrandPrix",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Novaenia.MouseFix",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "OlegSkutte.TrajectoryPrediction",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Onbvb.catastrophe",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.Finis",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.Guardian",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.Jam5PingBox",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.PickUpChert",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.TinyPatchForDivergence",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Owen_013.FirstPersonPresence",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Owen_013.TrippingAndClumsiness",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "PacificEngine.CheatsMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Pau318.OuterPictures",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "peacemkr_png.TravelersKalimba",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "picalines.OuterScout",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "piggeywig2000.Permadeath",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.BandTogether",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.EotUFly",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.OWTrunic",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.Portal2Skinpack",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.SkinChanger",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.TF2Skins",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Point7651.OverSlept",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Puzzle_Dude98.BONGG",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "QuantumBlur314.BonusRocks95",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Raicuparta.OuterWives",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Raoul1808.BreakOnDemand",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "RattmanTheStupid.OuterCraftDeathMessages",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "SBtT.CameraShake",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "SBtT.GeneralEnhancements",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Solec.CometBramble",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Solec.WeathMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "SpatialX.ShipCompassHUD",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "SpatialXX.ShipAlarm",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Stacik.TeleportMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Steini.IcelandicTranslation",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Stonesword.ResourceManagement",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TacoTechnica.NBodyChaos",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamMitis.Liaison",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Tebmn.MoreToHear",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Tephirax.InvertLookControls",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TerrificTrifid.ColorCameras",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TerrificTrifid.ShipBallpit",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "thearst3rd.OWDiagonalMovementUnpatch",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TheIterator.PodracingTracker",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TheLoreExplorer.GreenJetpack",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TheLoreExplorer.SelfDestructButton",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TheSignalJammers.FifthModJam",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Throckmorpheus.ImGuiOW",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Throckmorpheus.SlidingInShipFix",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "thunninoi.ThaiTranslation",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Titch.CustomisableShipLighting",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Tonecas.DozeAnywhere",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Trifid.TrifidJam3",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Trifid.TrifidJam5",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Vambok.FreeLook",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Vambok.HearthianParable",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Vambok.NomaiSky",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Vesper.UnityExplorer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "VholyIQ.OuterWildsAndaluh",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "VioVayo.DWModAssist",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "VioVayo.GlowyBraceletMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "VioVayo.HugMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "VioVayo.ModThatDoesNothing",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "VioVayo.SingleBrainCell",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "VioVayo.SmarterGhosts",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "VioVayo.YeetMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Walker.AstralCodex",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam3All",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen-42.SandControl",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.BetterModelShip",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.CommonCameraUtility",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.DayDream",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.Dreamstalker",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.EnableMeditation",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.EyeHelper",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.GhostBuster",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.GreenScreenMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.LocalizationUtility",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizons",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.PlayAsGabbro",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.PropPlacer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.QSBSkins",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.SecretSettings",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.StaticCamera",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.TalkToPrisoner",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.ThirdPersonCamera",
+        "values": [
+          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.UnofficialJam3Entry",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen42.ModJam5Part1",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen42.ModJam5Part2",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Yurtle.ToggleHUD",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json",
+      "https://raw.githubusercontent.com/ow-mods/owml/dev/schemas/manifest_schema.json",
+      "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+    ]
+  },
   "filename": {
     "fieldType": "primitive",
     "mods": [
@@ -11430,7 +12742,7 @@
       {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
-          "1.0.4"
+          "1.0.5"
         ]
       },
       {
@@ -15597,149 +16909,200 @@
       "2.9.8"
     ]
   },
-  "pathsToPreserve": {
-    "fieldType": "array",
+  "description": {
+    "fieldType": "primitive",
     "mods": [
       {
-        "modName": "12090113.Cubes",
+        "modName": "_nebula.MenuFramework",
         "values": [
-          "blocks",
-          "save.bin"
+          "Custom menu framework/wrapper."
         ]
       },
       {
-        "modName": "CantAffordaName.Archipelago",
+        "modName": "Alek.Cammie",
         "values": [
-          "planets",
-          "systems"
+          "Take HD screenshots."
         ]
       },
       {
-        "modName": "CantAffordaName.DancinWildsVentures",
+        "modName": "Alek.CrouchMod",
         "values": [
-          "planets",
-          "systems",
-          "translations"
+          "Enables crouching."
         ]
       },
       {
-        "modName": "CantAffordaName.SuperWildGalaxy",
+        "modName": "Alek.OWML",
         "values": [
-          "planets",
-          "systems"
+          "Enables the debug mode in Outer Wilds"
         ]
       },
       {
-        "modName": "dgarro.EpicasAlbum",
+        "modName": "artificial.VanillaMainMenu",
         "values": [
-          "snapshots"
+          "Removes the Echoes of the Eye subtitle and restores the main menu to its pre-1.0.8 glory."
         ]
       },
       {
-        "modName": "dgarro.Journal",
+        "modName": "Artum.NomaiVRFoveated",
         "values": [
-          "saves"
+          "Plugin for NomaiVR that enables foveated rendering on supported hardware."
         ]
       },
       {
-        "modName": "GameWyrm.OuterRelics",
+        "modName": "clubby789.OWClock",
         "values": [
-          "SaveData",
-          "SpoilerLogs"
+          "Adds a clock overlay and eventlist"
         ]
       },
       {
-        "modName": "Ixrec.ArchipelagoRandomizer",
+        "modName": "dnlwtsn.SlowTime",
         "values": [
-          "SaveData"
+          "Slows time-based events in the game to give you more time to explore!"
         ]
       },
       {
-        "modName": "MegaPiggy.CinematicUnityExplorer",
+        "modName": "Heelio.EotEBrighterDreams",
         "values": [
-          "CinematicUnityExplorer"
+          "Gives the player night vision on Echoes of the Eye's dream world"
         ]
       },
       {
-        "modName": "MegaPiggy.UpsilonAndromedae",
+        "modName": "LeCreepyboy.SummonShip",
         "values": [
-          "planets",
-          "shipLogs",
-          "systems",
-          "translations"
+          "Summon the ship by holding X, cancel by holding X again"
         ]
       },
       {
-        "modName": "OmegaFallon.ReactiveHearthians",
+        "modName": "Vesper.HalfLifeOverhaul",
         "values": [
-          "OmegaFallon.ReactiveHearthians/my_number.json"
+          "Replaces visuals and sound to that of Half-life 1!"
         ]
       },
       {
-        "modName": "piggeywig2000.Permadeath",
+        "modName": "Vesper.ScoutStreaming",
         "values": [
-          "permadeathsave.json"
-        ]
-      },
-      {
-        "modName": "Vambok.NomaiSky",
-        "values": [
-          "planets",
-          "systems"
-        ]
-      },
-      {
-        "modName": "Vesper.UnityExplorer",
-        "values": [
-          "sinai-dev-UnityExplorer"
-        ]
-      },
-      {
-        "modName": "VioVayo.HugMod",
-        "values": [
-          "settings.json"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizons",
-        "values": [
-          "planets",
-          "systems",
-          "translations"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          ".git",
-          ".github",
-          ".gitignore",
-          "LICENSE",
-          "README.md"
+          "Turns the scout's images into live feed!"
         ]
       }
     ],
     "distinctValues": [
-      ".git",
-      ".github",
-      ".gitignore",
-      "CinematicUnityExplorer",
-      "LICENSE",
-      "OmegaFallon.ReactiveHearthians/my_number.json",
-      "README.md",
-      "SaveData",
-      "SpoilerLogs",
-      "blocks",
-      "permadeathsave.json",
-      "planets",
-      "save.bin",
-      "saves",
-      "settings.json",
-      "shipLogs",
-      "sinai-dev-UnityExplorer",
-      "snapshots",
-      "systems",
-      "translations"
+      "Adds a clock overlay and eventlist",
+      "Custom menu framework/wrapper.",
+      "Enables crouching.",
+      "Enables the debug mode in Outer Wilds",
+      "Gives the player night vision on Echoes of the Eye's dream world",
+      "Plugin for NomaiVR that enables foveated rendering on supported hardware.",
+      "Removes the Echoes of the Eye subtitle and restores the main menu to its pre-1.0.8 glory.",
+      "Replaces visuals and sound to that of Half-life 1!",
+      "Slows time-based events in the game to give you more time to explore!",
+      "Summon the ship by holding X, cancel by holding X again",
+      "Take HD screenshots.",
+      "Turns the scout's images into live feed!"
+    ]
+  },
+  "patcher": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Artum.NomaiVRFoveated",
+        "values": [
+          "NomaiVRFoveated.dll"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LineNumbers",
+        "values": [
+          "Patcher.exe"
+        ]
+      },
+      {
+        "modName": "Raicuparta.NomaiVR",
+        "values": [
+          "patcher/NomaiVRPatcher.dll"
+        ]
+      },
+      {
+        "modName": "Raicuparta.OwLiv",
+        "values": [
+          "OwLivPatcher.dll"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "NomaiVRFoveated.dll",
+      "OwLivPatcher.dll",
+      "Patcher.exe",
+      "patcher/NomaiVRPatcher.dll"
+    ]
+  },
+  "warning.title": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ixrec.ArchipelagoRandomizer",
+        "values": [
+          "This randomizer requires an Archipelago server"
+        ]
+      },
+      {
+        "modName": "picalines.OuterScout",
+        "values": [
+          "OuterScout warning"
+        ]
+      },
+      {
+        "modName": "Raicuparta.NomaiVR",
+        "values": [
+          "Before playing NomaiVR, some information:"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Before playing NomaiVR, some information:",
+      "OuterScout warning",
+      "This randomizer requires an Archipelago server"
+    ]
+  },
+  "warning.body": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ixrec.ArchipelagoRandomizer",
+        "values": [
+          "If you're not familiar with generating and hosting Archipelago multiworlds, click Show On Website in the mod manager for detailed setup instructions."
+        ]
+      },
+      {
+        "modName": "picalines.OuterScout",
+        "values": [
+          "FFmpeg is required to save mp4 videos from cameras\n\nYou can change location of FFmpeg's executable in the mod settings"
+        ]
+      },
+      {
+        "modName": "Raicuparta.NomaiVR",
+        "values": [
+          "- Click the NomaiVR readme button in the Mod Manager for information about troubleshooting, requirements, performance, how to uninstall, etc.\n\n- Some VR controllers will have missing icons. Message us if you want to help us add icons for these devices.\n\n- If you have the game on Steam:\n--- Right-click Outer Wilds on your Steam library\n--- Select 'Properties...'\n--- Disable 'Use Desktop Game Theatre.'"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "- Click the NomaiVR readme button in the Mod Manager for information about troubleshooting, requirements, performance, how to uninstall, etc.\n\n- Some VR controllers will have missing icons. Message us if you want to help us add icons for these devices.\n\n- If you have the game on Steam:\n--- Right-click Outer Wilds on your Steam library\n--- Select 'Properties...'\n--- Disable 'Use Desktop Game Theatre.'",
+      "FFmpeg is required to save mp4 videos from cameras\n\nYou can change location of FFmpeg's executable in the mod settings",
+      "If you're not familiar with generating and hosting Archipelago multiworlds, click Show On Website in the mod manager for detailed setup instructions."
+    ]
+  },
+  "requireVR": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Raicuparta.NomaiVR",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
     ]
   },
   "dependencies": {
@@ -17091,1318 +18454,6 @@
       "xen.UnofficialJam3Entry"
     ]
   },
-  "$schema": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "_nebula.GlobalScreenSpaceReflections",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "2walker2.OWJam4ModProject",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "2walker2.OWJam5ModProject",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Alek.LightBramble",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Alek.OWML",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/dev/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "AlexDevs.OWAughJetpack",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "almaz5200.EskerIceCream",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "AnonymousStrangerOW.WarpToVessel",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Anyar.CustomAnglerfishAI",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "APOLLO.939sPlanetdotSTRUCTURE",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "artificialparanoia.Divergence",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Astien.OWBhaptics",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "AsymmetricalCavern.LonesomeLake",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Atakku.FunnyNoises",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "atk.IntactMod2",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "atk.ObtuseClues",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Boofdev.NoSupernova",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Boreas.Jam5CakeCapere",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Boreas.ScavengerHunt",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Bwc9876.PrideLantern",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.OnARail",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.TesseractsSecret",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Chaxiraxi.DebugHUD",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "clay.ClearGlass",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Cleric.ArtifactLaser",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Cleric.ChargeableScout",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "cleric.DeepBramble",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Cleric.HatchlingIcarus",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Cleric.NomaiTextPrinter",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Cleric.WackyRotations",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "codelazarus14.InhabitantChess",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "coderCleric.GhostEverything",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "coderCleric.JamHub",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "coderCleric.Mindscapes",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "ColumbidaeCafe.MoarMarshmallows",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "CreativeNameTxt.OrbitTest",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "CrystalENVT.TransRightsMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "dgarro.EpicasAlbum",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "dgarro.Journal",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Dim0v.OWUkrainian",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "DragonflyL5.OWCHTfix",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Echatsum.MisfiredJump",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Etherpod.ErnestoChase",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Etherpod.ExpeditionTakeoff",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Etherpod.LuminaTerra",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Etherpod.ShipEnhancements",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Etherpod.T0187",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Etherpod.TravelersPack",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Eztainu.OW_Euskaraz_Mod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "FancyFurret.LoreTracker",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Felps.SorrisoRonaldo",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "FunkyShoeMan.TheWildsExtended",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "FusionFlux.ProudHearthians",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameDev46.ShipPlanetProjector",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameDev46.TimberHearthForest",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor2",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameWyrm.OuterRelics",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameWyrm.RealSolarSystemOuterRelics",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameWyrm.SymbiosisShipLogs",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "gany.LiveAndLearn",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GoldenCrepe.OuterWildsKazoo",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GrimLala.SpeedTools",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.Doom",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.FastTravel",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.FreedomUnits",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.GreenFlameBlade",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.ModDataTools",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.ScreenshotTool",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.ShipLightToggle",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.SolarRangers",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.SoundTest",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.Terrarium",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.TheSurvivors",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.ChristmasStory",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.NoDotMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.Origins",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.ProbeTeleporter",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.SadSupernovaMusic",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.TheVision",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "ilyabru.OWSpeedModifier",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Ixrec.ArchipelagoRandomizer",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Ixrec.LanguageSwap",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "JohnCorby.SlipNSlide",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "JohnCorby.VanillaFix",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "JohnCorby.VolumetricLights",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Komodo.StrangerNightCycle",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Komodo.StrangerSpinGravity",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "LeCreepyboy.SummonShip",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "LeeSpork.ModJam5",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "LivingFray.RGBIntegration",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Locochoco.KSPShips",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Locochoco.ShipyardOWOAddon",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "LostPython.SubaruDeathSound",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Makaque.AxisConsolidator",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MDJ287.AroundTheWorldColliderVisualizer",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MDJ287.RearViewMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.AnomalyResearchAndContainment",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Axiom",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.CinematicUnityExplorer",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Jam4JokeEntry",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.LineNumbers",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.NoAchievements",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.QuantumMoonEquatorOrbit",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.RetroHealthDisplay",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.UpsilonAndromedae",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "milesand.OWKT",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "misternebula.FreeCam",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MoonstoneStudios.SillyFilters",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MrGruntie.InvertLines",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "nice2cu1.OuterWildFixFont",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "NineMeowz.CruncyMarshmallows",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "NomaiGrandPrix",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Novaenia.MouseFix",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "OlegSkutte.TrajectoryPrediction",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Onbvb.catastrophe",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "orclecle.Finis",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "orclecle.Guardian",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "orclecle.Jam5PingBox",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "orclecle.PickUpChert",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "orclecle.TinyPatchForDivergence",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Owen_013.FirstPersonPresence",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Owen_013.TrippingAndClumsiness",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "PacificEngine.CheatsMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Pau318.OuterPictures",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "peacemkr_png.TravelersKalimba",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "picalines.OuterScout",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "piggeywig2000.Permadeath",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.BandTogether",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.EotUFly",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.OWTrunic",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.Portal2Skinpack",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.SkinChanger",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.TF2Skins",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Point7651.OverSlept",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Puzzle_Dude98.BONGG",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "QuantumBlur314.BonusRocks95",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Raicuparta.OuterWives",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Raoul1808.BreakOnDemand",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "RattmanTheStupid.OuterCraftDeathMessages",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianFishing",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianGolf",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "SBtT.CameraShake",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "SBtT.GeneralEnhancements",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Solec.CometBramble",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Solec.WeathMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "SpatialX.ShipCompassHUD",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "SpatialXX.ShipAlarm",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Stacik.TeleportMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Steini.IcelandicTranslation",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Stonesword.ResourceManagement",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TacoTechnica.NBodyChaos",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TeamErnesto.OWJam3ModProject",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TeamMitis.Liaison",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Tebmn.MoreToHear",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Tephirax.InvertLookControls",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TerrificTrifid.ColorCameras",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TerrificTrifid.ShipBallpit",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "thearst3rd.OWDiagonalMovementUnpatch",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TheIterator.PodracingTracker",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TheLoreExplorer.GreenJetpack",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TheLoreExplorer.SelfDestructButton",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TheLoweDown256.TLDJam5",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TheSignalJammers.FifthModJam",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Throckmorpheus.ImGuiOW",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Throckmorpheus.SlidingInShipFix",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "thunninoi.ThaiTranslation",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Titch.CustomisableShipLighting",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Tonecas.DozeAnywhere",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Trifid.QuasarProject",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Trifid.TrifidJam3",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Trifid.TrifidJam5",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Turtle.FunDayOff",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Vambok.FreeLook",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Vambok.HearthianParable",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Vambok.NomaiSky",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Vesper.UnityExplorer",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "VholyIQ.OuterWildsAndaluh",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "VioVayo.DWModAssist",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "VioVayo.GlowyBraceletMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "VioVayo.HugMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "VioVayo.ModThatDoesNothing",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "VioVayo.SingleBrainCell",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "VioVayo.SmarterGhosts",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "VioVayo.YeetMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Walker.AstralCodex",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen-42.ModJam3All",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen-42.ModJam5",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen-42.SandControl",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.BetterModelShip",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.CommonCameraUtility",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.DayDream",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.Dreamstalker",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.EnableMeditation",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.EyeHelper",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.GhostBuster",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.GreenScreenMod",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.LocalizationUtility",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.ModJam3",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizons",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.PlayAsGabbro",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.PropPlacer",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.QSBSkins",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.SecretSettings",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.StaticCamera",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.TalkToPrisoner",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.ThirdPersonCamera",
-        "values": [
-          "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.UnofficialJam3Entry",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen42.ModJam5Part1",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen42.ModJam5Part2",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Yurtle.ToggleHUD",
-        "values": [
-          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json",
-      "https://raw.githubusercontent.com/ow-mods/owml/dev/schemas/manifest_schema.json",
-      "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-    ]
-  },
   "conflicts": {
     "fieldType": "array",
     "mods": [
@@ -18623,214 +18674,6 @@
       "xen.SignalsPlus"
     ]
   },
-  "description": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "_nebula.MenuFramework",
-        "values": [
-          "Custom menu framework/wrapper."
-        ]
-      },
-      {
-        "modName": "Alek.Cammie",
-        "values": [
-          "Take HD screenshots."
-        ]
-      },
-      {
-        "modName": "Alek.CrouchMod",
-        "values": [
-          "Enables crouching."
-        ]
-      },
-      {
-        "modName": "Alek.OWML",
-        "values": [
-          "Enables the debug mode in Outer Wilds"
-        ]
-      },
-      {
-        "modName": "artificial.VanillaMainMenu",
-        "values": [
-          "Removes the Echoes of the Eye subtitle and restores the main menu to its pre-1.0.8 glory."
-        ]
-      },
-      {
-        "modName": "Artum.NomaiVRFoveated",
-        "values": [
-          "Plugin for NomaiVR that enables foveated rendering on supported hardware."
-        ]
-      },
-      {
-        "modName": "clubby789.OWClock",
-        "values": [
-          "Adds a clock overlay and eventlist"
-        ]
-      },
-      {
-        "modName": "dnlwtsn.SlowTime",
-        "values": [
-          "Slows time-based events in the game to give you more time to explore!"
-        ]
-      },
-      {
-        "modName": "Heelio.EotEBrighterDreams",
-        "values": [
-          "Gives the player night vision on Echoes of the Eye's dream world"
-        ]
-      },
-      {
-        "modName": "LeCreepyboy.SummonShip",
-        "values": [
-          "Summon the ship by holding X, cancel by holding X again"
-        ]
-      },
-      {
-        "modName": "Vesper.HalfLifeOverhaul",
-        "values": [
-          "Replaces visuals and sound to that of Half-life 1!"
-        ]
-      },
-      {
-        "modName": "Vesper.ScoutStreaming",
-        "values": [
-          "Turns the scout's images into live feed!"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Adds a clock overlay and eventlist",
-      "Custom menu framework/wrapper.",
-      "Enables crouching.",
-      "Enables the debug mode in Outer Wilds",
-      "Gives the player night vision on Echoes of the Eye's dream world",
-      "Plugin for NomaiVR that enables foveated rendering on supported hardware.",
-      "Removes the Echoes of the Eye subtitle and restores the main menu to its pre-1.0.8 glory.",
-      "Replaces visuals and sound to that of Half-life 1!",
-      "Slows time-based events in the game to give you more time to explore!",
-      "Summon the ship by holding X, cancel by holding X again",
-      "Take HD screenshots.",
-      "Turns the scout's images into live feed!"
-    ]
-  },
-  "patcher": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Artum.NomaiVRFoveated",
-        "values": [
-          "NomaiVRFoveated.dll"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.LineNumbers",
-        "values": [
-          "Patcher.exe"
-        ]
-      },
-      {
-        "modName": "Raicuparta.NomaiVR",
-        "values": [
-          "patcher/NomaiVRPatcher.dll"
-        ]
-      },
-      {
-        "modName": "Raicuparta.OwLiv",
-        "values": [
-          "OwLivPatcher.dll"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "NomaiVRFoveated.dll",
-      "OwLivPatcher.dll",
-      "Patcher.exe",
-      "patcher/NomaiVRPatcher.dll"
-    ]
-  },
-  "warning.title": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ixrec.ArchipelagoRandomizer",
-        "values": [
-          "This randomizer requires an Archipelago server"
-        ]
-      },
-      {
-        "modName": "picalines.OuterScout",
-        "values": [
-          "OuterScout warning"
-        ]
-      },
-      {
-        "modName": "Raicuparta.NomaiVR",
-        "values": [
-          "Before playing NomaiVR, some information:"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Before playing NomaiVR, some information:",
-      "OuterScout warning",
-      "This randomizer requires an Archipelago server"
-    ]
-  },
-  "warning.body": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ixrec.ArchipelagoRandomizer",
-        "values": [
-          "If you're not familiar with generating and hosting Archipelago multiworlds, click Show On Website in the mod manager for detailed setup instructions."
-        ]
-      },
-      {
-        "modName": "picalines.OuterScout",
-        "values": [
-          "FFmpeg is required to save mp4 videos from cameras\n\nYou can change location of FFmpeg's executable in the mod settings"
-        ]
-      },
-      {
-        "modName": "Raicuparta.NomaiVR",
-        "values": [
-          "- Click the NomaiVR readme button in the Mod Manager for information about troubleshooting, requirements, performance, how to uninstall, etc.\n\n- Some VR controllers will have missing icons. Message us if you want to help us add icons for these devices.\n\n- If you have the game on Steam:\n--- Right-click Outer Wilds on your Steam library\n--- Select 'Properties...'\n--- Disable 'Use Desktop Game Theatre.'"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "- Click the NomaiVR readme button in the Mod Manager for information about troubleshooting, requirements, performance, how to uninstall, etc.\n\n- Some VR controllers will have missing icons. Message us if you want to help us add icons for these devices.\n\n- If you have the game on Steam:\n--- Right-click Outer Wilds on your Steam library\n--- Select 'Properties...'\n--- Disable 'Use Desktop Game Theatre.'",
-      "FFmpeg is required to save mp4 videos from cameras\n\nYou can change location of FFmpeg's executable in the mod settings",
-      "If you're not familiar with generating and hosting Archipelago multiworlds, click Show On Website in the mod manager for detailed setup instructions."
-    ]
-  },
-  "priorityLoad": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Krevace.VoiceMod",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.OWRichPresence",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "xen.AchievementTracker",
-        "values": [
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "true"
-    ]
-  },
   "enabled": {
     "fieldType": "primitive",
     "mods": [
@@ -18849,34 +18692,6 @@
     ],
     "distinctValues": [
       "true"
-    ]
-  },
-  "requireVR": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Raicuparta.NomaiVR",
-        "values": [
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "true"
-    ]
-  },
-  "donateLinks": {
-    "fieldType": "array",
-    "mods": [
-      {
-        "modName": "xen-42.SandControl",
-        "values": [
-          "https://www.patreon.com/xen42"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "https://www.patreon.com/xen42"
     ]
   },
   "donateLink": {
@@ -18987,6 +18802,191 @@
     ],
     "distinctValues": [
       "https://www.patreon.com/ownh",
+      "https://www.patreon.com/xen42"
+    ]
+  },
+  "pathsToPreserve": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "12090113.Cubes",
+        "values": [
+          "blocks",
+          "save.bin"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "planets",
+          "systems"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.DancinWildsVentures",
+        "values": [
+          "planets",
+          "systems",
+          "translations"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "planets",
+          "systems"
+        ]
+      },
+      {
+        "modName": "dgarro.EpicasAlbum",
+        "values": [
+          "snapshots"
+        ]
+      },
+      {
+        "modName": "dgarro.Journal",
+        "values": [
+          "saves"
+        ]
+      },
+      {
+        "modName": "GameWyrm.OuterRelics",
+        "values": [
+          "SaveData",
+          "SpoilerLogs"
+        ]
+      },
+      {
+        "modName": "Ixrec.ArchipelagoRandomizer",
+        "values": [
+          "SaveData"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.CinematicUnityExplorer",
+        "values": [
+          "CinematicUnityExplorer"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.UpsilonAndromedae",
+        "values": [
+          "planets",
+          "shipLogs",
+          "systems",
+          "translations"
+        ]
+      },
+      {
+        "modName": "OmegaFallon.ReactiveHearthians",
+        "values": [
+          "OmegaFallon.ReactiveHearthians/my_number.json"
+        ]
+      },
+      {
+        "modName": "piggeywig2000.Permadeath",
+        "values": [
+          "permadeathsave.json"
+        ]
+      },
+      {
+        "modName": "Vambok.NomaiSky",
+        "values": [
+          "planets",
+          "systems"
+        ]
+      },
+      {
+        "modName": "Vesper.UnityExplorer",
+        "values": [
+          "sinai-dev-UnityExplorer"
+        ]
+      },
+      {
+        "modName": "VioVayo.HugMod",
+        "values": [
+          "settings.json"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizons",
+        "values": [
+          "planets",
+          "systems",
+          "translations"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          ".git",
+          ".github",
+          ".gitignore",
+          "LICENSE",
+          "README.md"
+        ]
+      }
+    ],
+    "distinctValues": [
+      ".git",
+      ".github",
+      ".gitignore",
+      "CinematicUnityExplorer",
+      "LICENSE",
+      "OmegaFallon.ReactiveHearthians/my_number.json",
+      "README.md",
+      "SaveData",
+      "SpoilerLogs",
+      "blocks",
+      "permadeathsave.json",
+      "planets",
+      "save.bin",
+      "saves",
+      "settings.json",
+      "shipLogs",
+      "sinai-dev-UnityExplorer",
+      "snapshots",
+      "systems",
+      "translations"
+    ]
+  },
+  "priorityLoad": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Krevace.VoiceMod",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.OWRichPresence",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.AchievementTracker",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
+    ]
+  },
+  "donateLinks": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "xen-42.SandControl",
+        "values": [
+          "https://www.patreon.com/xen42"
+        ]
+      }
+    ],
+    "distinctValues": [
       "https://www.patreon.com/xen42"
     ]
   }

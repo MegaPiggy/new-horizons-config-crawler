@@ -279,13 +279,6 @@
         ]
       },
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
-          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
-        ]
-      },
-      {
         "modName": "orclecle.Finis",
         "values": [
           "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
@@ -468,865 +461,119 @@
     ],
     "distinctValues": [
       "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
-      "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
       "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
     ]
   },
-  "destroyStockPlanets": {
+  "GlobalMusic.endTimesAudio": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "2walker2.Evacuation",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Ciborgm9.Espied_Serenity",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Hawkbar.ArcanumAdrift",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "hearth1an.Intervention",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "JackFoxtrot.CarsonSystem",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.Discord",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.Smallest",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Spacepiano.TheSpiralSystem",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Tetraminus.BrokenBalance",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Turtle.FunDayOff",
-        "values": [
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "true"
-    ]
-  },
-  "enableTimeLoop": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "2walker2.Evacuation",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "AsymmetricalCavern.LonesomeLake",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Boreas.Jam5CakeCapere",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Ciborgm9.Espied_Serenity",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "clay.DaylightSavings",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "cleric.DeepBramble",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Etherpod.LuminaTerra",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Hawkbar.ArcanumAdrift",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "hearth1an.Intervention",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "hearth1an.TheVision",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "JackFoxtrot.CarsonSystem",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Jam4JokeEntry",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "smallbug.MedleyOfPlanets",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "smallbug.NHJam1",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "Spacepiano.TheSpiralSystem",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Tetraminus.BrokenBalance",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Trifid.QuasarProject",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Turtle.FunDayOff",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "xen-42.ModJam5",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "xen.ModJam3",
-        "values": [
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "false",
-      "true"
-    ]
-  },
-  "startHere": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "2walker2.Evacuation",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "AsymmetricalCavern.LonesomeLake",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Boreas.Jam5CakeCapere",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Ciborgm9.Espied_Serenity",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "clay.DaylightSavings",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "cleric.DeepBramble",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "coderCleric.Mindscapes",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Etherpod.LuminaTerra",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "hearth1an.Intervention",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "JackFoxtrot.CarsonSystem",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Jam4JokeEntry",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.UpsilonAndromedae",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.KSP",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "O32.KSPOPM",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "O32.Owlystem",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianGolf",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "smallbug.NHJam1",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "Spacepiano.TheSpiralSystem",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "Tlya.Grapefruit",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Trifid.QuasarProject",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Turtle.FunDayOff",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "xen-42.ModJam5",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "xen.ModJam3",
-        "values": [
-          "true"
+          "assets/Audio/RiversEndTimes.ogg"
         ]
       },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "xen.RealSolarSystem",
-        "values": [
-          "false"
+          "planets/assets/EndTimes.mp3"
         ]
       }
     ],
     "distinctValues": [
-      "false",
-      "true"
+      "assets/Audio/RiversEndTimes.ogg",
+      "planets/assets/EndTimes.mp3"
     ]
   },
-  "mapRestricted": {
+  "GlobalMusic.endTimesDreamAudio": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "2walker2.Evacuation",
+        "modName": "xen.NewHorizonsExamples",
         "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Ciborgm9.Espied_Serenity",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "cleric.DeepBramble",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "coderCleric.Mindscapes",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Echatsum.MisfiredJump",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Hawkbar.ArcanumAdrift",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Jam4JokeEntry",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "smallbug.NHJam1",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Trifid.QuasarProject",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Turtle.FunDayOff",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "true"
+          "planets/assets/EndTimesMuted.mp3"
         ]
       }
     ],
     "distinctValues": [
-      "false",
-      "true"
+      "planets/assets/EndTimesMuted.mp3"
     ]
   },
-  "canEnterViaWarpDrive": {
+  "GlobalMusic.brambleDimensionAudio": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "2walker2.Evacuation",
+        "modName": "xen.NewHorizonsExamples",
         "values": [
-          "false"
+          "planets/assets/BrambleDimension.mp3"
         ]
-      },
+      }
+    ],
+    "distinctValues": [
+      "planets/assets/BrambleDimension.mp3"
+    ]
+  },
+  "GlobalMusic.finalEndTimesIntroAudio": {
+    "fieldType": "primitive",
+    "mods": [
       {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "modName": "gany.LiveAndLearn",
         "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "AsymmetricalCavern.LonesomeLake",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Boreas.Jam5CakeCapere",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Ciborgm9.Espied_Serenity",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "clay.DaylightSavings",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "cleric.DeepBramble",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "coderCleric.Mindscapes",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Echatsum.MisfiredJump",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Etherpod.LuminaTerra",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Hawkbar.ArcanumAdrift",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "hearth1an.Intervention",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "hearth1an.TheVision",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "JackFoxtrot.CarsonSystem",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Jam4JokeEntry",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.UpsilonAndromedae",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.Discord",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.KSP",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.KSPOPM",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.Owlystem",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.Smallest",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "smallbug.NHJam1",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Spacepiano.TheSpiralSystem",
-        "values": [
-          "false",
-          "true"
-        ]
-      },
-      {
-        "modName": "Tetraminus.BrokenBalance",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Tlya.Grapefruit",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Trifid.QuasarProject",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Turtle.FunDayOff",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Walker.AstralCodex",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "xen-42.ModJam5",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "xen.ModJam3",
-        "values": [
-          "true"
+          "audio/Boss_-_supporting_me.ogg"
         ]
       },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "xen.RealSolarSystem",
-        "values": [
-          "true"
+          "planets/assets/FinalEndTimesIntro.mp3"
         ]
       }
     ],
     "distinctValues": [
-      "false",
-      "true"
+      "audio/Boss_-_supporting_me.ogg",
+      "planets/assets/FinalEndTimesIntro.mp3"
     ]
   },
-  "loopDuration": {
+  "GlobalMusic.finalEndTimesLoopAudio": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "2walker2.Evacuation",
+        "modName": "gany.LiveAndLearn",
         "values": [
-          "22"
+          "audio/Live_&_Learn.ogg"
         ]
       },
       {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "modName": "xen.NewHorizonsExamples",
         "values": [
-          "33"
-        ]
-      },
-      {
-        "modName": "Boreas.Jam5CakeCapere",
-        "values": [
-          "22"
-        ]
-      },
-      {
-        "modName": "Echatsum.MisfiredJump",
-        "values": [
-          "15"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "66"
-        ]
-      },
-      {
-        "modName": "smallbug.NHJam1",
-        "values": [
-          "15"
-        ]
-      },
-      {
-        "modName": "xen-42.ModJam5",
-        "values": [
-          "22"
-        ]
-      },
-      {
-        "modName": "xen.ModJam3",
-        "values": [
-          "22"
+          "planets/assets/FinalEndTimesLoop.mp3"
         ]
       }
     ],
     "distinctValues": [
-      "15",
-      "22",
-      "33",
-      "66"
+      "audio/Live_&_Learn.ogg",
+      "planets/assets/FinalEndTimesLoop.mp3"
+    ]
+  },
+  "GlobalMusic.finalEndTimesBrambleDimensionAudio": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "gany.LiveAndLearn",
+        "values": [
+          "audio/Live_&_Learn.ogg"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "planets/assets/FinalEndTimesDB.mp3"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "audio/Live_&_Learn.ogg",
+      "planets/assets/FinalEndTimesDB.mp3"
     ]
   },
   "entryPositions.id": {
@@ -5442,12 +4689,6 @@
         ]
       },
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "Kamika"
-        ]
-      },
-      {
         "modName": "O32.TimeDialator",
         "values": [
           "FUTURE_DESC",
@@ -5662,7 +4903,6 @@
       "IP_DREAMWORLD_MAINFRAME",
       "JAM3_CURIOSITY",
       "JAM5_CURIOSITY",
-      "Kamika",
       "LAB_MAIN",
       "LANGUAGEOFTHELEAN",
       "LEAN",
@@ -5962,12 +5202,6 @@
         ]
       },
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "124"
-        ]
-      },
-      {
         "modName": "O32.TimeDialator",
         "values": [
           "204",
@@ -6144,7 +5378,6 @@
       "116",
       "119",
       "120",
-      "124",
       "128",
       "131",
       "135",
@@ -6428,12 +5661,6 @@
         ]
       },
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "6"
-        ]
-      },
-      {
         "modName": "O32.TimeDialator",
         "values": [
           "149",
@@ -6651,7 +5878,6 @@
       "50",
       "52",
       "58",
-      "6",
       "60",
       "63",
       "69",
@@ -6896,12 +6122,6 @@
         ]
       },
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "214"
-        ]
-      },
-      {
         "modName": "O32.TimeDialator",
         "values": [
           "100",
@@ -7094,7 +6314,6 @@
       "206",
       "21",
       "211",
-      "214",
       "222",
       "230",
       "235",
@@ -7330,12 +6549,6 @@
         "modName": "O32.Smallest",
         "values": [
           "205"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "255"
         ]
       },
       {
@@ -7723,12 +6936,6 @@
         ]
       },
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "154"
-        ]
-      },
-      {
         "modName": "O32.TimeDialator",
         "values": [
           "110",
@@ -7911,7 +7118,6 @@
       "146",
       "150",
       "153",
-      "154",
       "157",
       "160",
       "175",
@@ -8185,12 +7391,6 @@
         ]
       },
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "56"
-        ]
-      },
-      {
         "modName": "O32.TimeDialator",
         "values": [
           "100",
@@ -8412,7 +7612,6 @@
       "46",
       "50",
       "51",
-      "56",
       "60",
       "70",
       "79",
@@ -8649,12 +7848,6 @@
         ]
       },
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "254"
-        ]
-      },
-      {
         "modName": "O32.TimeDialator",
         "values": [
           "139",
@@ -8861,7 +8054,6 @@
       "245",
       "250",
       "252",
-      "254",
       "255",
       "27",
       "30",
@@ -9091,12 +8283,6 @@
         ]
       },
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "255"
-        ]
-      },
-      {
         "modName": "O32.TimeDialator",
         "values": [
           "255"
@@ -9251,196 +8437,829 @@
       "255"
     ]
   },
-  "name": {
-    "fieldType": "primitive",
+  "initialReveal": {
+    "fieldType": "array",
     "mods": [
       {
-        "modName": "2walker2.OWJam5ModProject",
+        "modName": "CantAffordaName.TesseractsSecret",
         "values": [
-          "Jam5"
+          "REMINDER_RUMOR"
         ]
       },
       {
-        "modName": "Boreas.Jam5CakeCapere",
+        "modName": "clay.DaylightSavings",
         "values": [
-          "Jam5"
+          "CHART_RADIO"
         ]
       },
       {
-        "modName": "CantAffordaName.OnARail",
+        "modName": "cleric.DeepBramble",
         "values": [
-          "Jam5"
+          "ENTRY_FACT_FC"
+        ]
+      },
+      {
+        "modName": "coderCleric.JamHub",
+        "values": [
+          "HUB_PLANET_EXISTENCE_FACT_CCL"
+        ]
+      },
+      {
+        "modName": "coderCleric.Mindscapes",
+        "values": [
+          "MINDSCAPES_DEVICE_RUMOR"
         ]
       },
       {
         "modName": "Echatsum.MisfiredJump",
         "values": [
-          "Jam4System"
+          "MISFIREDJUMP_LOG_BROKENWARP_INTRO",
+          "MISFIREDJUMP_LOG_BROKENWARP_INTRO_2"
         ]
       },
       {
         "modName": "Ender.Beryl.BrightSpark",
         "values": [
-          "Jam5"
+          "AUTHOR_MOD_SYSTEM_EXPLORE_FACT"
         ]
       },
       {
         "modName": "Etherpod.LuminaTerra",
         "values": [
-          "Hornfel's Discovery"
+          "LT_STRANGE_HOUSE_RUMOR"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor",
+        "values": [
+          "HN_MUSEUM_PLATE_INTRO",
+          "LH_ARRIVAL"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "HN2_IntroRumor"
         ]
       },
       {
         "modName": "Hawkbar.GreenFlameBlade",
         "values": [
-          "SolarSystem"
+          "GFB_WRAITH_SHIP_SEEN"
+        ]
+      },
+      {
+        "modName": "Hawkbar.SolarRangers",
+        "values": [
+          "RANGER_EGGSTAR_RUMOR"
         ]
       },
       {
         "modName": "Hawkbar.Terrarium",
         "values": [
-          "Jam5"
+          "WW_TERRARIUM_START"
         ]
       },
       {
-        "modName": "LeeSpork.ModJam5",
+        "modName": "hearth1an.TheVision",
         "values": [
-          "Jam5"
+          "SOLANUM_START",
+          "VISION_TORCH_RUMOR"
         ]
       },
       {
         "modName": "MegaPiggy.AnomalyResearchAndContainment",
         "values": [
-          "Jam5"
+          "ARC_WARP_PLATFORM_R1"
         ]
       },
       {
-        "modName": "O32.ssimaak",
+        "modName": "MegaPiggy.UpsilonAndromedae",
         "values": [
-          "Bin Planet 1",
-          "Bin Planet 2",
-          "Binary Center",
-          "Bright Moon",
-          "Bright Planet 1",
-          "Bright Planet 2",
-          "Bright Planet 3",
-          "Bright Planet 4",
-          "Bright Sun",
-          "Exit: Bright to Orange",
-          "Exit: Orange to Smol",
-          "Exit: Prox to Bright",
-          "Exit: Smol to Sol",
-          "Exit: Sol to Prox",
-          "Large Moon 1",
-          "Large Moon 2",
-          "Large Planet",
-          "Orange Binary Center",
-          "Orange Planet 1",
-          "Orange Planet 2",
-          "Orange Planet 3",
-          "Orange Sun",
-          "Prox Moon",
-          "Prox Planet",
-          "Prox Sun",
-          "Small Moon",
-          "Small Planet",
-          "Smol Sun",
-          "Sol",
-          "Warp: Bright to Orange",
-          "Warp: Orange to Smol",
-          "Warp: Prox to Bright",
-          "Warp: Smol to Sol",
-          "Warp: Sol to Prox",
-          "Water Moon",
-          "Water Planet"
+          "ADHAB_RUMOR",
+          "AURA_RUMOR",
+          "BRITOMARTIS_RUMOR",
+          "CURIEL_RUMOR",
+          "MAJRITI_RUMOR",
+          "SAFFAR_RUMOR",
+          "SAMH_RINGS_RUMOR",
+          "SAMH_RUMOR",
+          "TITAWIN_FACT",
+          "TITAWIN_RUMOR",
+          "UPSILON_ANDROMEDAE_B_RUMOR",
+          "UPSILON_ANDROMEDAE_FACT"
         ]
       },
       {
-        "modName": "orclecle.Jam5PingBox",
+        "modName": "O32.Discord",
         "values": [
-          "Jam5"
+          "BASEREVEAL",
+          "IDIOTREVEAL",
+          "MUGREVEAL",
+          "MYREVEAL",
+          "PLANETREVEAL",
+          "TIDESREVEAL"
         ]
       },
       {
-        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "modName": "O32.FunnySystem",
         "values": [
-          "Interstellar Space"
+          "BLUE_LANDING",
+          "CLUDOS_LANDING",
+          "DHAR_LANDING",
+          "DOG_LANDING",
+          "FINALPLANET_FINALSTEP",
+          "FUNNYSYSTEM_BEGIN",
+          "IHTS_LANDING",
+          "MHOR_LANDING",
+          "NUTS_LANDING",
+          "RICO_LANDING",
+          "SUSSY_LANDING",
+          "TROLL_LANDING",
+          "VOYGER_LANDING",
+          "WHER_LANDING",
+          "WHER_RUMOR"
         ]
       },
       {
-        "modName": "TheLoweDown256.TLDJam5",
+        "modName": "O32.Smallest",
         "values": [
-          "Jam5"
+          "GALAXYS_SMALLEST"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "CITY_RUMOR",
+          "FMIGRATEDPASTURES_DISCOVERY",
+          "FNOMINATEDANOMALY_DISCOVERY",
+          "FREGULARITY_DISCOVERY",
+          "FSCORCHEDFRONTPORCH_DISCOVERY",
+          "LL_RUMOR",
+          "LUNARLAUGHTER_DISCOVERY",
+          "NMIGRATEDPASTURES_DISCOVERY",
+          "NNOMINATEDANOMALY_DISCOVERY",
+          "NSCORCHEDFRONTPORCH_DISCOVERY",
+          "PMIGRATEDPASTURES_DISCOVERY",
+          "PNOMINATEDANOMALY_DISCOVERY",
+          "PREGULARITY_DISCOVERY",
+          "PSCORCHEDFRONTPORCH_DISCOVERY",
+          "REGULARITY_DISCOVERY",
+          "SIGNAL_RUMOR",
+          "SPAREDSTIFLER_DISCOVERY",
+          "SS_RUMOR",
+          "WRECKAGE_RUMOR"
+        ]
+      },
+      {
+        "modName": "orclecle.Guardian",
+        "values": [
+          "guardian_start_rumor"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.BandTogether",
+        "values": [
+          "BT_PLANET_RUMOR"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "RESON_LS_RUMOR",
+          "VILLAGE_VISITOR_RUMOR"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "SPINEL_QUEST_RUMOR"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "GOLF_CLUBHOUSE_RUMOR"
+        ]
+      },
+      {
+        "modName": "smallbug.MedleyOfPlanets",
+        "values": [
+          "beaches_log_rumor"
+        ]
+      },
+      {
+        "modName": "smallbug.NHJam1",
+        "values": [
+          "north_village_explore"
+        ]
+      },
+      {
+        "modName": "Tetraminus.BrokenBalance",
+        "values": [
+          "REC_SIGNALS"
         ]
       },
       {
         "modName": "TheSignalJammers.FifthModJam",
         "values": [
-          "Jam5"
+          "COSMICCURATORS_OMINOUS_ORBITER_R"
         ]
       },
       {
-        "modName": "Vambok.HearthianParable",
+        "modName": "Tlya.Grapefruit",
         "values": [
-          "Jam5"
+          "APPLE_RUMOR",
+          "CHEBUREK_RUMOR",
+          "DRAGONFRUIT_RUMOR",
+          "GRAPEFRUIT_FACT",
+          "PINEAPPLE_RUMOR"
         ]
       },
       {
         "modName": "xen-42.ModJam5",
         "values": [
-          "Jam5"
+          "JAM_5_BASE_CENTRAL_STATION_EXPLORE_FACT",
+          "JAM_5_BASE_EXPLORE_FACT",
+          "JAM_5_BASE_STARSHIP_COMMUNITY_RUMOR_FACT"
         ]
       },
       {
         "modName": "xen.EscapeRoomJam4",
         "values": [
-          "xen.EscapeSystem"
+          "WYRM_XEN_JAM_4_ARROWS_RUMOR",
+          "WYRM_XEN_JAM_4_DOOR_ONE_IDENTIFY",
+          "WYRM_XEN_JAM_4_INTRO_LOCK",
+          "WYRM_XEN_JAM_4_INTRO_PREQUEL",
+          "WYRM_XEN_JAM_4_MUSIC_RUMOR",
+          "WYRM_XEN_JAM_4_PILLARS_RUMOR"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "JAM3_EXPLORE_FACT",
+          "JAM3_EXPLORE_FACT_2",
+          "STARSHIP_COMMUNITY_RUMOR_FACT"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "EXAMPLES_2_FACT",
+          "EXAMPLES_VILLAGE",
+          "EXAMPLES_VISITORS_RUMOR"
         ]
       }
     ],
     "distinctValues": [
-      "Bin Planet 1",
-      "Bin Planet 2",
-      "Binary Center",
-      "Bright Moon",
-      "Bright Planet 1",
-      "Bright Planet 2",
-      "Bright Planet 3",
-      "Bright Planet 4",
-      "Bright Sun",
-      "Exit: Bright to Orange",
-      "Exit: Orange to Smol",
-      "Exit: Prox to Bright",
-      "Exit: Smol to Sol",
-      "Exit: Sol to Prox",
-      "Hornfel's Discovery",
-      "Interstellar Space",
-      "Jam4System",
-      "Jam5",
-      "Large Moon 1",
-      "Large Moon 2",
-      "Large Planet",
-      "Orange Binary Center",
-      "Orange Planet 1",
-      "Orange Planet 2",
-      "Orange Planet 3",
-      "Orange Sun",
-      "Prox Moon",
-      "Prox Planet",
-      "Prox Sun",
-      "Small Moon",
-      "Small Planet",
-      "Smol Sun",
-      "Sol",
-      "SolarSystem",
-      "Warp: Bright to Orange",
-      "Warp: Orange to Smol",
-      "Warp: Prox to Bright",
-      "Warp: Smol to Sol",
-      "Warp: Sol to Prox",
-      "Water Moon",
-      "Water Planet",
-      "xen.EscapeSystem"
+      "ADHAB_RUMOR",
+      "APPLE_RUMOR",
+      "ARC_WARP_PLATFORM_R1",
+      "AURA_RUMOR",
+      "AUTHOR_MOD_SYSTEM_EXPLORE_FACT",
+      "BASEREVEAL",
+      "BLUE_LANDING",
+      "BRITOMARTIS_RUMOR",
+      "BT_PLANET_RUMOR",
+      "CHART_RADIO",
+      "CHEBUREK_RUMOR",
+      "CITY_RUMOR",
+      "CLUDOS_LANDING",
+      "COSMICCURATORS_OMINOUS_ORBITER_R",
+      "CURIEL_RUMOR",
+      "DHAR_LANDING",
+      "DOG_LANDING",
+      "DRAGONFRUIT_RUMOR",
+      "ENTRY_FACT_FC",
+      "EXAMPLES_2_FACT",
+      "EXAMPLES_VILLAGE",
+      "EXAMPLES_VISITORS_RUMOR",
+      "FINALPLANET_FINALSTEP",
+      "FMIGRATEDPASTURES_DISCOVERY",
+      "FNOMINATEDANOMALY_DISCOVERY",
+      "FREGULARITY_DISCOVERY",
+      "FSCORCHEDFRONTPORCH_DISCOVERY",
+      "FUNNYSYSTEM_BEGIN",
+      "GALAXYS_SMALLEST",
+      "GFB_WRAITH_SHIP_SEEN",
+      "GOLF_CLUBHOUSE_RUMOR",
+      "GRAPEFRUIT_FACT",
+      "HN2_IntroRumor",
+      "HN_MUSEUM_PLATE_INTRO",
+      "HUB_PLANET_EXISTENCE_FACT_CCL",
+      "IDIOTREVEAL",
+      "IHTS_LANDING",
+      "JAM3_EXPLORE_FACT",
+      "JAM3_EXPLORE_FACT_2",
+      "JAM_5_BASE_CENTRAL_STATION_EXPLORE_FACT",
+      "JAM_5_BASE_EXPLORE_FACT",
+      "JAM_5_BASE_STARSHIP_COMMUNITY_RUMOR_FACT",
+      "LH_ARRIVAL",
+      "LL_RUMOR",
+      "LT_STRANGE_HOUSE_RUMOR",
+      "LUNARLAUGHTER_DISCOVERY",
+      "MAJRITI_RUMOR",
+      "MHOR_LANDING",
+      "MINDSCAPES_DEVICE_RUMOR",
+      "MISFIREDJUMP_LOG_BROKENWARP_INTRO",
+      "MISFIREDJUMP_LOG_BROKENWARP_INTRO_2",
+      "MUGREVEAL",
+      "MYREVEAL",
+      "NMIGRATEDPASTURES_DISCOVERY",
+      "NNOMINATEDANOMALY_DISCOVERY",
+      "NSCORCHEDFRONTPORCH_DISCOVERY",
+      "NUTS_LANDING",
+      "PINEAPPLE_RUMOR",
+      "PLANETREVEAL",
+      "PMIGRATEDPASTURES_DISCOVERY",
+      "PNOMINATEDANOMALY_DISCOVERY",
+      "PREGULARITY_DISCOVERY",
+      "PSCORCHEDFRONTPORCH_DISCOVERY",
+      "RANGER_EGGSTAR_RUMOR",
+      "REC_SIGNALS",
+      "REGULARITY_DISCOVERY",
+      "REMINDER_RUMOR",
+      "RESON_LS_RUMOR",
+      "RICO_LANDING",
+      "SAFFAR_RUMOR",
+      "SAMH_RINGS_RUMOR",
+      "SAMH_RUMOR",
+      "SIGNAL_RUMOR",
+      "SOLANUM_START",
+      "SPAREDSTIFLER_DISCOVERY",
+      "SPINEL_QUEST_RUMOR",
+      "SS_RUMOR",
+      "STARSHIP_COMMUNITY_RUMOR_FACT",
+      "SUSSY_LANDING",
+      "TIDESREVEAL",
+      "TITAWIN_FACT",
+      "TITAWIN_RUMOR",
+      "TROLL_LANDING",
+      "UPSILON_ANDROMEDAE_B_RUMOR",
+      "UPSILON_ANDROMEDAE_FACT",
+      "VILLAGE_VISITOR_RUMOR",
+      "VISION_TORCH_RUMOR",
+      "VOYGER_LANDING",
+      "WHER_LANDING",
+      "WHER_RUMOR",
+      "WRECKAGE_RUMOR",
+      "WW_TERRARIUM_START",
+      "WYRM_XEN_JAM_4_ARROWS_RUMOR",
+      "WYRM_XEN_JAM_4_DOOR_ONE_IDENTIFY",
+      "WYRM_XEN_JAM_4_INTRO_LOCK",
+      "WYRM_XEN_JAM_4_INTRO_PREQUEL",
+      "WYRM_XEN_JAM_4_MUSIC_RUMOR",
+      "WYRM_XEN_JAM_4_PILLARS_RUMOR",
+      "beaches_log_rumor",
+      "guardian_start_rumor",
+      "north_village_explore"
+    ]
+  },
+  "canEnterViaWarpDrive": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.Evacuation",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "AsymmetricalCavern.LonesomeLake",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Boreas.Jam5CakeCapere",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Ciborgm9.Espied_Serenity",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "clay.DaylightSavings",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "coderCleric.Mindscapes",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Echatsum.MisfiredJump",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Etherpod.LuminaTerra",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Hawkbar.ArcanumAdrift",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "hearth1an.Intervention",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "hearth1an.TheVision",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "JackFoxtrot.CarsonSystem",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Jam4JokeEntry",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.UpsilonAndromedae",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.Discord",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.KSP",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.KSPOPM",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.Owlystem",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.Smallest",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "smallbug.NHJam1",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Spacepiano.TheSpiralSystem",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "Tetraminus.BrokenBalance",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Walker.AstralCodex",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
+    ]
+  },
+  "startHere": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.Evacuation",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "AsymmetricalCavern.LonesomeLake",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Boreas.Jam5CakeCapere",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Ciborgm9.Espied_Serenity",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "clay.DaylightSavings",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "coderCleric.Mindscapes",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Etherpod.LuminaTerra",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "hearth1an.Intervention",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "JackFoxtrot.CarsonSystem",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Jam4JokeEntry",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.UpsilonAndromedae",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.KSP",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "O32.KSPOPM",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "O32.Owlystem",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "smallbug.NHJam1",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "Spacepiano.TheSpiralSystem",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "false"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
     ]
   },
   "respawnHere": {
@@ -9560,73 +9379,53 @@
       "true"
     ]
   },
-  "factRequiredForWarp": {
+  "GlobalMusic.travelAudio": {
     "fieldType": "primitive",
     "mods": [
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "HOME_REVEAL"
+          "assets/Audio/LostSignal.ogg"
         ]
       },
       {
-        "modName": "cleric.DeepBramble",
+        "modName": "MegaPiggy.UpsilonAndromedae",
         "values": [
-          "WARP_TO_DB_FACT"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor",
-        "values": [
-          "HN_MUSEUM_PLATE_DETAILS"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "LEAN_NEBLINA_NOMAI"
+          "planets/assets/ForYou.mp3"
         ]
       },
       {
         "modName": "Samster68.FretsQuest",
         "values": [
-          "RITUAL_RECORDER"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "HN_MUSEUM_PLATE_DETAILS",
-      "HOME_REVEAL",
-      "LEAN_NEBLINA_NOMAI",
-      "RITUAL_RECORDER",
-      "WARP_TO_DB_FACT"
-    ]
-  },
-  "Vessel.alwaysPresent": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "false"
+          "planets/Audio/BanjoGalaxy.ogg"
         ]
       },
       {
-        "modName": "Ender.Beryl.BrightSpark",
+        "modName": "xen-42.ModJam5",
         "values": [
-          "true"
+          "planets/assets/jam5space.ogg"
         ]
       },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "true"
+          "planets/assets/Travel Audio.mp3"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "planets/assets/SpaceInRealLife.ogg"
         ]
       }
     ],
     "distinctValues": [
-      "false",
-      "true"
+      "assets/Audio/LostSignal.ogg",
+      "planets/Audio/BanjoGalaxy.ogg",
+      "planets/assets/ForYou.mp3",
+      "planets/assets/SpaceInRealLife.ogg",
+      "planets/assets/Travel Audio.mp3",
+      "planets/assets/jam5space.ogg"
     ]
   },
   "Vessel.coords.x": {
@@ -9858,32 +9657,51 @@
       "5"
     ]
   },
-  "Vessel.promptFact": {
+  "Vessel.hasPhysics": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "false"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false"
+    ]
+  },
+  "Vessel.alwaysPresent": {
     "fieldType": "primitive",
     "mods": [
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "NOM_Coords"
+          "false"
         ]
       },
       {
-        "modName": "hearth1an.TheVision",
+        "modName": "Ender.Beryl.BrightSpark",
         "values": [
-          "HOLOGRAM_CHANGED"
+          "true"
         ]
       },
       {
-        "modName": "O32.FunnySystem",
+        "modName": "xen.NewHorizonsExamples",
         "values": [
-          "LEAN_NEBLINA_NOMAI"
+          "true"
         ]
       }
     ],
     "distinctValues": [
-      "HOLOGRAM_CHANGED",
-      "LEAN_NEBLINA_NOMAI",
-      "NOM_Coords"
+      "false",
+      "true"
     ]
   },
   "Vessel.vesselSpawn.parentBody": {
@@ -9912,6 +9730,26 @@
       "Frigid Pygmy",
       "Nomai Vessel",
       "Ringed Giant"
+    ]
+  },
+  "Vessel.vesselSpawn.isRelativeToParent": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
     ]
   },
   "Vessel.vesselSpawn.position.x": {
@@ -10013,118 +9851,6 @@
       "0",
       "8000",
       "900"
-    ]
-  },
-  "Vessel.vesselSpawn.rotation.x": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "6.2185"
-        ]
-      },
-      {
-        "modName": "xen.RealSolarSystem",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "6.2185"
-    ]
-  },
-  "Vessel.vesselSpawn.rotation.y": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "221.6308"
-        ]
-      },
-      {
-        "modName": "xen.RealSolarSystem",
-        "values": [
-          "180"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "180",
-      "221.6308"
-    ]
-  },
-  "Vessel.vesselSpawn.rotation.z": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "24.7273"
-        ]
-      },
-      {
-        "modName": "xen.RealSolarSystem",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "24.7273"
-    ]
-  },
-  "Vessel.warpExit.parentBody": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "Strangers' Homeworld"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "Frigid Pygmy"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Frigid Pygmy",
-      "Strangers' Homeworld"
-    ]
-  },
-  "Vessel.warpExit.parentPath": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "Sector"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Sector"
-    ]
-  },
-  "Vessel.warpExit.isRelativeToParent": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "true"
     ]
   },
   "Vessel.warpExit.position.x": {
@@ -10253,17 +9979,11 @@
       "92.3105"
     ]
   },
-  "returnToSolarSystemWhenTooFar": {
+  "Vessel.warpExit.alignRadial": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.UpsilonAndromedae",
+        "modName": "xen.NewHorizonsExamples",
         "values": [
           "true"
         ]
@@ -10273,202 +9993,25 @@
       "true"
     ]
   },
-  "GlobalMusic.endTimesAudio": {
+  "Vessel.warpExit.parentBody": {
     "fieldType": "primitive",
     "mods": [
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "assets/Audio/RiversEndTimes.ogg"
+          "Strangers' Homeworld"
         ]
       },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "planets/assets/EndTimes.mp3"
+          "Frigid Pygmy"
         ]
       }
     ],
     "distinctValues": [
-      "assets/Audio/RiversEndTimes.ogg",
-      "planets/assets/EndTimes.mp3"
-    ]
-  },
-  "GlobalMusic.travelAudio": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "assets/Audio/LostSignal.ogg"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.UpsilonAndromedae",
-        "values": [
-          "planets/assets/ForYou.mp3"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "planets/Audio/BanjoGalaxy.ogg"
-        ]
-      },
-      {
-        "modName": "xen-42.ModJam5",
-        "values": [
-          "planets/assets/jam5space.ogg"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "planets/assets/Travel Audio.mp3"
-        ]
-      },
-      {
-        "modName": "xen.RealSolarSystem",
-        "values": [
-          "planets/assets/SpaceInRealLife.ogg"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "assets/Audio/LostSignal.ogg",
-      "planets/Audio/BanjoGalaxy.ogg",
-      "planets/assets/ForYou.mp3",
-      "planets/assets/SpaceInRealLife.ogg",
-      "planets/assets/Travel Audio.mp3",
-      "planets/assets/jam5space.ogg"
-    ]
-  },
-  "factRequiredToExitViaWarpDrive": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "HOME_REVEAL"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "HOME_REVEAL"
-    ]
-  },
-  "shipLogStartingPlanetID": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "Nearest Neighbor"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Nearest Neighbor"
-    ]
-  },
-  "StarChart.disappearanceTime": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "33"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "33"
-    ]
-  },
-  "StarChart.position.x": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "-10"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "-10"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "-10"
-    ]
-  },
-  "StarChart.position.y": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "-2"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "-10"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "-10",
-      "-2"
-    ]
-  },
-  "canExitViaWarpDrive": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AsymmetricalCavern.LonesomeLake",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Echatsum.MisfiredJump",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "Etherpod.LuminaTerra",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Jam4JokeEntry",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "false"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "false",
-      "true"
+      "Frigid Pygmy",
+      "Strangers' Homeworld"
     ]
   },
   "Skybox.destroyStarField": {
@@ -10532,1020 +10075,6 @@
     "distinctValues": [
       "false",
       "true"
-    ]
-  },
-  "coords.x": {
-    "fieldType": "array",
-    "mods": [
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "0",
-          "2",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.KSP",
-        "values": [
-          "1",
-          "4"
-        ]
-      },
-      {
-        "modName": "O32.KSPOPM",
-        "values": [
-          "1",
-          "4"
-        ]
-      },
-      {
-        "modName": "O32.Owlystem",
-        "values": [
-          "0",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.Smallest",
-        "values": [
-          "0",
-          "1",
-          "2"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0",
-          "1",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "2",
-          "4"
-        ]
-      },
-      {
-        "modName": "Tlya.Grapefruit",
-        "values": [
-          "0",
-          "2"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ]
-  },
-  "coords.y": {
-    "fieldType": "array",
-    "mods": [
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "1",
-          "2",
-          "3",
-          "5"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.KSP",
-        "values": [
-          "1",
-          "4"
-        ]
-      },
-      {
-        "modName": "O32.KSPOPM",
-        "values": [
-          "1",
-          "4"
-        ]
-      },
-      {
-        "modName": "O32.Owlystem",
-        "values": [
-          "0",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.Smallest",
-        "values": [
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0",
-          "1",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "2",
-          "4"
-        ]
-      },
-      {
-        "modName": "Tlya.Grapefruit",
-        "values": [
-          "2"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ]
-  },
-  "coords.z": {
-    "fieldType": "array",
-    "mods": [
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "2",
-          "3"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "2",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.KSP",
-        "values": [
-          "1",
-          "4"
-        ]
-      },
-      {
-        "modName": "O32.KSPOPM",
-        "values": [
-          "1",
-          "4"
-        ]
-      },
-      {
-        "modName": "O32.Owlystem",
-        "values": [
-          "0",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.Smallest",
-        "values": [
-          "0",
-          "2",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0",
-          "1",
-          "3",
-          "4",
-          "5"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "2",
-          "4"
-        ]
-      },
-      {
-        "modName": "Tlya.Grapefruit",
-        "values": [
-          "2",
-          "3"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ]
-  },
-  "vesselPosition.x": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.KSP",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.KSPOPM",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.Owlystem",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.Smallest",
-        "values": [
-          "4000"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0",
-          "15000"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "Tlya.Grapefruit",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "15000",
-      "4000"
-    ]
-  },
-  "vesselPosition.y": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.KSP",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.KSPOPM",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.Owlystem",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.Smallest",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "Tlya.Grapefruit",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0"
-    ]
-  },
-  "vesselPosition.z": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "8000"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "8000"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "8000"
-        ]
-      },
-      {
-        "modName": "O32.KSP",
-        "values": [
-          "8000"
-        ]
-      },
-      {
-        "modName": "O32.KSPOPM",
-        "values": [
-          "8000"
-        ]
-      },
-      {
-        "modName": "O32.Owlystem",
-        "values": [
-          "8000"
-        ]
-      },
-      {
-        "modName": "O32.Smallest",
-        "values": [
-          "4000"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "15000",
-          "8000"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "8000"
-        ]
-      },
-      {
-        "modName": "Tlya.Grapefruit",
-        "values": [
-          "19000"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "15000",
-      "19000",
-      "4000",
-      "8000"
-    ]
-  },
-  "warpExitPosition.x": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0"
-    ]
-  },
-  "warpExitPosition.y": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "0"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0"
-    ]
-  },
-  "warpExitPosition.z": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "CantAffordaName.Archipelago",
-        "values": [
-          "1000"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.SuperWildGalaxy",
-        "values": [
-          "1000"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "10000"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "1000",
-      "10000"
-    ]
-  },
-  "initialReveal": {
-    "fieldType": "array",
-    "mods": [
-      {
-        "modName": "CantAffordaName.TesseractsSecret",
-        "values": [
-          "REMINDER_RUMOR"
-        ]
-      },
-      {
-        "modName": "clay.DaylightSavings",
-        "values": [
-          "CHART_RADIO"
-        ]
-      },
-      {
-        "modName": "cleric.DeepBramble",
-        "values": [
-          "ENTRY_FACT_FC"
-        ]
-      },
-      {
-        "modName": "coderCleric.JamHub",
-        "values": [
-          "HUB_PLANET_EXISTENCE_FACT_CCL"
-        ]
-      },
-      {
-        "modName": "coderCleric.Mindscapes",
-        "values": [
-          "MINDSCAPES_DEVICE_RUMOR"
-        ]
-      },
-      {
-        "modName": "Echatsum.MisfiredJump",
-        "values": [
-          "MISFIREDJUMP_LOG_BROKENWARP_INTRO",
-          "MISFIREDJUMP_LOG_BROKENWARP_INTRO_2"
-        ]
-      },
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "AUTHOR_MOD_SYSTEM_EXPLORE_FACT"
-        ]
-      },
-      {
-        "modName": "Etherpod.LuminaTerra",
-        "values": [
-          "LT_STRANGE_HOUSE_RUMOR"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor",
-        "values": [
-          "HN_MUSEUM_PLATE_INTRO",
-          "LH_ARRIVAL"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor2",
-        "values": [
-          "HN2_IntroRumor"
-        ]
-      },
-      {
-        "modName": "Hawkbar.GreenFlameBlade",
-        "values": [
-          "GFB_WRAITH_SHIP_SEEN"
-        ]
-      },
-      {
-        "modName": "Hawkbar.SolarRangers",
-        "values": [
-          "RANGER_EGGSTAR_RUMOR"
-        ]
-      },
-      {
-        "modName": "Hawkbar.Terrarium",
-        "values": [
-          "WW_TERRARIUM_START"
-        ]
-      },
-      {
-        "modName": "hearth1an.TheVision",
-        "values": [
-          "SOLANUM_START",
-          "VISION_TORCH_RUMOR"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.AnomalyResearchAndContainment",
-        "values": [
-          "ARC_WARP_PLATFORM_R1"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.UpsilonAndromedae",
-        "values": [
-          "ADHAB_RUMOR",
-          "AURA_RUMOR",
-          "BRITOMARTIS_RUMOR",
-          "CURIEL_RUMOR",
-          "MAJRITI_RUMOR",
-          "SAFFAR_RUMOR",
-          "SAMH_RINGS_RUMOR",
-          "SAMH_RUMOR",
-          "TITAWIN_FACT",
-          "TITAWIN_RUMOR",
-          "UPSILON_ANDROMEDAE_B_RUMOR",
-          "UPSILON_ANDROMEDAE_FACT"
-        ]
-      },
-      {
-        "modName": "O32.Discord",
-        "values": [
-          "BASEREVEAL",
-          "IDIOTREVEAL",
-          "MUGREVEAL",
-          "MYREVEAL",
-          "PLANETREVEAL",
-          "TIDESREVEAL"
-        ]
-      },
-      {
-        "modName": "O32.FunnySystem",
-        "values": [
-          "BLUE_LANDING",
-          "CLUDOS_LANDING",
-          "DHAR_LANDING",
-          "DOG_LANDING",
-          "FINALPLANET_FINALSTEP",
-          "FUNNYSYSTEM_BEGIN",
-          "IHTS_LANDING",
-          "MHOR_LANDING",
-          "NUTS_LANDING",
-          "RICO_LANDING",
-          "SUSSY_LANDING",
-          "TROLL_LANDING",
-          "VOYGER_LANDING",
-          "WHER_LANDING",
-          "WHER_RUMOR"
-        ]
-      },
-      {
-        "modName": "O32.Smallest",
-        "values": [
-          "GALAXYS_SMALLEST"
-        ]
-      },
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "ATOXIC_DISCOVERY",
-          "ESTR_DISCOVERY",
-          "GILDENI_DISCOVERY",
-          "GRAVAENIUM_DISCOVERY",
-          "GRAVITACENTRE_DISCOVERY",
-          "GREDSERT_DISCOVERY",
-          "GREENITE_DISCOVERY",
-          "HABMOON_DISCOVERY",
-          "HABPLANET_DISCOVERY",
-          "HABROCK_DISCOVERY",
-          "HOMEPLANET_DISCOVERY",
-          "HOMESTAR_DISCOVERY",
-          "ICEEN_DISCOVERY",
-          "KAMIC_DISCOVERY",
-          "KAMINVERSTAR_DISCOVERY",
-          "LUUVA_DISCOVERY",
-          "MULTIN_DISCOVERY",
-          "NHUCLAR_DISCOVERY",
-          "NREEN_DISCOVERY",
-          "OEIL_DISCOVERY",
-          "ORCEAN_DISCOVERY",
-          "PURPLE_SUN_DISCOVERY",
-          "SREEF_DISCOVERY",
-          "TOTINA_DISCOVERY",
-          "UILO_DISCOVERY",
-          "UNNAMED_STAR_DISCOVERY",
-          "YILLOW_DISCOVERY"
-        ]
-      },
-      {
-        "modName": "O32.TimeDialator",
-        "values": [
-          "CITY_RUMOR",
-          "FMIGRATEDPASTURES_DISCOVERY",
-          "FNOMINATEDANOMALY_DISCOVERY",
-          "FREGULARITY_DISCOVERY",
-          "FSCORCHEDFRONTPORCH_DISCOVERY",
-          "LL_RUMOR",
-          "LUNARLAUGHTER_DISCOVERY",
-          "NMIGRATEDPASTURES_DISCOVERY",
-          "NNOMINATEDANOMALY_DISCOVERY",
-          "NSCORCHEDFRONTPORCH_DISCOVERY",
-          "PMIGRATEDPASTURES_DISCOVERY",
-          "PNOMINATEDANOMALY_DISCOVERY",
-          "PREGULARITY_DISCOVERY",
-          "PSCORCHEDFRONTPORCH_DISCOVERY",
-          "REGULARITY_DISCOVERY",
-          "SIGNAL_RUMOR",
-          "SPAREDSTIFLER_DISCOVERY",
-          "SS_RUMOR",
-          "WRECKAGE_RUMOR"
-        ]
-      },
-      {
-        "modName": "orclecle.Guardian",
-        "values": [
-          "guardian_start_rumor"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.BandTogether",
-        "values": [
-          "BT_PLANET_RUMOR"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "RESON_LS_RUMOR",
-          "VILLAGE_VISITOR_RUMOR"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianFishing",
-        "values": [
-          "SPINEL_QUEST_RUMOR"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianGolf",
-        "values": [
-          "GOLF_CLUBHOUSE_RUMOR"
-        ]
-      },
-      {
-        "modName": "smallbug.MedleyOfPlanets",
-        "values": [
-          "beaches_log_rumor"
-        ]
-      },
-      {
-        "modName": "smallbug.NHJam1",
-        "values": [
-          "north_village_explore"
-        ]
-      },
-      {
-        "modName": "Tetraminus.BrokenBalance",
-        "values": [
-          "REC_SIGNALS"
-        ]
-      },
-      {
-        "modName": "TheSignalJammers.FifthModJam",
-        "values": [
-          "COSMICCURATORS_OMINOUS_ORBITER_R"
-        ]
-      },
-      {
-        "modName": "Tlya.Grapefruit",
-        "values": [
-          "APPLE_RUMOR",
-          "CHEBUREK_RUMOR",
-          "DRAGONFRUIT_RUMOR",
-          "GRAPEFRUIT_FACT",
-          "PINEAPPLE_RUMOR"
-        ]
-      },
-      {
-        "modName": "xen-42.ModJam5",
-        "values": [
-          "JAM_5_BASE_CENTRAL_STATION_EXPLORE_FACT",
-          "JAM_5_BASE_EXPLORE_FACT",
-          "JAM_5_BASE_STARSHIP_COMMUNITY_RUMOR_FACT"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "WYRM_XEN_JAM_4_ARROWS_RUMOR",
-          "WYRM_XEN_JAM_4_DOOR_ONE_IDENTIFY",
-          "WYRM_XEN_JAM_4_INTRO_LOCK",
-          "WYRM_XEN_JAM_4_INTRO_PREQUEL",
-          "WYRM_XEN_JAM_4_MUSIC_RUMOR",
-          "WYRM_XEN_JAM_4_PILLARS_RUMOR"
-        ]
-      },
-      {
-        "modName": "xen.ModJam3",
-        "values": [
-          "JAM3_EXPLORE_FACT",
-          "JAM3_EXPLORE_FACT_2",
-          "STARSHIP_COMMUNITY_RUMOR_FACT"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "EXAMPLES_2_FACT",
-          "EXAMPLES_VILLAGE",
-          "EXAMPLES_VISITORS_RUMOR"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "ADHAB_RUMOR",
-      "APPLE_RUMOR",
-      "ARC_WARP_PLATFORM_R1",
-      "ATOXIC_DISCOVERY",
-      "AURA_RUMOR",
-      "AUTHOR_MOD_SYSTEM_EXPLORE_FACT",
-      "BASEREVEAL",
-      "BLUE_LANDING",
-      "BRITOMARTIS_RUMOR",
-      "BT_PLANET_RUMOR",
-      "CHART_RADIO",
-      "CHEBUREK_RUMOR",
-      "CITY_RUMOR",
-      "CLUDOS_LANDING",
-      "COSMICCURATORS_OMINOUS_ORBITER_R",
-      "CURIEL_RUMOR",
-      "DHAR_LANDING",
-      "DOG_LANDING",
-      "DRAGONFRUIT_RUMOR",
-      "ENTRY_FACT_FC",
-      "ESTR_DISCOVERY",
-      "EXAMPLES_2_FACT",
-      "EXAMPLES_VILLAGE",
-      "EXAMPLES_VISITORS_RUMOR",
-      "FINALPLANET_FINALSTEP",
-      "FMIGRATEDPASTURES_DISCOVERY",
-      "FNOMINATEDANOMALY_DISCOVERY",
-      "FREGULARITY_DISCOVERY",
-      "FSCORCHEDFRONTPORCH_DISCOVERY",
-      "FUNNYSYSTEM_BEGIN",
-      "GALAXYS_SMALLEST",
-      "GFB_WRAITH_SHIP_SEEN",
-      "GILDENI_DISCOVERY",
-      "GOLF_CLUBHOUSE_RUMOR",
-      "GRAPEFRUIT_FACT",
-      "GRAVAENIUM_DISCOVERY",
-      "GRAVITACENTRE_DISCOVERY",
-      "GREDSERT_DISCOVERY",
-      "GREENITE_DISCOVERY",
-      "HABMOON_DISCOVERY",
-      "HABPLANET_DISCOVERY",
-      "HABROCK_DISCOVERY",
-      "HN2_IntroRumor",
-      "HN_MUSEUM_PLATE_INTRO",
-      "HOMEPLANET_DISCOVERY",
-      "HOMESTAR_DISCOVERY",
-      "HUB_PLANET_EXISTENCE_FACT_CCL",
-      "ICEEN_DISCOVERY",
-      "IDIOTREVEAL",
-      "IHTS_LANDING",
-      "JAM3_EXPLORE_FACT",
-      "JAM3_EXPLORE_FACT_2",
-      "JAM_5_BASE_CENTRAL_STATION_EXPLORE_FACT",
-      "JAM_5_BASE_EXPLORE_FACT",
-      "JAM_5_BASE_STARSHIP_COMMUNITY_RUMOR_FACT",
-      "KAMIC_DISCOVERY",
-      "KAMINVERSTAR_DISCOVERY",
-      "LH_ARRIVAL",
-      "LL_RUMOR",
-      "LT_STRANGE_HOUSE_RUMOR",
-      "LUNARLAUGHTER_DISCOVERY",
-      "LUUVA_DISCOVERY",
-      "MAJRITI_RUMOR",
-      "MHOR_LANDING",
-      "MINDSCAPES_DEVICE_RUMOR",
-      "MISFIREDJUMP_LOG_BROKENWARP_INTRO",
-      "MISFIREDJUMP_LOG_BROKENWARP_INTRO_2",
-      "MUGREVEAL",
-      "MULTIN_DISCOVERY",
-      "MYREVEAL",
-      "NHUCLAR_DISCOVERY",
-      "NMIGRATEDPASTURES_DISCOVERY",
-      "NNOMINATEDANOMALY_DISCOVERY",
-      "NREEN_DISCOVERY",
-      "NSCORCHEDFRONTPORCH_DISCOVERY",
-      "NUTS_LANDING",
-      "OEIL_DISCOVERY",
-      "ORCEAN_DISCOVERY",
-      "PINEAPPLE_RUMOR",
-      "PLANETREVEAL",
-      "PMIGRATEDPASTURES_DISCOVERY",
-      "PNOMINATEDANOMALY_DISCOVERY",
-      "PREGULARITY_DISCOVERY",
-      "PSCORCHEDFRONTPORCH_DISCOVERY",
-      "PURPLE_SUN_DISCOVERY",
-      "RANGER_EGGSTAR_RUMOR",
-      "REC_SIGNALS",
-      "REGULARITY_DISCOVERY",
-      "REMINDER_RUMOR",
-      "RESON_LS_RUMOR",
-      "RICO_LANDING",
-      "SAFFAR_RUMOR",
-      "SAMH_RINGS_RUMOR",
-      "SAMH_RUMOR",
-      "SIGNAL_RUMOR",
-      "SOLANUM_START",
-      "SPAREDSTIFLER_DISCOVERY",
-      "SPINEL_QUEST_RUMOR",
-      "SREEF_DISCOVERY",
-      "SS_RUMOR",
-      "STARSHIP_COMMUNITY_RUMOR_FACT",
-      "SUSSY_LANDING",
-      "TIDESREVEAL",
-      "TITAWIN_FACT",
-      "TITAWIN_RUMOR",
-      "TOTINA_DISCOVERY",
-      "TROLL_LANDING",
-      "UILO_DISCOVERY",
-      "UNNAMED_STAR_DISCOVERY",
-      "UPSILON_ANDROMEDAE_B_RUMOR",
-      "UPSILON_ANDROMEDAE_FACT",
-      "VILLAGE_VISITOR_RUMOR",
-      "VISION_TORCH_RUMOR",
-      "VOYGER_LANDING",
-      "WHER_LANDING",
-      "WHER_RUMOR",
-      "WRECKAGE_RUMOR",
-      "WW_TERRARIUM_START",
-      "WYRM_XEN_JAM_4_ARROWS_RUMOR",
-      "WYRM_XEN_JAM_4_DOOR_ONE_IDENTIFY",
-      "WYRM_XEN_JAM_4_INTRO_LOCK",
-      "WYRM_XEN_JAM_4_INTRO_PREQUEL",
-      "WYRM_XEN_JAM_4_MUSIC_RUMOR",
-      "WYRM_XEN_JAM_4_PILLARS_RUMOR",
-      "YILLOW_DISCOVERY",
-      "beaches_log_rumor",
-      "guardian_start_rumor",
-      "north_village_explore"
     ]
   },
   "Skybox.rightPath": {
@@ -12016,35 +10545,9 @@
       "PUZZLE_LOCKBOX_OPEN"
     ]
   },
-  "Vessel.hasPhysics": {
+  "conditionalChecks.then.reversible": {
     "fieldType": "primitive",
     "mods": [
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "false"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "false"
-    ]
-  },
-  "Vessel.vesselSpawn.isRelativeToParent": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "true"
-        ]
-      },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
@@ -12056,109 +10559,108 @@
       "true"
     ]
   },
-  "Vessel.vesselSpawn.rename": {
+  "StarChart.position.x": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "Ender.Beryl.BrightSpark",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "Rename"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Rename"
-    ]
-  },
-  "GlobalMusic.finalEndTimesIntroAudio": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "gany.LiveAndLearn",
-        "values": [
-          "audio/Boss_-_supporting_me.ogg"
+          "-10"
         ]
       },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "planets/assets/FinalEndTimesIntro.mp3"
+          "-10"
         ]
       }
     ],
     "distinctValues": [
-      "audio/Boss_-_supporting_me.ogg",
-      "planets/assets/FinalEndTimesIntro.mp3"
+      "-10"
     ]
   },
-  "GlobalMusic.finalEndTimesLoopAudio": {
+  "StarChart.position.y": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "gany.LiveAndLearn",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "audio/Live_&_Learn.ogg"
+          "-2"
         ]
       },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "planets/assets/FinalEndTimesLoop.mp3"
+          "-10"
         ]
       }
     ],
     "distinctValues": [
-      "audio/Live_&_Learn.ogg",
-      "planets/assets/FinalEndTimesLoop.mp3"
+      "-10",
+      "-2"
     ]
   },
-  "GlobalMusic.finalEndTimesBrambleDimensionAudio": {
+  "Vessel.vesselSpawn.rotation.x": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "gany.LiveAndLearn",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "audio/Live_&_Learn.ogg"
+          "6.2185"
         ]
       },
       {
-        "modName": "xen.NewHorizonsExamples",
+        "modName": "xen.RealSolarSystem",
         "values": [
-          "planets/assets/FinalEndTimesDB.mp3"
+          "0"
         ]
       }
     ],
     "distinctValues": [
-      "audio/Live_&_Learn.ogg",
-      "planets/assets/FinalEndTimesDB.mp3"
+      "0",
+      "6.2185"
     ]
   },
-  "travelAudio": {
+  "Vessel.vesselSpawn.rotation.y": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "hearth1an.Intervention",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "Eye_of_Universe_Ambience_v2_01"
+          "221.6308"
         ]
       },
       {
-        "modName": "JackFoxtrot.CarsonSystem",
+        "modName": "xen.RealSolarSystem",
         "values": [
-          "systems/Pale Blue Dot.wav"
-        ]
-      },
-      {
-        "modName": "smallbug.MedleyOfPlanets",
-        "values": [
-          "planets/assets/audio/travel.wav"
+          "180"
         ]
       }
     ],
     "distinctValues": [
-      "Eye_of_Universe_Ambience_v2_01",
-      "planets/assets/audio/travel.wav",
-      "systems/Pale Blue Dot.wav"
+      "180",
+      "221.6308"
+    ]
+  },
+  "Vessel.vesselSpawn.rotation.z": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "24.7273"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "24.7273"
     ]
   },
   "Skybox.useCube": {
@@ -12199,6 +10701,740 @@
       "true"
     ]
   },
+  "enableTimeLoop": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.Evacuation",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "AsymmetricalCavern.LonesomeLake",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Boreas.Jam5CakeCapere",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Ciborgm9.Espied_Serenity",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "clay.DaylightSavings",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Etherpod.LuminaTerra",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Hawkbar.ArcanumAdrift",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "hearth1an.Intervention",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "hearth1an.TheVision",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "JackFoxtrot.CarsonSystem",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Jam4JokeEntry",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "smallbug.MedleyOfPlanets",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "smallbug.NHJam1",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "Spacepiano.TheSpiralSystem",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Tetraminus.BrokenBalance",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
+    ]
+  },
+  "travelAudio": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "hearth1an.Intervention",
+        "values": [
+          "Eye_of_Universe_Ambience_v2_01"
+        ]
+      },
+      {
+        "modName": "JackFoxtrot.CarsonSystem",
+        "values": [
+          "systems/Pale Blue Dot.wav"
+        ]
+      },
+      {
+        "modName": "smallbug.MedleyOfPlanets",
+        "values": [
+          "planets/assets/audio/travel.wav"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Eye_of_Universe_Ambience_v2_01",
+      "planets/assets/audio/travel.wav",
+      "systems/Pale Blue Dot.wav"
+    ]
+  },
+  "coords.x": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "0",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.KSP",
+        "values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "modName": "O32.KSPOPM",
+        "values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "modName": "O32.Owlystem",
+        "values": [
+          "0",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.Smallest",
+        "values": [
+          "0",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "0",
+          "2"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  "coords.y": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.KSP",
+        "values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "modName": "O32.KSPOPM",
+        "values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "modName": "O32.Owlystem",
+        "values": [
+          "0",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.Smallest",
+        "values": [
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  "coords.z": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.KSP",
+        "values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "modName": "O32.KSPOPM",
+        "values": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "modName": "O32.Owlystem",
+        "values": [
+          "0",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.Smallest",
+        "values": [
+          "0",
+          "2",
+          "5"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "2",
+          "3"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  "vesselPosition.x": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.KSP",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.KSPOPM",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.Owlystem",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.Smallest",
+        "values": [
+          "4000"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "4000"
+    ]
+  },
+  "vesselPosition.y": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.KSP",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.KSPOPM",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.Owlystem",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.Smallest",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0"
+    ]
+  },
+  "vesselPosition.z": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "8000"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "8000"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "8000"
+        ]
+      },
+      {
+        "modName": "O32.KSP",
+        "values": [
+          "8000"
+        ]
+      },
+      {
+        "modName": "O32.KSPOPM",
+        "values": [
+          "8000"
+        ]
+      },
+      {
+        "modName": "O32.Owlystem",
+        "values": [
+          "8000"
+        ]
+      },
+      {
+        "modName": "O32.Smallest",
+        "values": [
+          "4000"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "8000"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "19000"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "19000",
+      "4000",
+      "8000"
+    ]
+  },
+  "returnToSolarSystemWhenTooFar": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.UpsilonAndromedae",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
+    ]
+  },
+  "destroyStockPlanets": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.Evacuation",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Ciborgm9.Espied_Serenity",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Hawkbar.ArcanumAdrift",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "hearth1an.Intervention",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "JackFoxtrot.CarsonSystem",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.Discord",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.Smallest",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Spacepiano.TheSpiralSystem",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Tetraminus.BrokenBalance",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
+    ]
+  },
   "farClipPlaneOverride": {
     "fieldType": "primitive",
     "mods": [
@@ -12211,6 +11447,234 @@
     ],
     "distinctValues": [
       "500000"
+    ]
+  },
+  "Vessel.promptFact": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "NOM_Coords"
+        ]
+      },
+      {
+        "modName": "hearth1an.TheVision",
+        "values": [
+          "HOLOGRAM_CHANGED"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "LEAN_NEBLINA_NOMAI"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "HOLOGRAM_CHANGED",
+      "LEAN_NEBLINA_NOMAI",
+      "NOM_Coords"
+    ]
+  },
+  "mapRestricted": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.Evacuation",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Ciborgm9.Espied_Serenity",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "coderCleric.Mindscapes",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Echatsum.MisfiredJump",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Hawkbar.ArcanumAdrift",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Jam4JokeEntry",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "O32.TimeDialator",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "smallbug.NHJam1",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
+    ]
+  },
+  "factRequiredForWarp": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "HOME_REVEAL"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "WARP_TO_DB_FACT"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor",
+        "values": [
+          "HN_MUSEUM_PLATE_DETAILS"
+        ]
+      },
+      {
+        "modName": "O32.FunnySystem",
+        "values": [
+          "LEAN_NEBLINA_NOMAI"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "RITUAL_RECORDER"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "HN_MUSEUM_PLATE_DETAILS",
+      "HOME_REVEAL",
+      "LEAN_NEBLINA_NOMAI",
+      "RITUAL_RECORDER",
+      "WARP_TO_DB_FACT"
+    ]
+  },
+  "loopDuration": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.Evacuation",
+        "values": [
+          "22"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "33"
+        ]
+      },
+      {
+        "modName": "Boreas.Jam5CakeCapere",
+        "values": [
+          "22"
+        ]
+      },
+      {
+        "modName": "Echatsum.MisfiredJump",
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "66"
+        ]
+      },
+      {
+        "modName": "smallbug.NHJam1",
+        "values": [
+          "15"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "22"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "22"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "15",
+      "22",
+      "33",
+      "66"
     ]
   },
   "Vessel.vesselPosition.x": {
@@ -12273,106 +11737,218 @@
       "8000"
     ]
   },
-  "starSystem": {
+  "warpExitPosition.x": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "O32.ssimaak",
+        "modName": "CantAffordaName.Archipelago",
         "values": [
-          "O32.StarSystems"
+          "0"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "0"
         ]
       }
     ],
     "distinctValues": [
-      "O32.StarSystems"
+      "0"
     ]
   },
-  "Base.surfaceGravity": {
+  "warpExitPosition.y": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "O32.ssimaak",
+        "modName": "CantAffordaName.Archipelago",
         "values": [
-          "0",
-          "12",
-          "15",
-          "21",
-          "3",
-          "50",
-          "6",
-          "9"
+          "0"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "0"
         ]
       }
     ],
     "distinctValues": [
-      "0",
-      "12",
-      "15",
-      "21",
-      "3",
-      "50",
-      "6",
-      "9"
+      "0"
     ]
   },
-  "Base.surfaceSize": {
+  "warpExitPosition.z": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "O32.ssimaak",
+        "modName": "CantAffordaName.Archipelago",
         "values": [
-          "0",
-          "120",
-          "1285",
-          "15",
-          "1539",
-          "177",
-          "196",
-          "202",
-          "2048",
-          "214",
-          "249",
-          "274",
-          "450",
-          "55",
-          "650",
-          "68",
-          "750",
-          "87",
-          "893"
+          "1000"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.SuperWildGalaxy",
+        "values": [
+          "1000"
         ]
       }
     ],
     "distinctValues": [
-      "0",
-      "120",
-      "1285",
-      "15",
-      "1539",
-      "177",
-      "196",
-      "202",
-      "2048",
-      "214",
-      "249",
-      "274",
-      "450",
-      "55",
-      "650",
-      "68",
-      "750",
-      "87",
-      "893"
+      "1000"
     ]
   },
-  "Base.hasMapMarker": {
+  "name": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "O32.ssimaak",
+        "modName": "2walker2.OWJam5ModProject",
         "values": [
-          "false",
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "Boreas.Jam5CakeCapere",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.OnARail",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "Echatsum.MisfiredJump",
+        "values": [
+          "Jam4System"
+        ]
+      },
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "Etherpod.LuminaTerra",
+        "values": [
+          "Hornfel's Discovery"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GreenFlameBlade",
+        "values": [
+          "SolarSystem"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "LeeSpork.ModJam5",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.AnomalyResearchAndContainment",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "orclecle.Jam5PingBox",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "values": [
+          "Interstellar Space"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "TheSignalJammers.FifthModJam",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "Vambok.HearthianParable",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "Jam5"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "xen.EscapeSystem"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Hornfel's Discovery",
+      "Interstellar Space",
+      "Jam4System",
+      "Jam5",
+      "SolarSystem",
+      "xen.EscapeSystem"
+    ]
+  },
+  "canExitViaWarpDrive": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AsymmetricalCavern.LonesomeLake",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Echatsum.MisfiredJump",
+        "values": [
           "true"
+        ]
+      },
+      {
+        "modName": "Etherpod.LuminaTerra",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Jam4JokeEntry",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "false"
         ]
       }
     ],
@@ -12381,1297 +11957,67 @@
       "true"
     ]
   },
-  "Base.gravityFallOff": {
+  "factRequiredToExitViaWarpDrive": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "O32.ssimaak",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "inverseSquared"
+          "HOME_REVEAL"
         ]
       }
     ],
     "distinctValues": [
-      "inverseSquared"
+      "HOME_REVEAL"
     ]
   },
-  "Base.centerOfSolarSystem": {
+  "shipLogStartingPlanetID": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "O32.ssimaak",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "true"
+          "Nearest Neighbor"
         ]
       }
     ],
     "distinctValues": [
-      "true"
+      "Nearest Neighbor"
     ]
   },
-  "Star.size": {
+  "StarChart.disappearanceTime": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "O32.ssimaak",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "1539",
-          "2048",
-          "893"
+          "33"
         ]
       }
     ],
     "distinctValues": [
-      "1539",
-      "2048",
-      "893"
+      "33"
     ]
   },
-  "Star.tint.r": {
+  "Vessel.warpExit.parentPath": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "O32.ssimaak",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "128",
-          "190",
-          "248",
-          "255"
+          "Sector"
         ]
       }
     ],
     "distinctValues": [
-      "128",
-      "190",
-      "248",
-      "255"
+      "Sector"
     ]
   },
-  "Star.tint.g": {
+  "Vessel.warpExit.isRelativeToParent": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "O32.ssimaak",
-        "values": [
-          "104",
-          "176",
-          "187",
-          "217",
-          "89"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "104",
-      "176",
-      "187",
-      "217",
-      "89"
-    ]
-  },
-  "Star.tint.b": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0",
-          "109",
-          "219",
-          "89",
-          "98"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "109",
-      "219",
-      "89",
-      "98"
-    ]
-  },
-  "Star.tint.a": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "255"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "255"
-    ]
-  },
-  "Star.solarLuminosity": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0.8"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0.8"
-    ]
-  },
-  "Star.lightRadius": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "50000"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "50000"
-    ]
-  },
-  "Orbit.semiMajorAxis": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "100000",
-          "12000",
-          "13010",
-          "16000",
-          "16200",
-          "1750",
-          "2092",
-          "2300",
-          "300",
-          "3448",
-          "4000",
-          "450",
-          "5000",
-          "551",
-          "6000",
-          "6510",
-          "7000",
-          "7445",
-          "9260"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "100000",
-      "12000",
-      "13010",
-      "16000",
-      "16200",
-      "1750",
-      "2092",
-      "2300",
-      "300",
-      "3448",
-      "4000",
-      "450",
-      "5000",
-      "551",
-      "6000",
-      "6510",
-      "7000",
-      "7445",
-      "9260"
-    ]
-  },
-  "Orbit.inclination": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "3"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "3"
-    ]
-  },
-  "Orbit.primaryBody": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "Binary Center",
-          "Bright Planet 3",
-          "Bright Sun",
-          "Large Planet",
-          "Orange Binary Center",
-          "Orange Sun",
-          "Prox Planet",
-          "Prox Sun",
-          "Small Planet",
-          "Smol Sun",
-          "Sol",
-          "Water Planet"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Binary Center",
-      "Bright Planet 3",
-      "Bright Sun",
-      "Large Planet",
-      "Orange Binary Center",
-      "Orange Sun",
-      "Prox Planet",
-      "Prox Sun",
-      "Small Planet",
-      "Smol Sun",
-      "Sol",
-      "Water Planet"
-    ]
-  },
-  "Orbit.isMoon": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "false",
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "false",
-      "true"
-    ]
-  },
-  "Orbit.longitudeOfAscendingNode": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0"
-    ]
-  },
-  "Orbit.eccentricity": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0.1",
-          "0.4"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0.1",
-      "0.4"
-    ]
-  },
-  "Orbit.argumentOfPeriapsis": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0",
-          "156",
-          "170",
-          "231",
-          "239",
-          "279",
-          "290",
-          "340",
-          "37",
-          "41",
-          "67"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "156",
-      "170",
-      "231",
-      "239",
-      "279",
-      "290",
-      "340",
-      "37",
-      "41",
-      "67"
-    ]
-  },
-  "Orbit.axialTilt": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "105",
-          "2"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "105",
-      "2"
-    ]
-  },
-  "Orbit.trueAnomaly": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0",
-          "180",
-          "270",
-          "90"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0",
-      "180",
-      "270",
-      "90"
-    ]
-  },
-  "Orbit.siderealPeriod": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "1",
-          "2",
-          "3"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "1",
-      "2",
-      "3"
-    ]
-  },
-  "HeightMap.heightMap": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "planets/assets/blank_heightmap.png",
-          "planets/assets/waterplanet_h.png"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "planets/assets/blank_heightmap.png",
-      "planets/assets/waterplanet_h.png"
-    ]
-  },
-  "HeightMap.textureMap": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "planets/assets/binplanet2.png",
-          "planets/assets/brightmoon.png",
-          "planets/assets/brightplanet1.png",
-          "planets/assets/brightplanet2.png",
-          "planets/assets/brightplanet3.png",
-          "planets/assets/largemoon1.png",
-          "planets/assets/largemoon2.png",
-          "planets/assets/largeplanet.png",
-          "planets/assets/orangeplanet2.png",
-          "planets/assets/orangeplanet3.png",
-          "planets/assets/proxmoon.png",
-          "planets/assets/proxplanet.png",
-          "planets/assets/smallmoon.png",
-          "planets/assets/smallplanet.png",
-          "planets/assets/watermoon.png",
-          "planets/assets/waterplanet.png"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "planets/assets/binplanet2.png",
-      "planets/assets/brightmoon.png",
-      "planets/assets/brightplanet1.png",
-      "planets/assets/brightplanet2.png",
-      "planets/assets/brightplanet3.png",
-      "planets/assets/largemoon1.png",
-      "planets/assets/largemoon2.png",
-      "planets/assets/largeplanet.png",
-      "planets/assets/orangeplanet2.png",
-      "planets/assets/orangeplanet3.png",
-      "planets/assets/proxmoon.png",
-      "planets/assets/proxplanet.png",
-      "planets/assets/smallmoon.png",
-      "planets/assets/smallplanet.png",
-      "planets/assets/watermoon.png",
-      "planets/assets/waterplanet.png"
-    ]
-  },
-  "HeightMap.minHeight": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "120",
-          "161",
-          "177",
-          "196",
-          "214",
-          "249",
-          "274",
-          "348",
-          "516",
-          "534",
-          "55",
-          "68",
-          "87",
-          "966"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "120",
-      "161",
-      "177",
-      "196",
-      "214",
-      "249",
-      "274",
-      "348",
-      "516",
-      "534",
-      "55",
-      "68",
-      "87",
-      "966"
-    ]
-  },
-  "HeightMap.maxHeight": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "120",
-          "161",
-          "177",
-          "196",
-          "214",
-          "249",
-          "274",
-          "348",
-          "516",
-          "55",
-          "554",
-          "68",
-          "87",
-          "966"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "120",
-      "161",
-      "177",
-      "196",
-      "214",
-      "249",
-      "274",
-      "348",
-      "516",
-      "55",
-      "554",
-      "68",
-      "87",
-      "966"
-    ]
-  },
-  "Water.size": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "549"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "549"
-    ]
-  },
-  "Atmosphere.size": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "200",
-          "450",
-          "650",
-          "750"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "200",
-      "450",
-      "650",
-      "750"
-    ]
-  },
-  "Atmosphere.fogSize": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "200",
-          "450",
-          "650",
-          "750"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "200",
-      "450",
-      "650",
-      "750"
-    ]
-  },
-  "Atmosphere.fogDensity": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0.5"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0.5"
-    ]
-  },
-  "Atmosphere.fogTint.r": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "113",
-          "117",
-          "9",
-          "99"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "113",
-      "117",
-      "9",
-      "99"
-    ]
-  },
-  "Atmosphere.fogTint.g": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "137",
-          "89",
-          "95",
-          "98"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "137",
-      "89",
-      "95",
-      "98"
-    ]
-  },
-  "Atmosphere.fogTint.b": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "127",
-          "206",
-          "69",
-          "98"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "127",
-      "206",
-      "69",
-      "98"
-    ]
-  },
-  "Atmosphere.fogTint.a": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "255"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "255"
-    ]
-  },
-  "Atmosphere.atmosphereTint.r": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "113",
-          "117",
-          "9",
-          "99"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "113",
-      "117",
-      "9",
-      "99"
-    ]
-  },
-  "Atmosphere.atmosphereTint.g": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "137",
-          "89",
-          "95",
-          "98"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "137",
-      "89",
-      "95",
-      "98"
-    ]
-  },
-  "Atmosphere.atmosphereTint.b": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "127",
-          "207",
-          "69",
-          "98"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "127",
-      "207",
-      "69",
-      "98"
-    ]
-  },
-  "Atmosphere.atmosphereTint.a": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "255"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "255"
-    ]
-  },
-  "Atmosphere.clouds.cloudsPrefab": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "giantsDeep",
-          "transparent"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "giantsDeep",
-      "transparent"
-    ]
-  },
-  "Atmosphere.clouds.texturePath": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "planets/assets/brightplanet2_gas.png",
-          "planets/assets/brightplanet3_gas.png",
-          "planets/assets/water_gas.png"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "planets/assets/brightplanet2_gas.png",
-      "planets/assets/brightplanet3_gas.png",
-      "planets/assets/water_gas.png"
-    ]
-  },
-  "Atmosphere.clouds.fluidType": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "cloud"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "cloud"
-    ]
-  },
-  "Atmosphere.clouds.innerCloudRadius": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "190",
-          "415",
-          "580",
-          "650"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "190",
-      "415",
-      "580",
-      "650"
-    ]
-  },
-  "Atmosphere.clouds.outerCloudRadius": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "200",
-          "450",
-          "650",
-          "750"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "200",
-      "450",
-      "650",
-      "750"
-    ]
-  },
-  "Atmosphere.clouds.rotationSpeed": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "2",
-          "3",
-          "4"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "2",
-      "3",
-      "4"
-    ]
-  },
-  "Spawn.playerSpawnPoint.x": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0"
-    ]
-  },
-  "Spawn.playerSpawnPoint.y": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0"
-    ]
-  },
-  "Spawn.playerSpawnPoint.z": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "555"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "555"
-    ]
-  },
-  "Spawn.shipSpawnPoint.x": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0"
-    ]
-  },
-  "Spawn.shipSpawnPoint.y": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0"
-    ]
-  },
-  "Spawn.shipSpawnPoint.z": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "555"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "555"
-    ]
-  },
-  "Rings.innerRadius": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "300"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "300"
-    ]
-  },
-  "Rings.outerRadius": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "350"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "350"
-    ]
-  },
-  "Rings.texture": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "planets/assets/watermoon_rings.png"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "planets/assets/watermoon_rings.png"
-    ]
-  },
-  "Rings.inclination": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "0"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0"
-    ]
-  },
-  "FocalPoint.primary": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "Bin Planet 1",
-          "Orange Planet 1"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Bin Planet 1",
-      "Orange Planet 1"
-    ]
-  },
-  "FocalPoint.secondary": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "Bin Planet 2",
-          "Orange Planet 2"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Bin Planet 2",
-      "Orange Planet 2"
-    ]
-  },
-  "Sand.size": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "196",
-          "202"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "196",
-      "202"
-    ]
-  },
-  "Sand.tint.r": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "202",
-          "248"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "202",
-      "248"
-    ]
-  },
-  "Sand.tint.g": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "203",
-          "248"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "203",
-      "248"
-    ]
-  },
-  "Sand.tint.b": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "209",
-          "248"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "209",
-      "248"
-    ]
-  },
-  "Sand.tint.a": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "255"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "255"
-    ]
-  },
-  "Atmosphere.clouds.tint.r": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "113"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "113"
-    ]
-  },
-  "Atmosphere.clouds.tint.g": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "89"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "89"
-    ]
-  },
-  "Atmosphere.clouds.tint.b": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "69"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "69"
-    ]
-  },
-  "Atmosphere.clouds.tint.a": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "255"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "255"
-    ]
-  },
-  "Orbit.trackingOrbitLine": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "true"
-    ]
-  },
-  "Orbit.tint.r": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "50"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "50"
-    ]
-  },
-  "Orbit.tint.g": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "50"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "50"
-    ]
-  },
-  "Orbit.tint.b": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "50"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "50"
-    ]
-  },
-  "Orbit.tint.a": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "255"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "255"
-    ]
-  },
-  "Props.singularities.size": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "15"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "15"
-    ]
-  },
-  "Props.singularities.type": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "blackHole",
-          "whiteHole"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "blackHole",
-      "whiteHole"
-    ]
-  },
-  "Props.singularities.pairedSingularity": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
-        "values": [
-          "Exit: Bright to Orange",
-          "Exit: Orange to Smol",
-          "Exit: Prox to Bright",
-          "Exit: Smol to Sol",
-          "Exit: Sol to Prox",
-          "Warp: Bright to Orange",
-          "Warp: Orange to Smol",
-          "Warp: Prox to Bright",
-          "Warp: Smol to Sol",
-          "Warp: Sol to Prox"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Exit: Bright to Orange",
-      "Exit: Orange to Smol",
-      "Exit: Prox to Bright",
-      "Exit: Smol to Sol",
-      "Exit: Sol to Prox",
-      "Warp: Bright to Orange",
-      "Warp: Orange to Smol",
-      "Warp: Prox to Bright",
-      "Warp: Smol to Sol",
-      "Warp: Sol to Prox"
-    ]
-  },
-  "ShipLog.mapMode.remove": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "O32.ssimaak",
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
           "true"
         ]
@@ -13695,60 +12041,18 @@
       "true"
     ]
   },
-  "GlobalMusic.endTimesDreamAudio": {
+  "Vessel.vesselSpawn.rename": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "xen.NewHorizonsExamples",
+        "modName": "Ender.Beryl.BrightSpark",
         "values": [
-          "planets/assets/EndTimesMuted.mp3"
+          "Rename"
         ]
       }
     ],
     "distinctValues": [
-      "planets/assets/EndTimesMuted.mp3"
-    ]
-  },
-  "GlobalMusic.brambleDimensionAudio": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "planets/assets/BrambleDimension.mp3"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "planets/assets/BrambleDimension.mp3"
-    ]
-  },
-  "Vessel.warpExit.alignRadial": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "true"
-    ]
-  },
-  "conditionalChecks.then.reversible": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "true"
+      "Rename"
     ]
   }
 }

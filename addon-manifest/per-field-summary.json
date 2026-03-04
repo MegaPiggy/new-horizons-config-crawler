@@ -1,4 +1,445 @@
 {
+  "$schema": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.OWJam4ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "almaz5200.EskerIceCream",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.WarpToVessel",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "APOLLO.939sPlanetdotSTRUCTURE",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "artificialparanoia.Divergence",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AsymmetricalCavern.LonesomeLake",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "atk.IntactMod2",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "atk.ObtuseClues",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Boreas.Jam5CakeCapere",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Boreas.ScavengerHunt",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.OnARail",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.TesseractsSecret",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "coderCleric.JamHub",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "coderCleric.Mindscapes",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CreativeNameTxt.OrbitTest",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Echatsum.MisfiredJump",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.LuminaTerra",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.T0187",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "FunkyShoeMan.ErnestoTakeover",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.SymbiosisShipLogs",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "gany.LiveAndLearn",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GreenFlameBlade",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.SolarRangers",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.TheSurvivors",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.ChristmasStory",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.Intervention",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.Origins",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.TheVision",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.AnomalyResearchAndContainment",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Axiom",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Jam4JokeEntry",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "OmegaFallon.ReactiveHearthians",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Onbvb.catastrophe",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.Finis",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.Guardian",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.Jam5PingBox",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.BandTogether",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.EotUFly",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "SpatialXX.ShipAlarm",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamMitis.Liaison",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Tebmn.MoreToHear",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TerrificTrifid.ShipBallpit",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TheSignalJammers.FifthModJam",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Trifid.TrifidJam3",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Trifid.TrifidJam5",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Vambok.HearthianParable",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Vambok.NomaiSky",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.Dreamstalker",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizons",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.PlayAsGabbro",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.TalkToPrisoner",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.UnofficialJam3Entry",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json",
+      "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+    ]
+  },
   "credits": {
     "fieldType": "array",
     "mods": [
@@ -903,769 +1344,6 @@
       "yakamot03#Japanese Localization"
     ]
   },
-  "popupMessage": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "2walker2.Evacuation",
-        "values": [
-          "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file."
-        ]
-      },
-      {
-        "modName": "2walker2.OWJam4ModProject",
-        "values": [
-          "A new exhibit has been added to the museum."
-        ]
-      },
-      {
-        "modName": "2walker2.OWJam5ModProject",
-        "values": [
-          "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary."
-        ]
-      },
-      {
-        "modName": "CantAffordaName.TesseractsSecret",
-        "values": [
-          "Thanks for downloading Tesseract's Secret!\nCheck your ship log to begin!"
-        ]
-      },
-      {
-        "modName": "coderCleric.Mindscapes",
-        "values": [
-          "MINDSCAPES:\nA new exhibit has been added to the observatory."
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor2",
-        "values": [
-          "$HN2StartupPrompt"
-        ]
-      },
-      {
-        "modName": "Hawkbar.TheSurvivors",
-        "values": [
-          "A new adventure awaits you starting at the Vessel!"
-        ]
-      },
-      {
-        "modName": "hearth1an.ChristmasStory",
-        "values": [
-          "MOD_POPUP"
-        ]
-      },
-      {
-        "modName": "hearth1an.Origins",
-        "values": [
-          "MOD_POPUP"
-        ]
-      },
-      {
-        "modName": "hearth1an.TheVision",
-        "values": [
-          "THE_VISION_POPUP"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "Thank you for downloading Fret's Quest! Someone is waiting for you in the Village near the geysers."
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianFishing",
-        "values": [
-          "MAIN_MENU_POPUP"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianGolf",
-        "values": [
-          "MAIN_MENU_POPUP"
-        ]
-      },
-      {
-        "modName": "TeamErnesto.OWJam3ModProject",
-        "values": [
-          "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended."
-        ]
-      },
-      {
-        "modName": "Trifid.QuasarProject",
-        "values": [
-          "The Quasar Project has a certain mechanic that is graphically intensive; when you reach it, you can adjust its quality in the mod settings."
-        ]
-      },
-      {
-        "modName": "Turtle.FunDayOff",
-        "values": [
-          "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!"
-        ]
-      },
-      {
-        "modName": "Walker.AstralCodex",
-        "values": [
-          "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed."
-        ]
-      },
-      {
-        "modName": "xen.Dreamstalker",
-        "values": [
-          "DREAMSTALKER_POPUP"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "WYRM_XEN_JAM_4_POPUP"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "$HN2StartupPrompt",
-      "A new adventure awaits you starting at the Vessel!",
-      "A new exhibit has been added to the museum.",
-      "DREAMSTALKER_POPUP",
-      "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!",
-      "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary.",
-      "MAIN_MENU_POPUP",
-      "MINDSCAPES:\nA new exhibit has been added to the observatory.",
-      "MOD_POPUP",
-      "THE_VISION_POPUP",
-      "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed.",
-      "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file.",
-      "Thank you for downloading Fret's Quest! Someone is waiting for you in the Village near the geysers.",
-      "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended.",
-      "Thanks for downloading Tesseract's Secret!\nCheck your ship log to begin!",
-      "The Quasar Project has a certain mechanic that is graphically intensive; when you reach it, you can adjust its quality in the mod settings.",
-      "WYRM_XEN_JAM_4_POPUP"
-    ]
-  },
-  "$schema": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "2walker2.OWJam4ModProject",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "2walker2.OWJam5ModProject",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "almaz5200.EskerIceCream",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "AnonymousStrangerOW.WarpToVessel",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "APOLLO.939sPlanetdotSTRUCTURE",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "artificialparanoia.Divergence",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "AsymmetricalCavern.LonesomeLake",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "atk.IntactMod2",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "atk.ObtuseClues",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Boreas.Jam5CakeCapere",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Boreas.ScavengerHunt",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.OnARail",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.TesseractsSecret",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "cleric.DeepBramble",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "coderCleric.JamHub",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "coderCleric.Mindscapes",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "CreativeNameTxt.OrbitTest",
-        "values": [
-          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Echatsum.MisfiredJump",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Etherpod.LuminaTerra",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Etherpod.T0187",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "FunkyShoeMan.ErnestoTakeover",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor2",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "GameWyrm.SymbiosisShipLogs",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "gany.LiveAndLearn",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.GreenFlameBlade",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.SolarRangers",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.Terrarium",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Hawkbar.TheSurvivors",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.ChristmasStory",
-        "values": [
-          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.Intervention",
-        "values": [
-          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.Origins",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "hearth1an.TheVision",
-        "values": [
-          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.AnomalyResearchAndContainment",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Axiom",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Jam4JokeEntry",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "OmegaFallon.ReactiveHearthians",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Onbvb.catastrophe",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "orclecle.Finis",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "orclecle.Guardian",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "orclecle.Jam5PingBox",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.BandTogether",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "pikpik_carrot.EotUFly",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianFishing",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianGolf",
-        "values": [
-          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "SpatialXX.ShipAlarm",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TeamErnesto.OWJam3ModProject",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TeamGeswaldo.Jam5",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TeamMitis.Liaison",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Tebmn.MoreToHear",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TerrificTrifid.ShipBallpit",
-        "values": [
-          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TheLoweDown256.TLDJam5",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "TheSignalJammers.FifthModJam",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Trifid.QuasarProject",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Trifid.TrifidJam3",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Trifid.TrifidJam5",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Vambok.HearthianParable",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "Vambok.NomaiSky",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen-42.ModJam5",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.Dreamstalker",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.ModJam3",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizons",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.PlayAsGabbro",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.RealSolarSystem",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.TalkToPrisoner",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      },
-      {
-        "modName": "xen.UnofficialJam3Entry",
-        "values": [
-          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json",
-      "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
-    ]
-  },
-  "subtitlePath": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "2walker2.OWJam4ModProject",
-        "values": [
-          "assets/Root_Access_Subtitle.png"
-        ]
-      },
-      {
-        "modName": "Hawkbar.GreenFlameBlade",
-        "values": [
-          "subtitle.png"
-        ]
-      },
-      {
-        "modName": "Hawkbar.Terrarium",
-        "values": [
-          "subtitle.png"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Axiom",
-        "values": [
-          "subtitle.png"
-        ]
-      },
-      {
-        "modName": "Onbvb.catastrophe",
-        "values": [
-          "planets/textures/subtitle.png"
-        ]
-      },
-      {
-        "modName": "TeamErnesto.OWJam3ModProject",
-        "values": [
-          "planets/assets/Subtitle.png"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "assets/Root_Access_Subtitle.png",
-      "planets/assets/Subtitle.png",
-      "planets/textures/subtitle.png",
-      "subtitle.png"
-    ]
-  },
-  "preloadAssetBundles": {
-    "fieldType": "array",
-    "mods": [
-      {
-        "modName": "2walker2.OWJam5ModProject",
-        "values": [
-          "planets/assets/walker_jam5_assets",
-          "planets/assets/walker_jam5_assets2",
-          "planets/assets/walker_jam5_bundle"
-        ]
-      },
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "assets/AssetBundle/postcredits",
-          "assets/AssetBundle/strangerbundle"
-        ]
-      },
-      {
-        "modName": "CantAffordaName.OnARail",
-        "values": [
-          "planets/assetbundle/onarail"
-        ]
-      },
-      {
-        "modName": "cleric.DeepBramble",
-        "values": [
-          "assetbundles/castaways_assets1",
-          "assetbundles/castaways_assets2"
-        ]
-      },
-      {
-        "modName": "coderCleric.JamHub",
-        "values": [
-          "assetbundles/cleric_jamhub_assets1",
-          "assetbundles/cleric_jamhub_assets2",
-          "assetbundles/cleric_jamhub_assets3",
-          "assetbundles/cleric_jamhub_assets4",
-          "assetbundles/cleric_jamhub_bundle",
-          "assetbundles/cleric_jamhub_textandbanners"
-        ]
-      },
-      {
-        "modName": "GameWyrm.HearthsNeighbor2",
-        "values": [
-          "assets/magistration-assets/animations",
-          "assets/magistration-assets/music",
-          "assets/magistration-assets/text",
-          "assets/magistration-assets/textures-original",
-          "assets/magistration-assets/texturesow-a",
-          "assets/magistration-assets/texturesow-b"
-        ]
-      },
-      {
-        "modName": "Hawkbar.GreenFlameBlade",
-        "values": [
-          "assetbundles/greenflameblade"
-        ]
-      },
-      {
-        "modName": "Hawkbar.Terrarium",
-        "values": [
-          "planets/assetbundles/terrarium"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.AnomalyResearchAndContainment",
-        "values": [
-          "planets/anomalyresearch.rem"
-        ]
-      },
-      {
-        "modName": "MegaPiggy.Axiom",
-        "values": [
-          "planets/axiomaicale.rem"
-        ]
-      },
-      {
-        "modName": "TheLoweDown256.TLDJam5",
-        "values": [
-          "assets/shrinkingplanet"
-        ]
-      },
-      {
-        "modName": "TheSignalJammers.FifthModJam",
-        "values": [
-          "planets/assets/AssetBundle/jam5"
-        ]
-      },
-      {
-        "modName": "Trifid.TrifidJam5",
-        "values": [
-          "planets/trifid_jam5"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "assets/bundles/assets",
-          "assets/bundles/structure_nom",
-          "assets/bundles/structure_stranger"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "assetbundles/castaways_assets1",
-      "assetbundles/castaways_assets2",
-      "assetbundles/cleric_jamhub_assets1",
-      "assetbundles/cleric_jamhub_assets2",
-      "assetbundles/cleric_jamhub_assets3",
-      "assetbundles/cleric_jamhub_assets4",
-      "assetbundles/cleric_jamhub_bundle",
-      "assetbundles/cleric_jamhub_textandbanners",
-      "assetbundles/greenflameblade",
-      "assets/AssetBundle/postcredits",
-      "assets/AssetBundle/strangerbundle",
-      "assets/bundles/assets",
-      "assets/bundles/structure_nom",
-      "assets/bundles/structure_stranger",
-      "assets/magistration-assets/animations",
-      "assets/magistration-assets/music",
-      "assets/magistration-assets/text",
-      "assets/magistration-assets/textures-original",
-      "assets/magistration-assets/texturesow-a",
-      "assets/magistration-assets/texturesow-b",
-      "assets/shrinkingplanet",
-      "planets/anomalyresearch.rem",
-      "planets/assetbundle/onarail",
-      "planets/assetbundles/terrarium",
-      "planets/assets/AssetBundle/jam5",
-      "planets/assets/walker_jam5_assets",
-      "planets/assets/walker_jam5_assets2",
-      "planets/assets/walker_jam5_bundle",
-      "planets/axiomaicale.rem",
-      "planets/trifid_jam5"
-    ]
-  },
   "achievements.ID": {
     "fieldType": "primitive",
     "mods": [
@@ -1867,6 +1545,78 @@
       "true"
     ]
   },
+  "achievements.signalIDs": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "Lure Distress Signal"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "Aquarius",
+          "Cassini",
+          "Europa Clipper",
+          "Hubble Space Telescope",
+          "Huygens",
+          "International Space Station",
+          "Jupiter Icy Moons Explorer",
+          "Laplace-P",
+          "Lunar Reconnaissance Orbiter",
+          "MESSENGER",
+          "Mars Odyssey",
+          "Neptune Odyssey",
+          "Parker Solar Probe",
+          "Perseverance",
+          "Pioneer 10",
+          "Pioneer 11",
+          "Uranus Orbiter",
+          "Venera 9",
+          "Voyager 1",
+          "Voyager 2"
+        ]
+      },
+      {
+        "modName": "xen.SignalsPlus",
+        "values": [
+          "SIGNAL_CINDER_ISLES",
+          "SIGNAL_HIDDEN_GORGE",
+          "SIGNAL_RIVER_LOWLANDS",
+          "SIGNAL_SUBMERGED_STRUCTURE"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Aquarius",
+      "Cassini",
+      "Europa Clipper",
+      "Hubble Space Telescope",
+      "Huygens",
+      "International Space Station",
+      "Jupiter Icy Moons Explorer",
+      "Laplace-P",
+      "Lunar Reconnaissance Orbiter",
+      "Lure Distress Signal",
+      "MESSENGER",
+      "Mars Odyssey",
+      "Neptune Odyssey",
+      "Parker Solar Probe",
+      "Perseverance",
+      "Pioneer 10",
+      "Pioneer 11",
+      "SIGNAL_CINDER_ISLES",
+      "SIGNAL_HIDDEN_GORGE",
+      "SIGNAL_RIVER_LOWLANDS",
+      "SIGNAL_SUBMERGED_STRUCTURE",
+      "Uranus Orbiter",
+      "Venera 9",
+      "Voyager 1",
+      "Voyager 2"
+    ]
+  },
   "achievements.conditionIDs": {
     "fieldType": "array",
     "mods": [
@@ -1946,219 +1696,6 @@
       "tsta_reunion",
       "tsta_sudormrf",
       "tsta_thevision"
-    ]
-  },
-  "gameOver.creditsType": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "none"
-        ]
-      },
-      {
-        "modName": "TheLoweDown256.TLDJam5",
-        "values": [
-          "none"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "custom",
-          "none"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "custom",
-      "none"
-    ]
-  },
-  "gameOver.text": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "..and so they left, with a glimmer of hope."
-        ]
-      },
-      {
-        "modName": "TheLoweDown256.TLDJam5",
-        "values": [
-          "CORE COLLAPSE"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "Time for custom credits music!",
-          "You made Bob die this loop why did you do that?"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "..and so they left, with a glimmer of hope.",
-      "CORE COLLAPSE",
-      "Time for custom credits music!",
-      "You made Bob die this loop why did you do that?"
-    ]
-  },
-  "gameOver.condition": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "BRIGHTSPARK_ENDING_1"
-        ]
-      },
-      {
-        "modName": "TheLoweDown256.TLDJam5",
-        "values": [
-          "TLD256_SHOW_ENDSCREEN"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "EXAMPLES_GHOST_BIRD_DIED",
-          "EXAMPLES_SHOW_CUSTOM_CREDITS"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "BRIGHTSPARK_ENDING_1",
-      "EXAMPLES_GHOST_BIRD_DIED",
-      "EXAMPLES_SHOW_CUSTOM_CREDITS",
-      "TLD256_SHOW_ENDSCREEN"
-    ]
-  },
-  "gameOver.audio": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "OW New Raft Music 082321_4 AP theme"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "OW New Raft Music 082321_4 AP theme"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "OW New Raft Music 082321_4 AP theme"
-    ]
-  },
-  "gameOver.audioVolume": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "0.75"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "0.75"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "0.75"
-    ]
-  },
-  "gameOver.length": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "120"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "120"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "120"
-    ]
-  },
-  "gameOver.audioLooping": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "Ender.Beryl.BrightSpark",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "xen.NewHorizonsExamples",
-        "values": [
-          "true"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "true"
-    ]
-  },
-  "repeatPopup": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "GameWyrm.HearthsNeighbor2",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Samster68.FretsQuest",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianFishing",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Samster68.HearthianGolf",
-        "values": [
-          "false"
-        ]
-      },
-      {
-        "modName": "Trifid.QuasarProject",
-        "values": [
-          "true"
-        ]
-      },
-      {
-        "modName": "xen.EscapeRoomJam4",
-        "values": [
-          "false"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "false",
-      "true"
     ]
   },
   "achievements.factIDs": {
@@ -2289,132 +1826,34 @@
       "WARPING_COD_CAUGHT_FACT"
     ]
   },
-  "gameOver.colour.r": {
+  "gameOver.text": {
     "fieldType": "primitive",
     "mods": [
       {
-        "modName": "TheLoweDown256.TLDJam5",
+        "modName": "Ender.Beryl.BrightSpark",
         "values": [
-          "105"
+          "..and so they left, with a glimmer of hope."
         ]
-      }
-    ],
-    "distinctValues": [
-      "105"
-    ]
-  },
-  "gameOver.colour.g": {
-    "fieldType": "primitive",
-    "mods": [
+      },
       {
         "modName": "TheLoweDown256.TLDJam5",
         "values": [
-          "95"
+          "CORE COLLAPSE"
         ]
-      }
-    ],
-    "distinctValues": [
-      "95"
-    ]
-  },
-  "gameOver.colour.b": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "TheLoweDown256.TLDJam5",
-        "values": [
-          "255"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "255"
-    ]
-  },
-  "gameOver.colour.a": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "TheLoweDown256.TLDJam5",
-        "values": [
-          "255"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "255"
-    ]
-  },
-  "achievements.signalIDs": {
-    "fieldType": "array",
-    "mods": [
+      },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "Lure Distress Signal"
-        ]
-      },
-      {
-        "modName": "xen.RealSolarSystem",
-        "values": [
-          "Aquarius",
-          "Cassini",
-          "Europa Clipper",
-          "Hubble Space Telescope",
-          "Huygens",
-          "International Space Station",
-          "Jupiter Icy Moons Explorer",
-          "Laplace-P",
-          "Lunar Reconnaissance Orbiter",
-          "MESSENGER",
-          "Mars Odyssey",
-          "Neptune Odyssey",
-          "Parker Solar Probe",
-          "Perseverance",
-          "Pioneer 10",
-          "Pioneer 11",
-          "Uranus Orbiter",
-          "Venera 9",
-          "Voyager 1",
-          "Voyager 2"
-        ]
-      },
-      {
-        "modName": "xen.SignalsPlus",
-        "values": [
-          "SIGNAL_CINDER_ISLES",
-          "SIGNAL_HIDDEN_GORGE",
-          "SIGNAL_RIVER_LOWLANDS",
-          "SIGNAL_SUBMERGED_STRUCTURE"
+          "Time for custom credits music!",
+          "You made Bob die this loop why did you do that?"
         ]
       }
     ],
     "distinctValues": [
-      "Aquarius",
-      "Cassini",
-      "Europa Clipper",
-      "Hubble Space Telescope",
-      "Huygens",
-      "International Space Station",
-      "Jupiter Icy Moons Explorer",
-      "Laplace-P",
-      "Lunar Reconnaissance Orbiter",
-      "Lure Distress Signal",
-      "MESSENGER",
-      "Mars Odyssey",
-      "Neptune Odyssey",
-      "Parker Solar Probe",
-      "Perseverance",
-      "Pioneer 10",
-      "Pioneer 11",
-      "SIGNAL_CINDER_ISLES",
-      "SIGNAL_HIDDEN_GORGE",
-      "SIGNAL_RIVER_LOWLANDS",
-      "SIGNAL_SUBMERGED_STRUCTURE",
-      "Uranus Orbiter",
-      "Venera 9",
-      "Voyager 1",
-      "Voyager 2"
+      "..and so they left, with a glimmer of hope.",
+      "CORE COLLAPSE",
+      "Time for custom credits music!",
+      "You made Bob die this loop why did you do that?"
     ]
   },
   "gameOver.colour.R": {
@@ -2464,6 +1903,567 @@
     "mods": [
       {
         "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "255"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "255"
+    ]
+  },
+  "gameOver.condition": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "BRIGHTSPARK_ENDING_1"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "TLD256_SHOW_ENDSCREEN"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "EXAMPLES_GHOST_BIRD_DIED",
+          "EXAMPLES_SHOW_CUSTOM_CREDITS"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "BRIGHTSPARK_ENDING_1",
+      "EXAMPLES_GHOST_BIRD_DIED",
+      "EXAMPLES_SHOW_CUSTOM_CREDITS",
+      "TLD256_SHOW_ENDSCREEN"
+    ]
+  },
+  "gameOver.creditsType": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "none"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "none"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "custom",
+          "none"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "custom",
+      "none"
+    ]
+  },
+  "gameOver.audio": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "OW New Raft Music 082321_4 AP theme"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "OW New Raft Music 082321_4 AP theme"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "OW New Raft Music 082321_4 AP theme"
+    ]
+  },
+  "gameOver.audioVolume": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "0.75"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "0.75"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0.75"
+    ]
+  },
+  "gameOver.audioLooping": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
+    ]
+  },
+  "gameOver.length": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "120"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "120"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "120"
+    ]
+  },
+  "popupMessage": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.Evacuation",
+        "values": [
+          "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file."
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam4ModProject",
+        "values": [
+          "A new exhibit has been added to the museum."
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary."
+        ]
+      },
+      {
+        "modName": "CantAffordaName.TesseractsSecret",
+        "values": [
+          "Thanks for downloading Tesseract's Secret!\nCheck your ship log to begin!"
+        ]
+      },
+      {
+        "modName": "coderCleric.Mindscapes",
+        "values": [
+          "MINDSCAPES:\nA new exhibit has been added to the observatory."
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "$HN2StartupPrompt"
+        ]
+      },
+      {
+        "modName": "Hawkbar.TheSurvivors",
+        "values": [
+          "A new adventure awaits you starting at the Vessel!"
+        ]
+      },
+      {
+        "modName": "hearth1an.ChristmasStory",
+        "values": [
+          "MOD_POPUP"
+        ]
+      },
+      {
+        "modName": "hearth1an.Origins",
+        "values": [
+          "MOD_POPUP"
+        ]
+      },
+      {
+        "modName": "hearth1an.TheVision",
+        "values": [
+          "THE_VISION_POPUP"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "Thank you for downloading Fret's Quest! Someone is waiting for you in the Village near the geysers."
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "MAIN_MENU_POPUP"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "MAIN_MENU_POPUP"
+        ]
+      },
+      {
+        "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended."
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "The Quasar Project has a certain mechanic that is graphically intensive; when you reach it, you can adjust its quality in the mod settings."
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!"
+        ]
+      },
+      {
+        "modName": "Walker.AstralCodex",
+        "values": [
+          "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed."
+        ]
+      },
+      {
+        "modName": "xen.Dreamstalker",
+        "values": [
+          "DREAMSTALKER_POPUP"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "WYRM_XEN_JAM_4_POPUP"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "$HN2StartupPrompt",
+      "A new adventure awaits you starting at the Vessel!",
+      "A new exhibit has been added to the museum.",
+      "DREAMSTALKER_POPUP",
+      "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!",
+      "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary.",
+      "MAIN_MENU_POPUP",
+      "MINDSCAPES:\nA new exhibit has been added to the observatory.",
+      "MOD_POPUP",
+      "THE_VISION_POPUP",
+      "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed.",
+      "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file.",
+      "Thank you for downloading Fret's Quest! Someone is waiting for you in the Village near the geysers.",
+      "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended.",
+      "Thanks for downloading Tesseract's Secret!\nCheck your ship log to begin!",
+      "The Quasar Project has a certain mechanic that is graphically intensive; when you reach it, you can adjust its quality in the mod settings.",
+      "WYRM_XEN_JAM_4_POPUP"
+    ]
+  },
+  "repeatPopup": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "false"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
+    ]
+  },
+  "preloadAssetBundles": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          "planets/assets/walker_jam5_assets",
+          "planets/assets/walker_jam5_assets2",
+          "planets/assets/walker_jam5_bundle"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "assets/AssetBundle/postcredits",
+          "assets/AssetBundle/strangerbundle"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.OnARail",
+        "values": [
+          "planets/assetbundle/onarail"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "assetbundles/castaways_assets1",
+          "assetbundles/castaways_assets2"
+        ]
+      },
+      {
+        "modName": "coderCleric.JamHub",
+        "values": [
+          "assetbundles/cleric_jamhub_assets1",
+          "assetbundles/cleric_jamhub_assets2",
+          "assetbundles/cleric_jamhub_assets3",
+          "assetbundles/cleric_jamhub_assets4",
+          "assetbundles/cleric_jamhub_bundle",
+          "assetbundles/cleric_jamhub_textandbanners"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "assets/magistration-assets/animations",
+          "assets/magistration-assets/music",
+          "assets/magistration-assets/text",
+          "assets/magistration-assets/textures-original",
+          "assets/magistration-assets/texturesow-a",
+          "assets/magistration-assets/texturesow-b"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GreenFlameBlade",
+        "values": [
+          "assetbundles/greenflameblade"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "planets/assetbundles/terrarium"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.AnomalyResearchAndContainment",
+        "values": [
+          "planets/anomalyresearch.rem"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Axiom",
+        "values": [
+          "planets/axiomaicale.rem"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "assets/shrinkingplanet"
+        ]
+      },
+      {
+        "modName": "TheSignalJammers.FifthModJam",
+        "values": [
+          "planets/assets/AssetBundle/jam5"
+        ]
+      },
+      {
+        "modName": "Trifid.TrifidJam5",
+        "values": [
+          "planets/trifid_jam5"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "assets/bundles/assets",
+          "assets/bundles/structure_nom",
+          "assets/bundles/structure_stranger"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "assetbundles/castaways_assets1",
+      "assetbundles/castaways_assets2",
+      "assetbundles/cleric_jamhub_assets1",
+      "assetbundles/cleric_jamhub_assets2",
+      "assetbundles/cleric_jamhub_assets3",
+      "assetbundles/cleric_jamhub_assets4",
+      "assetbundles/cleric_jamhub_bundle",
+      "assetbundles/cleric_jamhub_textandbanners",
+      "assetbundles/greenflameblade",
+      "assets/AssetBundle/postcredits",
+      "assets/AssetBundle/strangerbundle",
+      "assets/bundles/assets",
+      "assets/bundles/structure_nom",
+      "assets/bundles/structure_stranger",
+      "assets/magistration-assets/animations",
+      "assets/magistration-assets/music",
+      "assets/magistration-assets/text",
+      "assets/magistration-assets/textures-original",
+      "assets/magistration-assets/texturesow-a",
+      "assets/magistration-assets/texturesow-b",
+      "assets/shrinkingplanet",
+      "planets/anomalyresearch.rem",
+      "planets/assetbundle/onarail",
+      "planets/assetbundles/terrarium",
+      "planets/assets/AssetBundle/jam5",
+      "planets/assets/walker_jam5_assets",
+      "planets/assets/walker_jam5_assets2",
+      "planets/assets/walker_jam5_bundle",
+      "planets/axiomaicale.rem",
+      "planets/trifid_jam5"
+    ]
+  },
+  "subtitlePath": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.OWJam4ModProject",
+        "values": [
+          "assets/Root_Access_Subtitle.png"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GreenFlameBlade",
+        "values": [
+          "subtitle.png"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "subtitle.png"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Axiom",
+        "values": [
+          "subtitle.png"
+        ]
+      },
+      {
+        "modName": "Onbvb.catastrophe",
+        "values": [
+          "planets/textures/subtitle.png"
+        ]
+      },
+      {
+        "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "planets/assets/Subtitle.png"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "assets/Root_Access_Subtitle.png",
+      "planets/assets/Subtitle.png",
+      "planets/textures/subtitle.png",
+      "subtitle.png"
+    ]
+  },
+  "gameOver.colour.r": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "105"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "105"
+    ]
+  },
+  "gameOver.colour.g": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "95"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "95"
+    ]
+  },
+  "gameOver.colour.b": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "255"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "255"
+    ]
+  },
+  "gameOver.colour.a": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheLoweDown256.TLDJam5",
         "values": [
           "255"
         ]
