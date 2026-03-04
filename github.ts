@@ -12,7 +12,7 @@ const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
 })
 
-export async function fetchAndLoadModsFromGitHub(ctx: AnalysisContext) {
+export async function fetchAndLoadModsFromGitHub(ctx: AnalysisContext, skipLocalCache: boolean) {
     console.log('Fetching mods from GitHub...')
     
     const modCacheRootDir = `${process.cwd()}/mod-cache`
@@ -89,7 +89,7 @@ export async function fetchAndLoadModsFromGitHub(ctx: AnalysisContext) {
             // If we already have this version cached, skip further processing
             const version = manifest.version || '0.0.0'
             const modCacheDir = `${modCacheRootDir}/${mod.uniqueName}/${version}`
-            if (await exists(modCacheDir)) {
+            if (!skipLocalCache && await exists(modCacheDir)) {
                 console.log(`Mod ${mod.uniqueName} version ${version} is already cached, skipping`)
                 continue
             }

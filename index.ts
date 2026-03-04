@@ -13,6 +13,6 @@ if (!SKIP_LOCAL_CACHE) {
     await loadModsFromCache(ctx, EXTERNAL_CACHE)
 }
 if (!LOCAL_CACHE_ONLY) {
-    await fetchAndLoadModsFromGitHub(ctx)
+    await fetchAndLoadModsFromGitHub(ctx, SKIP_LOCAL_CACHE)
 }
 await analyzeModConfigs(ctx)
